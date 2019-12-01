@@ -1,0 +1,29 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="f" x1="10.798" x2="10.798" y1="282.88" y2="283.29" gradientTransform="matrix(1.0543 0 0 .55499 -3.3237 125.99)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="a">
+   <stop stop-color="#969696" offset="0"/>
+   <stop stop-color="#e6e6e6" stop-opacity=".90196" offset="1"/>
+  </linearGradient>
+  <linearGradient id="g" x1="8.8166" x2="8.8166" y1="293.7" y2="294.12" gradientTransform="matrix(.94579 0 0 .555 .28524 130.86)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="e" x1="7.998" x2="7.998" y1="284.98" y2="285.41" gradientTransform="matrix(.94579 0 0 .555 .49316 126.98)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="d" x1="8.7643" x2="8.7643" y1="287.18" y2="287.64" gradientTransform="matrix(.94579 0 0 .555 .48658 127.95)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="c" x1="8.3178" x2="8.3178" y1="289.36" y2="289.81" gradientTransform="matrix(.94579 0 0 .555 .46856 128.92)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="b" x1="8.2553" x2="8.2553" y1="291.55" y2="291.96" gradientTransform="matrix(.94579 0 0 .55502 .57869 129.88)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ </defs>
+ <g transform="translate(0 -280.07)">
+  <g>
+   <circle cx="8.4935" cy="288.8" r="7.9375" opacity=".2" stroke-width=".14032"/>
+   <circle cx="8.4935" cy="288.53" r="7.9375" fill="#fafafa" style="paint-order:normal"/>
+   <path d="m3.1182 283.02c-0.042211 0.0443-0.078974 0.0835-0.13658 0.14895l11.024 9.8e-4c-0.05944-0.0607-0.08604-0.0922-0.14076-0.15z" fill="url(#f)" opacity=".6" style="paint-order:normal"/>
+   <path d="m2.9987 293.91c0.048566 0.052 0.080515 0.0907 0.1349 0.15h10.72c0.05003-0.0561 0.07465-0.0855 0.13441-0.15z" fill="url(#g)" opacity=".6" style="paint-order:normal"/>
+   <path d="m1.7062 285.18c-0.022302 0.0517-0.037132 0.0892-0.065978 0.15h13.708c-0.02381-0.0504-0.04631-0.10145-0.06843-0.15z" fill="url(#e)" opacity=".6" style="paint-order:normal"/>
+   <path d="m1.088 287.36c-0.00964 0.0489-0.015643 0.0999-0.024922 0.15h14.862c-0.0088-0.0501-0.01516-0.10114-0.0259-0.15z" fill="url(#d)" opacity=".6" style="paint-order:normal"/>
+   <path d="m1.0618 289.55c0.00899 0.0501 0.01744 0.10011 0.027371 0.15h14.811c0.0093-0.0539 0.01711-0.0968 0.02541-0.15z" fill="url(#c)" opacity=".6" style="paint-order:normal"/>
+   <path d="m1.6442 291.73c0.021867 0.0535 0.040442 0.0932 0.064512 0.15h13.57c0.02313-0.0512 0.03674-0.0804 0.06941-0.15z" fill="url(#b)" opacity=".6" style="paint-order:normal"/>
+  </g>
+  <path d="m10.612 280.93v5.5736l0.91542-0.93428 0.91593 0.93428v-4.7946a7.926 8.0848 0 0 0-1.8313-0.77901z" fill="#500000" fill-opacity=".93464" opacity=".2" style="paint-order:normal"/>
+  <path d="m10.611 280.89v5.472l0.91674-0.91726 0.91726 0.91726v-4.7072a7.9375 7.9375 0 0 0-1.834-0.76482z" fill="#4a8af4" style="paint-order:normal"/>
+  <circle cx="-330.35" cy="-48.312" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a" x1="30" x2="30" y1="59" y2="6" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3d4347" offset="0"/>
+   <stop stop-color="#4a5156" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g stroke-opacity=".55" stroke-width="4.1999">
+  <rect x="2.003" y="3" width="59.997" height="60" rx="29.998" opacity=".15"/>
+  <rect x="2.003" y="2" width="59.997" height="60" rx="29.998" fill="url(#a)"/>
+  <rect x="8.0027" y="8.8771" width="47.998" height="48" rx="23.999" opacity=".15"/>
+ </g>
+ <path d="m2.018 31.25c-6e-3 0.2505-0.017999 0.498-0.017999 0.75 0 16.62 13.379 30 29.998 30s29.998-13.38 29.998-30c0-0.252-0.012-0.4995-0.018-0.75-0.39748 16.269-13.619 29.25-29.98 29.25-16.367 0-29.585-12.981-29.98-29.25" fill="#161e25" opacity=".35" stroke-width="1.5"/>
+ <g>
+  <rect x="8.0027" y="8" width="47.998" height="48" rx="23.999" fill="#707980" stroke-opacity=".55" stroke-width="4.1999"/>
+  <rect x="12.502" y="12.5" width="38.998" height="39" rx="19.499" fill="#474c51" stroke-opacity=".55" stroke-width="4.1999"/>
+  <rect x="30.502" y="12.5" width="2.9998" height="7.5" rx="1.4999" fill="#1da0f6" stroke-width="1.5"/>
+  <ellipse cx="32.002" cy="8" rx="1.4999" ry="1.5" fill="#1da0f6" stroke-width="1.5"/>
+ </g>
+ <g fill="#26333a" stroke-width="1.5">
+  <ellipse cx="56" cy="32" rx="1.4999" ry="1.5"/>
+  <ellipse cx="8.0027" cy="32" rx="1.4999" ry="1.5"/>
+  <ellipse cx="14.002" cy="15.5" rx="1.4999" ry="1.5"/>
+  <ellipse cx="50.001" cy="15.5" rx="1.4999" ry="1.5"/>
+  <ellipse cx="14.002" cy="48.5" rx="1.4999" ry="1.5"/>
+  <ellipse cx="50.001" cy="48.5" rx="1.4999" ry="1.5"/>
+ </g>
+</svg>

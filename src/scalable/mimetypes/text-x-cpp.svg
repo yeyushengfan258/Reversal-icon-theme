@@ -1,0 +1,8 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <g fill-rule="evenodd">
+  <path transform="scale(.26458)" d="m13 4c-2.77 0-5 2.23-5 5v46c0 2.77 2.23 5 5 5h38c2.77 0 5-2.23 5-5v-39l-12-12h-31z" fill="#f4f4f4" opacity=".25" stroke="#000" stroke-width=".99999" style="paint-order:stroke fill markers"/>
+  <path transform="scale(.26458)" d="m13 4c-2.77 0-5 2.23-5 5v46c0 2.77 2.23 5 5 5h38c2.77 0 5-2.23 5-5v-39l-12-12h-31z" fill="#f4f4f4" style="paint-order:stroke fill markers"/>
+  <path d="m14.816 4.2332-3.1749-3.1749v1.852c0 0.73288 0.59001 1.3229 1.3229 1.3229z" fill="#bbb" style="paint-order:stroke fill markers"/>
+ </g>
+ <path d="m5.2916 6.6145h1.0583v0.52916h-1.0583s-0.52916 0-0.52916 0.52916v1.5875c0 0.52916 0.52916 0.52916 0.52916 0.52916h1.0583v0.52916h-1.0583s-1.0583 0-1.0583-1.0583v-1.5875c0-1.0583 1.0583-1.0583 1.0583-1.0583zm2.6458 0.52916h0.52916v1.0583h1.0583v0.52916h-1.0583v1.0583h-0.52916v-1.0583h-1.0583v-0.52916h1.0583zm3.1749 0h0.52916v1.0583h1.0583v0.52916h-1.0583v1.0583h-0.52916v-1.0583h-1.0583v-0.52916h1.0583z" color="#000000" fill="#2b898f" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+</svg>

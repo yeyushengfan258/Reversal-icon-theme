@@ -1,0 +1,19 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a" x1="8.4665" x2="8.4665" y1="281.4" y2="295.68" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#008cf4" offset="0"/>
+   <stop stop-color="#006cd2" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="matrix(1.1111 0 0 1.1111 -.94074 -312.13)" stroke-width=".99995">
+  <circle cx="8.4665" cy="288.78" r="7.1436" opacity=".15" style="paint-order:stroke markers fill"/>
+  <circle cx="8.4665" cy="288.54" r="7.1436" fill="url(#a)" style="paint-order:stroke markers fill"/>
+  <circle cx="8.4665" cy="288.54" r="5.8207" fill="#fff" opacity=".25" style="paint-order:stroke markers fill"/>
+ </g>
+ <g transform="matrix(.10596 0 0 .10596 21.429 10.072)" opacity=".15">
+  <path d="m-122.34-40.699-34.197 57.259 29.917-16.821 4.2793-2.4039zm0 0 34.197 57.259-29.917-16.821-4.2793-2.4039z" opacity=".988" stroke-width=".73055" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;paint-order:stroke fill markers"/>
+ </g>
+ <g transform="matrix(.10596 0 0 .10596 21.429 9.7454)" fill="#fff">
+  <path d="m-122.34-40.699-34.197 57.259 29.917-16.821 4.2793-2.4039zm0 0 34.197 57.259-29.917-16.821-4.2793-2.4039z" opacity=".988" stroke-width=".73055" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;paint-order:stroke fill markers"/>
+ </g>
+</svg>

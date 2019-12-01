@@ -1,0 +1,38 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429,0,0,2.1429,-826.36,-1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="g" x1="32.02" x2="32.02" y1="2.043" y2="62.045" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#950ba8" offset="0"/>
+   <stop stop-color="#c557bc" offset="1"/>
+  </linearGradient>
+  <linearGradient id="l" x1="525.44" x2="516.66" y1="836.19" y2="828.5" gradientTransform="matrix(.97893 0 0 1.0007 -171.41 -740)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="a">
+   <stop stop-color="#dc85e9" offset="0"/>
+   <stop stop-color="#f2cbf8" offset="1"/>
+  </linearGradient>
+  <linearGradient id="j" x1="525.44" x2="516.66" y1="836.19" y2="828.5" gradientTransform="matrix(.97893 0 0 1.0007 755.6 -1698.7)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="i" x1="525.44" x2="516.66" y1="836.19" y2="828.5" gradientTransform="translate(-125.5,-1702.5)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="h" x1="520.59" x2="516.15" y1="735.05" y2="720.86" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ </defs>
+ <g stroke-width="1.5715">
+  <circle cx="32" cy="32.999" r="30.001" opacity=".25"/>
+  <circle cx="32.02" cy="32.044" r="30.001" fill="url(#g)"/>
+  <path d="m37.707 7.6895 18.605 18.605a25 25 0 0 0-18.605-18.605z" fill="#fff" opacity=".5"/>
+  <path d="m32 7a25 25 0 0 0-25 25 25 25 0 0 0 25 25 25 25 0 0 0 25-25 25 25 0 0 0-0.10352-2.1035l-22.791-22.791a25 25 0 0 0-2.1055-0.10547z" fill="#f9f9f9"/>
+ </g>
+ <g transform="matrix(1.1992,0,0,1.2002,-380.53,-71.656)" enable-background="new" stroke="#8e03a3" stroke-width=".83352">
+  <path d="m332.74 90.105v4.0029c0 1.9344 5.0402 3.5026 11.258 3.5026 6.2174 0 11.258-1.5681 11.258-3.5026v-4.0029z" color="#000000" fill="url(#l)"/>
+  <g transform="translate(-927,953.99)">
+   <path d="m1259.7-868.57v4.003c0 1.9344 5.0402 3.5025 11.258 3.5025 6.2174 0 11.258-1.5681 11.258-3.5025v-4.003z" color="#000000" fill="url(#j)" stroke-width=".83352"/>
+   <g transform="matrix(.97893 0 0 1.0007 878.45 .37754)">
+    <path d="m389.5-872.96v4c0 1.933 5.1487 3.5 11.5 3.5s11.5-1.567 11.5-3.5v-4z" color="#000000" fill="url(#i)" stroke-width=".84214"/>
+    <ellipse transform="matrix(.51254 0 0 .61538 134.64 -1323.2)" cx="519.69" cy="730.31" rx="22.438" ry="5.6875" color="#000000" fill="url(#h)" stroke-width="1.4995"/>
+   </g>
+  </g>
+ </g>
+ <circle cx="32.02" cy="32.044" r="30.001" fill-opacity="0" stroke-width="1.5715"/>
+ <circle cx="32.02" cy="32.044" r="0" fill="url(#b)" stroke-width="1.5715"/>
+</svg>

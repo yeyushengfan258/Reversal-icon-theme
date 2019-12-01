@@ -1,0 +1,55 @@
+<svg width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a" x1="403.44" x2="402.49" y1="544.99" y2="518.34" gradientTransform="matrix(1.0196 0 0 1.0196 -7.8349 -10.539)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d3d3d3" offset="0"/>
+   <stop stop-color="#fcf9f9" offset="1"/>
+  </linearGradient>
+  <filter id="b" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.42822458"/>
+  </filter>
+ </defs>
+ <g transform="translate(-384.57 -515.8)">
+  <g transform="matrix(1.0509 0 0 1.0509 -20.38 -26.904)">
+   <circle cx="400.58" cy="531.67" r="14.274" filter="url(#b)" opacity=".25"/>
+   <circle cx="400.58" cy="531.67" r="14.274" fill="url(#a)"/>
+   <g transform="matrix(.95161 0 0 .95161 384.88 501.14)">
+    <g transform="translate(-46.755 .40346)">
+     <g transform="translate(-400.92 -509.18)">
+      <g transform="translate(-47.017 -3.1738)">
+       <g transform="translate(.41988 .034845)">
+        <g transform="translate(-37.074 .97033)"></g>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g transform="translate(-47.291 -2.3599e-7)">
+     <g transform="translate(-509.71 -515.65)"></g>
+     <g transform="translate(0 .2655)">
+      <g transform="matrix(.80911 0 0 .80911 36.38 9.7382)">
+       <g transform="translate(-46.755 .40346)">
+        <g transform="translate(-400.92 -509.18)">
+         <g transform="translate(-47.017 -3.1738)">
+          <g transform="translate(.41988 .034845)">
+           <g transform="translate(-37.074 .97033)"></g>
+          </g>
+         </g>
+        </g>
+       </g>
+       <g transform="matrix(1.9988 0 0 1.9988 18.097 -2059.5)" fill="#3d434a">
+        <g transform="translate(-401.01 510.63)" fill="#3d434a">
+         <g transform="translate(5.0558 -5.2511)" fill="#3d434a">
+          <g transform="translate(-11.317 5.8825)" fill="#3d434a" stroke="#000" stroke-opacity=".8">
+           <g transform="matrix(.78637 0 0 .78395 93.326 112.35)" fill="#3d434a" stroke="none">
+            <path id="Documents" d="m409 531-5.244 6.7328c-0.98326 1.2624-0.708 3.5111 0.5505 4.4974 1.2585 0.98629 3.5003 0.71019 4.4835-0.55221l5.8995-7.5744c0.65551-0.8416 0.47201-2.3407-0.36699-2.9983-0.83901-0.65753-2.3335-0.47347-2.989 0.36814l-5.244 6.7328c-0.32776 0.4208-0.236 1.1704 0.1835 1.4991 0.4195 0.32875 1.1668 0.23673 1.4945-0.18407l4.5885-5.8912 0.83901 0.65753-4.5885 5.8912c-0.65551 0.84161-2.15 1.0257-2.989 0.36814-0.83901-0.65753-1.0225-2.1567-0.36702-2.9983l5.244-6.7328c0.98325-1.2624 3.225-1.5385 4.4835-0.55221 1.2585 0.98629 1.5338 3.235 0.55051 4.4974l-0.6555 0.84161-5.244 6.7328c-1.311 1.6832-4.3 2.0514-5.978 0.73629-1.678-1.3151-2.045-4.3133-0.73401-5.9965l5.244-6.7328 0.83901 0.65753z" fill="#3d434a"/>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

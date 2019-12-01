@@ -1,0 +1,29 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="b" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429 0 0 2.1429 -826.36 -1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d" x1="32.045" x2="30" y1="1.7894" y2="61.55" gradientTransform="matrix(.86339 0 0 .8182 -320.77 -397.49)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f9f9f9" offset="0"/>
+   <stop stop-color="#e6e6e6" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="409.57" x2="409.75" y1="542.8" y2="506.01" gradientTransform="matrix(.86359 0 0 .82352 -320.85 -400.19)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#606060" offset="0"/>
+   <stop stop-color="#414141" offset=".49147"/>
+   <stop stop-color="#1e1e1e" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m50.249 9.1937q-3.8597-2.9725-8.444-4.5557-4.7372-1.6373-9.8021-1.6373c-16.57 0-30.003 13.432-30.003 30.001 0 15.158 11.245 27.684 25.845 29.709 0.71216 0.09855 1.4339 0.17485 2.1587 0.21936 0.66128 0.04133 1.3258 0.06994 1.9998 0.06994 16.567 0 29.997-13.432 29.997-29.999 0-1.3098-0.08266-2.6037-0.24481-3.8658-0.18758-1.4751-0.49279-2.909-0.88387-4.3046q-1.3289-4.6892-4.0822-8.7265-2.7215-3.9771-6.5401-6.9112z" opacity=".2" stroke-width=".99724"/>
+ <path d="m50.249 8.1932q-3.8597-2.9725-8.444-4.5557-4.7372-1.6373-9.8021-1.6373c-16.57 0-30.003 13.432-30.003 30.001 0 15.158 11.245 27.684 25.845 29.709 0.71216 0.09855 1.4339 0.17485 2.1587 0.21936 0.66128 0.04133 1.3258 0.06994 1.9998 0.06994 16.567 0 29.997-13.432 29.997-29.999 0-1.3098-0.08266-2.6037-0.24481-3.8658-0.18758-1.4751-0.49279-2.909-0.88387-4.3046q-1.3289-4.6892-4.0822-8.7265-2.7215-3.9771-6.5401-6.9112z" fill="url(#d)" stroke-width=".99724"/>
+ <rect transform="matrix(1 1.4502e-6 -2.5149e-6 1 0 0)" x="13" y="19" width="38" height="28" ry="1.3177" opacity=".15" stroke-width=".81098"/>
+ <circle cx="32.02" cy="32.044" r="30.001" fill-opacity="0" stroke-width="1.5715"/>
+ <circle cx="32.02" cy="32.044" r="0" fill="url(#b)" stroke-width="1.5715"/>
+ <rect transform="matrix(1 1.4502e-6 -2.5149e-6 1 0 0)" x="13" y="18" width="38" height="28" ry="1.3177" fill="url(#a)" stroke-width=".81098"/>
+ <path d="m14.309 18.002c-0.72527-1e-6 -1.3086 0.58332-1.3086 1.3086v25.201c-2e-6 0.72527 0.58332 1.3086 1.3086 1.3086h4.6914v-27.818h-4.6914z" fill="#fff" opacity=".15" stroke-width=".80826"/>
+ <g fill="#ccc" stroke-width=".46238">
+  <circle cx="16.5" cy="29.5" r="1.5"/>
+  <circle cx="16.5" cy="25.5" r="1.5"/>
+  <circle cx="16.5" cy="21.502" r="1.5"/>
+ </g>
+</svg>

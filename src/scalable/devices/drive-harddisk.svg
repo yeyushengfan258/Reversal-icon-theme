@@ -1,0 +1,26 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b">
+   <stop stop-color="#808080" offset="0"/>
+   <stop stop-color="#999" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="529.66" x2="-35.31" y1="295.64" y2="295.64" gradientTransform="matrix(0 -.029972 -.02997 0 16.798 15.875)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#999" offset="0"/>
+   <stop stop-color="#b7b7b7" offset=".61328"/>
+   <stop stop-color="#dbdbdb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="334.87" x2="334.87" y1="140.23" y2="160.63" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+ </defs>
+ <path d="m11.712 1.3229c2.3346 0 2.5858 0.2398 2.5744 2.5792v4.829 4.829c0.01145 2.3394-0.23976 2.5792-2.5744 2.5792h-6.4923c-2.3346 0-2.5744-0.23978-2.5744-2.5792v-4.829-4.829c0-2.3394 0.23976-2.5792 2.5744-2.5792z" color="#000000" opacity=".35"/>
+ <path d="m11.712 1.0583c2.3346 0 2.5858 0.2398 2.5744 2.5792v4.829 4.829c0.01145 2.3394-0.23976 2.5792-2.5744 2.5792h-6.4923c-2.3346 0-2.5744-0.23977-2.5744-2.5792v-4.829-4.829c0-2.3394 0.23976-2.5792 2.5744-2.5792z" color="#000000" fill="url(#c)"/>
+ <g transform="translate(-25.929)" fill="none" stroke-linecap="square" stroke-linejoin="round" stroke-width="1.1334">
+  <g transform="matrix(.4669 0 0 .46689 -122.49 -60.048)" enable-background="new" opacity=".2" stroke="#fff">
+   <path d="m344.21 147.66a8.5002 8.5001 0 0 1-4.9577 10.053 8.5002 8.5001 0 0 1-10.614-3.603 8.5002 8.5001 0 0 1 2.1868-10.994 8.5002 8.5001 0 0 1 11.185 0.73311l-1.7604 1.7604" enable-background="new" opacity="1"/>
+   <circle cx="336" cy="149.86" r="2.2666" enable-background="new" opacity="1"/>
+  </g>
+  <g transform="matrix(.4669 0 0 .46689 -122.49 -60.18)" enable-background="new" stroke="url(#a)">
+   <path d="m344.21 147.66a8.5002 8.5001 0 0 1-4.9577 10.053 8.5002 8.5001 0 0 1-10.614-3.603 8.5002 8.5001 0 0 1 2.1868-10.994 8.5002 8.5001 0 0 1 11.185 0.73311l-1.7604 1.7604" enable-background="new"/>
+   <circle cx="336" cy="149.86" r="2.2666" enable-background="new"/>
+  </g>
+ </g>
+</svg>

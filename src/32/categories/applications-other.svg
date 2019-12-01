@@ -1,0 +1,24 @@
+<svg width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b" x1="403.44" x2="402.49" y1="544.99" y2="518.34" gradientTransform="matrix(1.0196 0 0 1.0196 -7.8349 -10.539)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d3d3d3" offset="0"/>
+   <stop stop-color="#fcf9f9" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="16" x2="16" y1="30" y2="2" gradientTransform="matrix(1.5 0 0 1.5 409.47 507)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2a2c2f" offset="0"/>
+   <stop stop-color="#424649" offset="1"/>
+  </linearGradient>
+  <filter id="c" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.42822461"/>
+  </filter>
+ </defs>
+ <g transform="translate(-384.57 -515.8)">
+  <g transform="matrix(1.0509 0 0 1.0509 -20.38 -26.904)">
+   <circle cx="400.58" cy="531.67" r="14.274" filter="url(#c)" opacity=".25"/>
+   <circle cx="400.58" cy="531.67" r="14.274" fill="url(#b)"/>
+   <g transform="matrix(.95161 0 0 .95161 -12.009 26.554)">
+    <path d="m433.47 528c-1.662 0-3 1.338-3 3s1.338 3 3 3 3-1.338 3-3-1.338-3-3-3zm-7.5 0c-1.662 0-3 1.338-3 3s1.338 3 3 3 3-1.338 3-3-1.338-3-3-3zm15 0c-1.662 0-3 1.338-3 3s1.338 3 3 3 3-1.338 3-3-1.338-3-3-3z" fill="url(#a)"/>
+   </g>
+  </g>
+ </g>
+</svg>

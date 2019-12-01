@@ -1,0 +1,8 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <g fill-rule="evenodd">
+  <path transform="scale(.26458)" d="m13 4c-2.77 0-5 2.23-5 5v46c0 2.77 2.23 5 5 5h38c2.77 0 5-2.23 5-5v-39l-12-12h-31z" fill="#f4f4f4" opacity=".25" stroke="#000" stroke-width=".99999" style="paint-order:stroke fill markers"/>
+  <path transform="scale(.26458)" d="m13 4c-2.77 0-5 2.23-5 5v46c0 2.77 2.23 5 5 5h38c2.77 0 5-2.23 5-5v-39l-12-12h-31z" fill="#f4f4f4" style="paint-order:stroke fill markers"/>
+  <path d="m14.816 4.2332-3.1749-3.1749v1.852c0 0.73288 0.59001 1.3229 1.3229 1.3229z" fill="#bbb" style="paint-order:stroke fill markers"/>
+ </g>
+ <path d="m6.615 5.4578v0.26458 1.852h-1.4627l0.17738 0.3771s1.2404 2.6425 2.9226 4.9792l0.21471 0.29817 0.21471-0.29817c1.682-2.3366 2.9217-4.9782 2.9217-4.9782l0.17712-0.3771h-1.4615v-2.1177zm0.52916 0.52916h2.6458v2.1177h1.1496c-0.36041 0.7253-1.2814 2.4921-2.4725 4.2046-1.1914-1.7127-2.1129-3.4802-2.4734-4.2056h1.1506z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#999" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+</svg>

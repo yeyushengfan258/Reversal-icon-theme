@@ -1,0 +1,18 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Highlight { color:#3daee9; }
+   .ColorScheme-Text { color:#232629; }</style>
+ <g transform="translate(-10.814 -2.6102)">
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-21.61" y="-29.314" width="15" height="15" rx="7.5" ry="7.5" enable-background="new" opacity=".2"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-20.61" y="-29.314" width="15" height="15" rx="7.5" ry="7.5" enable-background="new" fill="#618bf5"/>
+  <g transform="matrix(.53552 0 0 .53552 -161.47 -39.169)" enable-background="new" fill="none" stroke-dashoffset="1" stroke-linejoin="round" stroke-width=".83333">
+   <g transform="matrix(1.1803 0 0 1.1803 -413.26 -172.72)" enable-background="new" stroke="#547fec">
+    <ellipse cx="639.95" cy="224.89" rx="3.2828" ry="3.5556" stroke-linecap="round" stroke-width=".88889"/>
+    <path d="m633.33 235.56c0-3.5 1.6667-4.4444 6.6667-4.4444s6.6667 0.94444 6.6667 4.4444z" stroke-width=".88889"/>
+   </g>
+   <g transform="matrix(1.1803 0 0 1.1803 -413.06 -172.56)" enable-background="new" stroke="#fff">
+    <ellipse cx="639.95" cy="224.89" rx="3.2828" ry="3.5556" stroke-linecap="round" stroke-width=".88889"/>
+    <path d="m633.33 235.56c0-3.5 1.6667-4.4444 6.6667-4.4444s6.6667 0.94444 6.6667 4.4444z" stroke-width=".88889"/>
+   </g>
+  </g>
+ </g>
+</svg>

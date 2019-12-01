@@ -1,0 +1,14 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g transform="translate(0 -280.07)">
+  <g>
+   <circle cx="-330.35" cy="-48.312" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+   <circle cx="8.4935" cy="288.8" r="7.9375" opacity=".2" stroke-width=".14032"/>
+   <circle cx="8.4935" cy="288.53" r="7.9375" fill="#fafafa" stroke-width=".14032"/>
+   <ellipse cx="-39.434" cy="286.51" r=".90502" fill="#5e4aa6" fill-rule="evenodd" stroke-width=".26458"/>
+  </g>
+  <g transform="translate(-1.9909 .15946)" fill="#d35f5f" stroke-width=".26458">
+   <path d="m7.9256 285.99c-0.08275 0-0.15368 0.0296-0.21279 0.0887-0.05826 0.0583-0.08784 0.1292-0.08784 0.21196 0 0.0828 0.02957 0.1537 0.08784 0.21197l0.91956 0.91956-0.91871 0.91871c-0.05911 0.0591-0.08864 0.13003-0.08949 0.21279 8.47e-4 0.0827 0.0304 0.1537 0.08867 0.21197 0.05911 0.0583 0.13002 0.0878 0.21193 0.0887 0.0836 0 0.15454-0.0296 0.21364-0.0887l1.0217-1.0226c0.21448-0.21364 0.21448-0.42815 0-0.64262l-1.0226-1.0226c-0.05855-0.0585-0.12918-0.0878-0.21193-0.0878z" style="paint-order:stroke markers fill"/>
+   <rect x="7.0448" y="290.23" width="6.8792" height=".52917" rx=".26458" style="paint-order:stroke markers fill"/>
+  </g>
+ </g>
+</svg>

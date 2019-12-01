@@ -1,0 +1,9 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <path d="m3.4395 1.0587c-0.73288 0-1.3229 0.58999-1.3229 1.3229v12.171c0 0.73286 0.59001 1.3229 1.3229 1.3229h10.054c0.73288 0 1.3229-0.58999 1.3229-1.3229v-10.319l-3.1749-3.1748z" fill="#9550b2" fill-rule="evenodd" stroke-width=".99999" style="paint-order:stroke fill markers"/>
+ <path d="m14.816 4.2332-3.1749-3.1749v1.852c0 0.73288 0.59001 1.3229 1.3229 1.3229z" fill="#fff" fill-rule="evenodd" opacity=".35" style="paint-order:stroke fill markers"/>
+ <rect x="7.945" y="1.0583" width="1.0583" height="14.816" color="#000000" fill="#fff" opacity=".25"/>
+ <rect x="3.711" y="11.642" width="3.4395" height="2.1166" color="#000000" fill="#f9f9f9" opacity=".35"/>
+ <path d="m3.976 12.171v1.0583h0.52916v-1.0583zm0.79374 0v1.0583h0.26458v-1.0583zm0.52916 0v1.0583h0.52916v-1.0583zm0.79373 0v1.0583h0.26458v-1.0583zm0.52916 0v1.0583h0.26458v-1.0583z" color="#000000" opacity=".35"/>
+ <rect x="8.466" y="1.0583" width=".53659" height="14.816" color="#000000" fill="#fff" opacity=".25"/>
+ <path transform="scale(.26458)" d="m39 40c-1.108 0-2 0.892-2 2v12c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-12c0-1.108-0.892-2-2-2h-12zm0 2h12v2h-12v-2zm0 4h9v3h-9v-3zm10 0h2v3h-2v-3zm-10 5h9v3h-9v-3zm10 0h2v3h-2v-3z" fill="#fff" opacity=".5" style="paint-order:fill markers stroke"/>
+</svg>

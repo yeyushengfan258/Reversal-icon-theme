@@ -1,0 +1,9 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Highlight { color:#3daee9; }
+   .ColorScheme-Text { color:#232629; }</style>
+ <g transform="translate(-14.636 -4.9407)">
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-23.941" y="-33.136" width="15" height="15" rx="7.5" ry="7.5" enable-background="new" opacity=".2"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-22.941" y="-33.136" width="15" height="15" rx="7.5" ry="7.5" enable-background="new" fill="#3eb34f"/>
+  <path d="m29.912 12.004-5.3518 5.3518-3.2022-3.2029-0.76025 0.76241 3.9632 3.9624 6.1128-6.1121z" color="#000000" enable-background="new" fill="#fff" font-weight="400" overflow="visible" stroke-width=".71654" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ </g>
+</svg>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <circle cx="-330.35" cy="-328.38" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <circle cx="-39.434" cy="6.44" r=".90502" fill="#5e4aa6" fill-rule="evenodd" stroke-width=".26458"/>
+ <circle cx="8.4935" cy="8.73" r="7.9375" opacity=".2" stroke-width=".14032"/>
+ <circle cx="8.4935" cy="8.46" r="7.9375" fill="#fafafa" stroke-width=".14032"/>
+ <g transform="translate(-.52916 -.26458)">
+  <g stroke-width=".56724">
+   <rect x="2.5461" y="3.1749" width="7.4082" height="6.879" ry=".86684" color="#000000" opacity=".15" overflow="visible" style="isolation:auto;mix-blend-mode:normal"/>
+   <rect x="2.6458" y="2.9104" width="7.4082" height="6.879" ry=".86684" color="#000000" fill="#e6e6e6" overflow="visible" style="isolation:auto;mix-blend-mode:normal"/>
+   <rect x="7.8073" y="7.9373" width="7.4082" height="6.879" ry=".86684" color="#000000" opacity=".15" overflow="visible" style="isolation:auto;mix-blend-mode:normal"/>
+  </g>
+  <g fill="#666" aria-label="文">
+   <path d="m4.3432 4.9846h1.8876q-0.16493-0.27489-0.34819-0.53145l0.31154-0.21991q0.27489 0.32986 0.47647 0.75136h1.7776v0.34819h-0.7147q-0.14661 0.69638-0.47647 1.2095-0.31154 0.51312-0.53145 0.6414 0.65973 0.4948 1.7409 0.87964l-0.21991 0.40317q-1.0262-0.34819-1.8509-1.0079-0.76968 0.5681-1.9059 0.98959l-0.25656-0.34819q1.0995-0.38484 1.8509-0.91629-0.75136-0.73303-1.0629-1.8509h-0.67805zm1.0812 0.34819q0.31154 0.98959 0.98959 1.5943 0.67805-0.58642 0.91629-1.5943z" fill="#666" stroke-width=".11728"/>
+  </g>
+  <rect x="7.9373" y="7.6728" width="7.4082" height="6.879" ry=".86684" color="#000000" fill="#3279f1" overflow="visible" stroke-width=".56724" style="isolation:auto;mix-blend-mode:normal"/>
+  <path d="m12.658 13.114-0.28901-0.94873h-1.4538l-0.28901 0.94873h-0.9109l1.4072-4.0031h1.0335l1.4123 4.0031h-0.9109zm-0.49086-1.6578q-0.40098-1.2898-0.45273-1.459-0.04903-0.16917-0.07081-0.26722-0.09018 0.34892-0.51537 1.7262z" fill="#fff" font-size="64" font-weight="700" letter-spacing="0" stroke-width=".30262" word-spacing="0"/>
+ </g>
+ <g stroke-width=".54472">
+  <path d="m4.4861 9.5315v1.8454l1.0701 1.0698h1.8042v-1.0698h-1.8042v-1.8454z" color="#000000" fill="#337cf1" overflow="visible" style="isolation:auto;mix-blend-mode:normal"/>
+  <path d="m5.0129 8.2281 1.4102 1.4102h-2.8205z" color="#000000" fill="#337cf1" overflow="visible" style="isolation:auto;mix-blend-mode:normal"/>
+  <path d="m8.4162 11.959-1.0828 1.0828v-2.1659z" color="#000000" fill="#a1c4ff" overflow="visible" style="isolation:auto;mix-blend-mode:normal"/>
+  <path d="m4.4861 11.377 1.0701 1.0698h1.8042v-1.0698h-1.8042z" color="#000000" fill="#a1c4ff" overflow="visible" style="isolation:auto;mix-blend-mode:normal"/>
+ </g>
+</svg>

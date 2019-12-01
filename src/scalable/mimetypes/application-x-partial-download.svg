@@ -1,0 +1,12 @@
+<svg width="64" height="64" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <g transform="scale(3.7796)" fill-rule="evenodd">
+  <path transform="scale(.26458)" d="m13 4c-2.77 0-5 2.23-5 5v46c0 2.77 2.23 5 5 5h38c2.77 0 5-2.23 5-5v-39l-12-12z" fill="#f4f4f4" opacity=".25" stroke="#000" stroke-width=".99999" style="paint-order:stroke fill markers"/>
+  <path transform="scale(.26458)" d="m13 4c-2.77 0-5 2.23-5 5v46c0 2.77 2.23 5 5 5h38c2.77 0 5-2.23 5-5v-39l-12-12z" fill="#f4f4f4" style="paint-order:stroke fill markers"/>
+  <path d="m14.816 4.2332-3.1749-3.1749v1.852c0 0.73288 0.59001 1.3229 1.3229 1.3229z" fill="#bbb" style="paint-order:stroke fill markers"/>
+ </g>
+ <g fill="#99e159">
+  <path d="M30 10v4h4v-4zm4 4v4h4v-4zm0 4h-4v4h4zm-4 0v-4h-4v4zm0 15.969V34h4v-.031z" opacity=".2"/>
+  <path d="m26 18v4h4v-4zm4 4v4h8v-8h-4v4zm0 4h-4v4h4z" opacity=".6"/>
+  <path d="M30 26v4h4v-4zm4 4v4h-4v-4h-4v3.71h-8L32 51l14-17.29-8 .003V30z" color="#bebebe" overflow="visible"/>
+ </g>
+</svg>

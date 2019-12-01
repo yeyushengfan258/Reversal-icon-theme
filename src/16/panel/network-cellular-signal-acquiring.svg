@@ -1,0 +1,6 @@
+<svg width="16" height="16" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g fill="#bebebe">
+  <path d="M15 1.003l-6 6h2c1.108 0 2 .892 2 2s-.892 2-2 2H5l-4 4h14v-14z" opacity=".35"/>
+  <path d="m5 8.003a1 1 0 1 0 0 2 1 1 0 0 0 0-2zm3 0a1 1 0 1 0 0 2 1 1 0 0 0 0-2zm3 0a1 1 0 1 0 0 2 1 1 0 0 0 0-2z" color="#444" enable-background="accumulate" overflow="visible"/>
+ </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1="-6.1472" x2="-6.1472" y1="-137.82" y2="-100.78" gradientTransform="matrix(.49892 0 0 .49892 11.356 348.3)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#72cd77" offset="0"/>
+   <stop stop-color="#26c084" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -280.07)">
+  <circle cx="-330.35" cy="-48.312" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+  <ellipse cx="-39.434" cy="286.51" r=".90502" fill="#5e4aa6" fill-rule="evenodd" stroke-width=".26458"/>
+  <circle cx="8.4935" cy="288.8" r="7.9375" opacity=".2" stroke-width=".14032"/>
+  <circle cx="8.4938" cy="288.53" r="7.4674" fill="url(#a)" stroke="#fafafa" stroke-width=".94077" style="paint-order:normal"/>
+  <path d="m6.6116 288.46 1.8844 2.9072 1.88-2.9072-1.8743 0.36412z" opacity=".15"/>
+  <path d="m6.5631 288.1 1.933 3.0832 1.9285-3.0832-1.9226 0.38617z" fill="#fafafa"/>
+  <path d="m7.4366 288.27s0.12967-2.4625-0.80359-4.5151c-1.313-2.8878-4.4814 1.3394-4.4814 1.3394s0.24805-3.9688 6.3335-3.9688c6.0854 0 6.35 3.9688 6.35 3.9688s-3.1519-4.2432-4.4897-1.3186c-0.75008 1.6397-0.8264 4.1218-0.79132 4.496 0.03508 0.37418-1.0562 0.80094-1.0562 0.80094s-0.97944-0.31157-1.0613-0.80269z" fill="#fafafa"/>
+ </g>
+</svg>

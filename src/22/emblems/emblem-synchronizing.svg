@@ -1,0 +1,14 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Highlight { color:#3daee9; }
+   .ColorScheme-Text { color:#232629; }</style>
+ <g transform="translate(-21.347 -3.6356)">
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-22.636" y="-39.847" width="15" height="15" rx="7.5" ry="7.5" enable-background="new" opacity=".2"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-21.636" y="-39.847" width="15" height="15" rx="7.5" ry="7.5" enable-background="new" fill="#19b6ee"/>
+  <g transform="translate(-296.06 -229.38)" enable-background="new">
+   <path d="m324.22 243.79c0.47968-0.22917 0.96453-0.475 1.4534-0.73961 0.49106-0.26899 0.95823-0.54279 1.4016-0.82181 0 0-0.3212-0.2079-2.6237-1.6816-0.0736 0.51598-0.13064 1.0535-0.17046 1.6116-0.0368 0.55471-0.0573 1.0983-0.0608 1.633z" enable-background="new" fill="#fff"/>
+   <path d="m331.81 244.64a3.5809 3.5809 0 0 1-3.2832 2.6498 3.5809 3.5809 0 0 1-3.5271-2.3152" enable-background="new" fill="none" stroke="#fff"/>
+   <path transform="scale(-1)" d="m-324.86-242.67a3.5809 3.5809 0 0 1-3.2832 2.6498 3.5809 3.5809 0 0 1-3.5271-2.3152" enable-background="new" fill="none" stroke="#fff"/>
+   <path d="m332.45 243.51c-0.47968 0.22917-0.96453 0.475-1.4534 0.73961-0.49106 0.26899-0.95823 0.54279-1.4016 0.82181 0 0 0.3212 0.2079 2.6237 1.6816 0.0736-0.51598 0.13064-1.0535 0.17046-1.6116 0.0368-0.55471 0.0573-1.0983 0.0608-1.633z" enable-background="new" fill="#fff"/>
+  </g>
+ </g>
+</svg>

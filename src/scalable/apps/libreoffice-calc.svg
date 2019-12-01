@@ -1,0 +1,35 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="b" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429,0,0,2.1429,-826.36,-1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="f" x1="32.02" x2="32.02" y1="2.043" y2="62.045" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2e851b" offset="0"/>
+   <stop stop-color="#18a003" offset="1"/>
+  </linearGradient>
+  <linearGradient id="h" x1="30" x2="30" y1="18" y2="44" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#18a303" offset="0"/>
+   <stop stop-color="#106802" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g stroke-width="1.5715">
+  <circle cx="32.02" cy="32.999" r="30.001" opacity=".25"/>
+  <circle cx="32.02" cy="32.044" r="30.001" fill="url(#f)"/>
+  <path d="m32 7a25 25 0 0 0-25 25 25 25 0 0 0 25 25 25 25 0 0 0 25-25 25 25 0 0 0-0.10352-2.1035l-22.791-22.791a25 25 0 0 0-2.1055-0.10547z" fill="#f9f9f9"/>
+  <circle cx="32.02" cy="32.044" r="30.001" fill-opacity="0"/>
+  <circle cx="32.02" cy="32.044" r="0" fill="url(#b)"/>
+ </g>
+ <g transform="translate(2.2019e-6 1)" fill-rule="evenodd">
+  <rect x="16" y="18" width="28" height="26" ry="0" fill="#ccf4c6" style="paint-order:normal"/>
+  <rect x="16" y="18" width="28" height="6" ry="0" fill="#92e285" style="paint-order:normal"/>
+  <path d="m16 18v26h28v-26zm1 1h8v4h-8zm9 0h8v4h-8zm9 0h8v4h-8zm-18 5h8v4h-8zm9 0h8v4h-8zm9 0h8v4h-8zm-18 5h8v4h-8zm9 0h8v4h-8zm9 0h8v4h-8zm-18 5h8v4h-8zm9 0h8v4h-8zm9 0h8v4h-8zm-18 5h8v4h-8zm9 0h8v4h-8zm9 0h8v4h-8z" fill="url(#h)" style="paint-order:normal"/>
+ </g>
+ <g transform="matrix(1.0227 0 0 .95455 -.43181 1.8637)" stroke-width="1.0121">
+  <rect x="34.645" y="33.666" width="13.689" height="14.667" ry="1.0476" fill="#fff"/>
+  <rect x="35.622" y="42.047" width="2.9346" height="6.2868" fill="#228fff"/>
+  <rect x="39.533" y="36.809" width="3.9126" height="11.524" fill="#ff8037"/>
+  <rect x="44.422" y="44.143" width="2.9348" height="4.1914" fill="#ffca22"/>
+ </g>
+ <path d="m37.707 7.6895 18.605 18.605a25 25 0 0 0-18.605-18.605z" fill="#fff" opacity=".5"/>
+</svg>

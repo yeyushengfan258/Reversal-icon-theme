@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter2761" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.14552168"/>
+  </filter>
+  <linearGradient id="linearGradient994" x1="13.131" x2="3.7382" y1="-4.101" y2="-13.46" gradientTransform="matrix(1.2341 0 0 1.2341 -1.8995 2.4489)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0a82f0" offset="0"/>
+   <stop stop-color="#3250e6" offset="1"/>
+  </linearGradient>
+  <filter id="filter1427" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.12471399"/>
+  </filter>
+  <linearGradient id="linearGradient1437" x1="7.8748" x2="12.863" y1="11.011" y2="6.0353" gradientTransform="matrix(1.2341 0 0 1.2341 -1.8995 2.4489)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#e6e6e6" offset="0"/>
+   <stop stop-color="#a0a0a0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1445" x1="9.2092" x2="4.2101" y1="11.011" y2="6.0503" gradientTransform="matrix(1.2341 0 0 1.2341 -1.8995 2.4489)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#e6e6e6" offset="0"/>
+   <stop stop-color="#a0a0a0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient911" x1="7.37" x2="9.7818" y1="7.3609" y2="9.7727" gradientTransform="translate(-20.608 -8.4924)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fafafa" offset="0"/>
+   <stop stop-color="#d2d2d2" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path d="m10.709 1.05c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="#141414" filter="url(#filter2761)" opacity=".3"/>
+ <path d="m10.709 1.05c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="#fafafa"/>
+ <circle transform="scale(1,-1)" cx="8.4674" cy="-8.326" r="5.8377" color="#000000" fill="url(#linearGradient994)" stroke="#e6e6e6" stroke-width=".65303"/>
+ <g fill-rule="evenodd">
+  <circle cx="10.381" cy="8.5142" r="2.4943" fill="#e6e6e6" stroke="url(#linearGradient1437)" stroke-dashoffset="1.0596" stroke-width=".079373"/>
+  <circle cx="6.7093" cy="8.5142" r="2.4943" fill="#e6e6e6" stroke="url(#linearGradient1445)" stroke-dashoffset=".11138" stroke-width=".079373"/>
+  <circle cx="8.545" cy="8.5142" r="2.4943" fill="#646464" filter="url(#filter1427)"/>
+  <circle cx="8.545" cy="8.5142" r="2.4943" fill="#f0f0f0"/>
+  <circle transform="rotate(225)" cx="-12.063" cy=".021779" r="1.5937" fill="url(#linearGradient911)"/>
+ </g>
+</svg>

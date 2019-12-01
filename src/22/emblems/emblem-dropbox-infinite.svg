@@ -1,0 +1,9 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Highlight { color:#3daee9; }
+   .ColorScheme-Text { color:#232629; }</style>
+ <g transform="translate(12.492 2.4237)">
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-16.576" y="-6.0085" width="15" height="15" rx="7.5" ry="7.5" enable-background="new" opacity=".2"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-15.576" y="-6.0085" width="15" height="15" rx="7.5" ry="7.5" enable-background="new" fill="#f1f0e9"/>
+  <path d="m-1.0941 4.4308c-1.3384 9.5e-4 -2.4753 0.82511-3.019 2.0036l-0.0372 0.0806-0.0862 7e-3c-1.2361 0.0887-2.2143 1.1592-2.2143 2.4592 0 1.3595 1.0638 2.4753 2.3792 2.4753h5.7559c0.98628 0 1.7835-0.83688 1.7835-1.8523a1.8337 1.8337 0 0 0-1.1189-1.6955l-0.0843-0.0359-7e-3 -0.0924c-0.0843-1.8554-1.5417-3.3475-3.3506-3.3488zm0 0.61992c1.4679 9.5e-4 2.66 1.2101 2.7301 2.7567v7e-3l0.0316 0.48043 0.4358 0.18411a1.2051 1.2051 0 0 1 0.7414 1.1251c7e-3 0.69059-0.52444 1.2324-1.1598 1.2324h-5.7565c-0.96458 0-1.7587-0.8189-1.7587-1.8548-9.5e-4 -0.99062 0.73397-1.7767 1.639-1.843l0.4482-0.031 0.19216-0.41098v-3e-3c0.4513-0.97945 1.3719-1.6415 2.4555-1.6428z" color="#000000" enable-background="new" fill="#808080" font-weight="400" overflow="visible" stroke="#808080" stroke-width=".13213" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+ </g>
+</svg>

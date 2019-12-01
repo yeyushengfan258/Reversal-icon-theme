@@ -1,0 +1,13 @@
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Highlight { color:#3daee9; }
+   .ColorScheme-Text { color:#232629; }</style>
+ <g transform="translate(-24.61 -8.6695)">
+  <g>
+   <rect transform="matrix(0,-1,-1,0,0,0)" x="-27.669" y="-43.11" width="15" height="15" rx="7.5" ry="7.5" enable-background="new" opacity=".2"/>
+   <rect transform="matrix(0,-1,-1,0,0,0)" x="-26.669" y="-43.11" width="15" height="15" rx="7.5" ry="7.5" enable-background="new" fill="#e95420"/>
+   <rect x="32.11" y="18.669" width="7" height="5" enable-background="new" fill="#fff"/>
+  </g>
+  <rect x="33.61" y="15.175" width="4" height="6.0909" ry="1.9578" enable-background="new" fill="none" stroke="#fff" stroke-dashoffset="1" stroke-linejoin="round"/>
+  <path d="m36.11 20.484v2.1857h-1v-1.9429z" color="#000000" color-rendering="auto" fill="#e95420" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:none;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+ </g>
+</svg>

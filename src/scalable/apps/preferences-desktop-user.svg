@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="linearGradient946" x1="4.6709" x2="12.317" y1="8.4679" y2="8.4679" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#c8c8c8" offset="0"/>
+   <stop stop-color="#fafafa" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle cx="8.4935" cy="8.73" r="7.9375" opacity=".2" stroke-width=".14032"/>
+ <circle cx="8.4935" cy="8.46" r="7.9375" fill="#fafafa" fill-opacity=".98039" stroke-width=".14032"/>
+ <path d="m8.4935 4.9418a1.498 1.1411 0 0 0-1.496 1.1105h-0.0031v0.98855a0.18299 0.24351 0 0 0-0.0041 0 0.18299 0.24351 0 0 0-0.18293 0.24339 0.18299 0.24351 0 0 0 0.18293 0.24339 0.18299 0.24351 0 0 0 0.0041 0h0.15089c0.01534 0.15907 0.05868 0.33401 0.15193 0.51881l0.54879 0.77204-2.6783 1.6743c-0.92021 0.81065-0.20842 1.5012 0.23719 1.5012h6.2229c0.43738 0 1.0595-0.67883 0.23719-1.5012l-2.6985-1.6872 0.5395-0.75911c0.08263-0.18592 0.12212-0.36046 0.13642-0.51881h0.15038v-5.292e-4a0.18299 0.24351 0 0 1 5.29e-4 0 0.18299 0.24351 0 0 0 0.17001-0.24288 0.18299 0.24351 0 0 0-0.17053-0.24288v-0.98905h-0.0026a1.498 1.1411 0 0 0-1.4965-1.1105z" fill="#c8c8c8" stroke="url(#linearGradient946)" stroke-dashoffset="2.9497" stroke-linejoin="round" stroke-width=".099998" style="paint-order:markers fill stroke"/>
+ <g fill="#5e4aa6">
+  <circle cx="-330.35" cy="-328.38" r="0" stroke-width=".26458"/>
+  <circle cx="-39.434" cy="6.44" r="0" fill-rule="evenodd" stroke-width=".26458"/>
+  <circle cx="-306.9" cy="-332.28" r="0" stroke-width=".26458"/>
+ </g>
+</svg>

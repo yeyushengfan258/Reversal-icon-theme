@@ -1,0 +1,38 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="e" x1="-2.4472" x2="-1.5753" y1="291.29" y2="291.29" gradientTransform="translate(-275.29 -367.68)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="a">
+   <stop stop-color="#969692" offset="0"/>
+   <stop stop-color="#969692" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d" x1="-2.4472" x2="-1.5753" y1="291.29" y2="291.29" gradientTransform="translate(-276.74 -368.07)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="c" x1="-2.4472" x2="-1.5753" y1="291.29" y2="291.29" gradientTransform="translate(-278.2 -368.46)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="b" x1="-2.4472" x2="-1.5753" y1="291.29" y2="291.29" gradientTransform="translate(-279.65 -368.85)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="f" x1="-6.1472" x2="-6.1472" y1="-137.82" y2="-100.78" gradientTransform="matrix(.53033 0 0 .53033 11.536 352.06)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#14dc78" offset="0"/>
+   <stop stop-color="#14a03c" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -280.07)">
+  <circle cx="-330.35" cy="-48.312" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+  <circle cx="8.4935" cy="288.8" r="7.9375" opacity=".2" stroke-width=".14032"/>
+  <circle cx="8.4935" cy="288.53" r="7.9375" fill="url(#f)" stroke-width=".14032"/>
+  <path d="m6.3763 286.08c0-0.39556 0.53948-0.34026 0.74623-0.21037l3.9819 2.5c0.4166 0.26158 0.4166 0.68307 0 0.94464l-3.9819 2.5c-0.20676 0.12974-0.74623 0.17761-0.74623-0.21064z" opacity=".25" style="paint-order:markers fill stroke"/>
+  <path d="m6.3763 285.77c0-0.39556 0.53948-0.34026 0.74623-0.21037l3.9819 2.5c0.4166 0.26158 0.4166 0.68308 0 0.94464l-3.9819 2.5c-0.20676 0.12974-0.74623 0.17761-0.74623-0.21064z" fill="#fff" style="paint-order:markers fill stroke"/>
+  <g transform="translate(-.018987 .15232)" fill-rule="evenodd" stroke-width=".05">
+   <g transform="translate(5.3788 -1.4967)">
+    <circle transform="rotate(255)" cx="-277.3" cy="-76.385" r=".42095" opacity=".15" stroke="url(#e)"/>
+    <circle transform="rotate(255)" cx="-278.75" cy="-76.774" r=".42095" opacity=".15" stroke="url(#d)"/>
+    <circle transform="rotate(255)" cx="-280.21" cy="-77.164" r=".42095" opacity=".15" stroke="url(#c)"/>
+    <circle transform="rotate(255)" cx="-281.66" cy="-77.553" r=".42095" opacity=".15" stroke="url(#b)"/>
+   </g>
+   <g transform="translate(15.669 -1.4967)">
+    <circle transform="rotate(255)" cx="-277.3" cy="-76.385" r=".42095" opacity=".15" stroke="url(#e)"/>
+    <circle transform="rotate(255)" cx="-278.75" cy="-76.774" r=".42095" opacity=".15" stroke="url(#d)"/>
+    <circle transform="rotate(255)" cx="-280.21" cy="-77.164" r=".42095" opacity=".15" stroke="url(#c)"/>
+    <circle transform="rotate(255)" cx="-281.66" cy="-77.553" r=".42095" opacity=".15" stroke="url(#b)"/>
+   </g>
+  </g>
+  <ellipse cx="-39.434" cy="286.51" r=".90502" fill="#5e4aa6" fill-rule="evenodd" stroke-width=".26458"/>
+ </g>
+</svg>

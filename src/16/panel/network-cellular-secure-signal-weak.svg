@@ -1,0 +1,6 @@
+<svg width="16" height="16" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g fill="#bebebe">
+  <path d="M15 1L1 15h8v-3.875h1c.017-1.637 1.354-3 3-3 .768 0 1.47.299 2 .781V1zm-4 12.125V15h4v-1.875h-4z" opacity=".35"/>
+  <path d="M5 11.003l-4 4h4v-4zM13 9.128c-1.108 0-2 .911-2 2.032v.968h-1v4h6v-4h-1v-.968c0-1.12-.892-2.032-2-2.032zm0 1c.554 0 1 .443 1 1v1h-2v-1c0-.557.446-1 1-1z"/>
+ </g>
+</svg>

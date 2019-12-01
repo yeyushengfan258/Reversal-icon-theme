@@ -1,0 +1,40 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="b" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429,0,0,2.1429,-826.36,-1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="g" x1="32.02" x2="32.02" y1="2.043" y2="62.045" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fe8002" offset="0"/>
+   <stop stop-color="#ffd007" offset="1"/>
+  </linearGradient>
+  <linearGradient id="i" x1="1180.2" x2="1180.2" y1="688.53" y2="658.13" gradientTransform="matrix(.60605 0 0 .60668 -690.87 -382.8)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff7b3d" offset="0"/>
+   <stop stop-color="#f14e4e" offset="1"/>
+  </linearGradient>
+  <linearGradient id="h" x1="1057" x2="1057" y1="-1073.6" y2="-1121.7" gradientTransform="matrix(.49999 0 0 -.5 -490.99 -513.82)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ffbd04" offset="0"/>
+   <stop stop-color="#ec4a00" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="1162.6" x2="1162.6" y1="901.16" y2="887.43" gradientTransform="matrix(1.3349,0,0,1.2569,-1522.7,-1087.7)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f1b818" offset="0"/>
+   <stop stop-color="#ffda64" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g stroke-width="1.5715">
+  <circle cx="32.02" cy="32.999" r="30.001" opacity=".25"/>
+  <circle cx="32.02" cy="32.044" r="30.001" fill="url(#g)"/>
+  <path d="m32 7a25 25 0 0 0-25 25 25 25 0 0 0 25 25 25 25 0 0 0 25-25 25 25 0 0 0-0.10352-2.1035l-22.791-22.791a25 25 0 0 0-2.1055-0.10547z" fill="#f9f9f9"/>
+  <circle cx="32.02" cy="32.044" r="30.001" fill-opacity="0"/>
+  <circle cx="32.02" cy="32.044" r="0" fill="url(#b)"/>
+ </g>
+ <path d="m37 27.01a10 10.01 0 0 1-10 10.01 10 10.01 0 0 1-10-10.01 10 10.01 0 0 1 10-10.01 10 10.01 0 0 1 10 10.01z" fill="url(#i)"/>
+ <path d="m33 39h16v-16h-16z" fill="url(#h)" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="m40 45h-22l11-18z" fill="url(#a)" stroke-linecap="round" stroke-linejoin="round"/>
+ <g transform="translate(1)" fill="#92e285" stroke="#18a303">
+  <rect x="15.5" y="43.5" width="3" height="3" opacity=".75"/>
+  <rect x="37.5" y="43.497" width="3" height="3.003" opacity=".75"/>
+  <rect x="26.5" y="25.5" width="3" height="3.003" opacity=".75"/>
+ </g>
+ <path d="m37.707 7.6895 18.605 18.605a25 25 0 0 0-18.605-18.605z" fill="#fff" opacity=".5"/>
+</svg>

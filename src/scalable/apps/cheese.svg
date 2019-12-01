@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <radialGradient id="a" cx="-256" cy="-256.2" r="96" gradientTransform="matrix(0 -.83333 -.83333 0 -461.5 -57.334)" gradientUnits="userSpaceOnUse">
+   <stop stop-opacity="0" offset="0"/>
+   <stop stop-opacity="0" offset=".89867"/>
+   <stop stop-opacity=".26166" offset=".94933"/>
+   <stop offset="1"/>
+  </radialGradient>
+  <filter id="c" x="-.084" y="-.084" width="1.168" height="1.168" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="6.1600021"/>
+  </filter>
+ </defs>
+ <circle cx="8.4935" cy="8.73" r="7.9375" opacity=".2" stroke-width=".14032"/>
+ <circle cx="8.4935" cy="8.461" r="7.9375" fill="#fafafa" stroke-width=".14032"/>
+ <ellipse transform="matrix(0 -.060131 -.060227 0 23.403 -.43299)" cx="-156" cy="248" r="88" color="#000000" filter="url(#c)" stroke-width="1.1015"/>
+ <g transform="matrix(.060227 0 0 .060131 23.403 -.60047)" enable-background="new" fill="#646464" opacity=".2" stroke-width="1.1015">
+  <circle transform="matrix(0,-1,-1,0,0,0)" cx="-156" cy="248" r="88" color="#000000" enable-background="accumulate"/>
+  <circle transform="matrix(0,-1,-1,0,0,0)" cx="-157" cy="248" r="80" color="#000000" enable-background="accumulate"/>
+  <circle transform="matrix(0,-1,-1,0,0,0)" cx="-156" cy="248" r="80" color="#000000" enable-background="accumulate"/>
+  <path d="m-248 75.999a80 80 0 0 0-79.999 80.001 80 80 0 0 0 79.999 80.001 80 80 0 0 0 80.001-80.001 80 80 0 0 0-80.001-80.001zm0 28.623a51.378 51.378 0 0 1 51.378 51.378 51.378 51.378 0 0 1-51.378 51.378 51.378 51.378 0 0 1-51.378-51.378 51.378 51.378 0 0 1 51.378-51.378z" color="#000000" enable-background="accumulate" opacity=".1"/>
+  <circle transform="matrix(0,-1,-1,0,0,0)" cx="-156" cy="248" r="64" color="#000000" enable-background="accumulate"/>
+  <circle transform="matrix(0,-1,-1,0,0,0)" cx="-156" cy="248" r="60" color="#000000" enable-background="accumulate"/>
+  <circle transform="matrix(0,-1,-1,0,0,0)" cx="-156" cy="248" r="40" color="#000000" enable-background="accumulate"/>
+  <circle transform="matrix(-.13917 -.99027 -.99027 .13917 0 0)" cx="-119.98" cy="267.2" r="20" color="#000000" enable-background="accumulate"/>
+  <circle transform="rotate(-8)" cx="-258.26" cy="113.16" r="6" color="#000000" enable-background="accumulate" opacity=".3"/>
+  <circle transform="rotate(-8)" cx="-276.33" cy="126.78" r="2" color="#000000" enable-background="accumulate" opacity=".3"/>
+  <circle cx="-222" cy="130" r="24" color="#000000" enable-background="accumulate" opacity=".2"/>
+  <path d="m-248 68a88 88 0 0 0-88 88 88 88 0 0 0 0.041 0.83008 88 88 0 0 1 87.959-86.83 88 88 0 0 1 87.959 87.17 88 88 0 0 0 0.041-1.1699 88 88 0 0 0-88-88z" color="#000000" enable-background="accumulate" opacity=".4"/>
+ </g>
+ <g transform="matrix(.060227 0 0 .060131 23.403 -.914)" enable-background="new" stroke-width="1.1015">
+  <circle transform="matrix(0,-1,-1,0,0,0)" cx="-156" cy="248" r="88" color="#000000" enable-background="accumulate" fill="#fff"/>
+  <circle transform="matrix(0,-1,-1,0,0,0)" cx="-157" cy="248" r="80" color="#000000" enable-background="accumulate" fill="#fff"/>
+  <circle transform="matrix(0,-1,-1,0,0,0)" cx="-156" cy="248" r="80" color="#000000" enable-background="accumulate" fill="#46444a"/>
+  <path d="m-248 75.999a80 80 0 0 0-79.999 80.001 80 80 0 0 0 79.999 80.001 80 80 0 0 0 80.001-80.001 80 80 0 0 0-80.001-80.001zm0 28.623a51.378 51.378 0 0 1 51.378 51.378 51.378 51.378 0 0 1-51.378 51.378 51.378 51.378 0 0 1-51.378-51.378 51.378 51.378 0 0 1 51.378-51.378z" color="#000000" enable-background="accumulate" fill="url(#a)" fill-opacity="0" opacity=".1"/>
+  <circle transform="matrix(0,-1,-1,0,0,0)" cx="-156" cy="248" r="64" color="#000000" enable-background="accumulate" fill="#a7a7f1"/>
+  <circle transform="matrix(0,-1,-1,0,0,0)" cx="-156" cy="248" r="60" color="#000000" enable-background="accumulate" fill="#8f76e4"/>
+  <circle transform="matrix(0,-1,-1,0,0,0)" cx="-156" cy="248" r="40" color="#000000" enable-background="accumulate" fill="#8c59d9"/>
+  <circle transform="matrix(-.13917 -.99027 -.99027 .13917 0 0)" cx="-119.98" cy="267.2" r="20" color="#000000" enable-background="accumulate" fill="#7839b7"/>
+  <g fill="#fff">
+   <circle transform="rotate(-8)" cx="-258.26" cy="113.16" r="6" color="#000000" enable-background="accumulate" opacity=".3"/>
+   <circle transform="rotate(-8)" cx="-276.33" cy="126.78" r="2" color="#000000" enable-background="accumulate" opacity=".3"/>
+   <circle cx="-222" cy="130" r="24" color="#000000" enable-background="accumulate" opacity=".2"/>
+   <path d="m-248 68a88 88 0 0 0-88 88 88 88 0 0 0 0.041 0.83008 88 88 0 0 1 87.959-86.83 88 88 0 0 1 87.959 87.17 88 88 0 0 0 0.04102-1.1699 88 88 0 0 0-88-88z" color="#000000" enable-background="accumulate" opacity=".4"/>
+  </g>
+ </g>
+ <path transform="matrix(.060227 0 0 .060131 23.403 -.43299)" d="m-248 68a88 88 0 0 0-88 88 88 88 0 0 0 0.041 0.83008 88 88 0 0 1 87.959-86.83 88 88 0 0 1 87.959 87.17 88 88 0 0 0 0.041-1.1699 88 88 0 0 0-88-88z" color="#000000" filter="url(#c)" opacity=".06" stroke-width="1.1015"/>
+ <circle cx="-330.35" cy="-328.38" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+ <circle cx="13.229" cy="4.2333" r=".52916" color="#000000" fill="#df382c"/>
+</svg>
