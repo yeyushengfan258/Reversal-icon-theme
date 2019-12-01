@@ -5,10 +5,6 @@
   <filter id="filter2761" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.14552168"/>
   </filter>
-  <linearGradient id="linearGradient2645-3" x1="15.752" x2="1.3927" y1="281.24" y2="295.6" gradientTransform="translate(-.1478 -280.07)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#0a82f0" offset="0"/>
-   <stop stop-color="#3250e6" offset="1"/>
-  </linearGradient>
  </defs>
  <metadata>
   <rdf:RDF>
@@ -20,9 +16,9 @@
   </rdf:RDF>
  </metadata>
  <path d="m10.709 1.05c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="#141414" filter="url(#filter2761)" opacity=".3"/>
- <path d="m10.692 1.05c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="url(#linearGradient2645-3)"/>
- <g transform="translate(0 -.1686)" fill="#fff" font-family="sans-serif" letter-spacing="0px" word-spacing="0px">
-  <text x="3.5622265" y="6.042973" font-size="3.1548px" stroke-width=".078871" style="line-height:1.25" xml:space="preserve"><tspan x="3.5622265" y="6.042973" fill="#ffffff" stroke-width=".078871">Friday</tspan></text>
-  <text x="4.2160759" y="13.284842" font-size="7.4765px" stroke-width=".18691" style="line-height:1.25" xml:space="preserve"><tspan x="4.2160759" y="13.284842" fill="#ffffff" stroke-width=".18691">15</tspan></text>
+ <path d="m10.709 0.97579c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="#fafafa"/>
+ <g transform="translate(-.40871 -.71961)" font-family="sans-serif" letter-spacing="0px" word-spacing="0px">
+  <text x="4.4334226" y="13.222259" fill="#009bff" font-size="8.0661px" stroke-width=".20165" style="line-height:1.25" xml:space="preserve"><tspan x="4.4334226" y="13.222259" fill="#009bff" stroke-width=".20165">27</tspan></text>
+  <text x="4.0724711" y="5.9806509" fill="#323232" font-size="1.6584px" stroke-width=".04146" style="line-height:1.25" xml:space="preserve"><tspan x="4.0724711" y="5.9806509" fill="#323232" stroke-width=".04146">Wednesday</tspan></text>
  </g>
 </svg>

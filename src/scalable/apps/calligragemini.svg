@@ -9,6 +9,14 @@
    <stop stop-color="#dddfe1" offset="0"/>
    <stop stop-color="#f3f4f6" stop-opacity=".99608" offset="1"/>
   </linearGradient>
+  <linearGradient id="SVGID_1_" x1="24.838" x2="46.732" y1="33.654" y2="55.548" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#EF6B2E" offset=".3569"/>
+   <stop stop-color="#F19F00" offset=".6328"/>
+  </linearGradient>
+  <linearGradient id="SVGID_2_" x1="24.859" x2="46.753" y1="30.388" y2="8.4933" gradientTransform="matrix(2.0044,0,0,2.0044,105.19,228.49)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#16B8C3" offset=".3707"/>
+   <stop stop-color="#02AEF0" offset=".7422"/>
+  </linearGradient>
  </defs>
  <metadata>
   <rdf:RDF>
@@ -21,7 +29,15 @@
  </metadata>
  <path d="m10.709 1.05c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="#141414" filter="url(#filter2761)" opacity=".3"/>
  <path d="m10.709 1.05c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="url(#linearGradient1024-6)"/>
- <circle cx="8.4674" cy="8.326" r="4.8484" fill="#323232" stroke="#232323" stroke-dashoffset=".42096" stroke-width=".63568"/>
- <rect x="8.2915" y="5.4812" width=".35169" height="3.022" ry=".13742" fill="#fff"/>
- <rect transform="rotate(-45)" x=".02247" y="12.044" width=".16519" height="3.848" rx=".044441" ry=".043322" fill="#f04646"/>
+ <g transform="matrix(.23918 0 0 .23918 -15.774 .47724)" stroke-width="1.1062">
+  <g transform="translate(71.322 .81356)">
+   <path d="m29 39.8c2.5 1.5 8.6 0.6 13.4 3.7s7.5 8.1 7.6 8.3 0.1 0.4-0.2 0.7-0.8 0.3-0.8 0.3-11.1 1.8-18.2-4.9c-7.2-6.7-6.6-13.5-6.6-13.5s0.4 2.9 4.8 5.4z" clip-rule="evenodd" fill="url(#SVGID_1_)" fill-rule="evenodd" stroke-width="1.1062"/>
+  </g>
+  <g transform="translate(71.322 .81356)">
+   <path d="m24.1 29.7s-0.5-6.9 6.6-13.5c7.2-6.8 18.3-5 18.3-5s0.5 0.1 0.8 0.3 0.3 0.5 0.2 0.7-2.8 5.3-7.6 8.3-10.9 2.2-13.4 3.7c-4.3 2.6-4.9 5.5-4.9 5.5z" clip-rule="evenodd" fill="url(#SVGID_2_)" fill-rule="evenodd" stroke-width="1.1062"/>
+  </g>
+  <g transform="translate(71.322 .81356)">
+   <path d="m24 32c0 11.6 9.4 21 21 21h-14c-11.6 0-21-9.4-21-21s9.4-21 21-21h14c-11.6 0-21 9.4-21 21z" clip-rule="evenodd" fill="#1b1f24" fill-rule="evenodd" stroke-width="1.1062"/>
+  </g>
+ </g>
 </svg>

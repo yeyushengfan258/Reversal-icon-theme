@@ -5,13 +5,10 @@
   <filter id="filter2761" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.14552168"/>
   </filter>
-  <linearGradient id="linearGradient2645-7" x1="15.752" x2="1.3927" y1="281.24" y2="295.6" gradientTransform="translate(-.13126 -280.07)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#0a82f0" offset="0"/>
-   <stop stop-color="#3250e6" offset="1"/>
+  <linearGradient id="linearGradient4673" x1="1.2573" x2="15.644" y1="15.429" y2="1.1082" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#32dcff" offset="0"/>
+   <stop stop-color="#3296ff" offset="1"/>
   </linearGradient>
-  <filter id="filter924" x="-.060054" y="-.059946" width="1.1201" height="1.1199" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.2078715"/>
-  </filter>
  </defs>
  <metadata>
   <rdf:RDF>
@@ -23,15 +20,13 @@
   </rdf:RDF>
  </metadata>
  <path d="m10.709 1.05c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="#141414" filter="url(#filter2761)" opacity=".3"/>
- <g transform="matrix(1.3181 0 0 1.3181 -2.6291 -2.6396)" fill="#285ae6" filter="url(#filter924)">
-  <path d="m11.198 11.399a4.1537 4.1537 0 0 1-2.7795 1.067 4.1537 4.1537 0 0 1-4.1537-4.1537 4.1537 4.1537 0 0 1 4.1537-4.1537 4.1537 4.1537 0 0 1 2.7795 1.0671"/>
-  <circle cx="8.4188" cy="8.3271" r="4.1537" opacity=".2"/>
+ <path d="m10.709 0.97579c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="url(#linearGradient4673)"/>
+ <g transform="translate(-28.412 5.9557)">
+  <g transform="translate(28.461 -6.0236)" fill="none" stroke="#fff" stroke-dashoffset=".42096" stroke-width="2.3812">
+   <circle cx="8.4188" cy="8.3271" r="4.1537" opacity=".2"/>
+   <path d="m11.198 11.399a4.1537 4.1537 0 0 1-2.7795 1.067 4.1537 4.1537 0 0 1-4.1537-4.1537 4.1537 4.1537 0 0 1 4.1537-4.1537 4.1537 4.1537 0 0 1 2.7795 1.0671"/>
+  </g>
+  <circle cx="36.88" cy="2.296" r="1.9878" fill="#fff"/>
+  <text x="35.788818" y="2.7006078" fill="#32c3ff" font-family="sans-serif" font-size="1.1259px" letter-spacing="0px" stroke-width=".028147" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="35.788818" y="2.7006078" fill="#32c3ff" stroke-width=".028147">70%</tspan></text>
  </g>
- <path d="m10.709 1.05c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="url(#linearGradient2645-7)"/>
- <g transform="translate(.048526 .0064609)" fill="none" stroke="#fff" stroke-dashoffset=".42096" stroke-width="2.3812">
-  <circle cx="8.4188" cy="8.3271" r="4.1537" opacity=".2"/>
-  <path d="m11.198 11.399a4.1537 4.1537 0 0 1-2.7795 1.067 4.1537 4.1537 0 0 1-4.1537-4.1537 4.1537 4.1537 0 0 1 4.1537-4.1537 4.1537 4.1537 0 0 1 2.7795 1.0671"/>
- </g>
- <circle cx="8.4674" cy="8.326" r="1.9878" fill="#fff"/>
- <text x="7.3766689" y="8.7306576" fill="#107bef" font-family="sans-serif" font-size="1.1259px" letter-spacing="0px" stroke-width=".028147" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="7.3766689" y="8.7306576" fill="#107bef" stroke-width=".028147">70%</tspan></text>
 </svg>

@@ -5,9 +5,9 @@
   <filter id="filter2761" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.14552168"/>
   </filter>
-  <linearGradient id="linearGradient2645-3" x1="15.752" x2="1.3927" y1="281.24" y2="295.6" gradientTransform="translate(-.13126 -280.07)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#dc28e6" offset="0"/>
-   <stop stop-color="#8c14e6" offset="1"/>
+  <linearGradient id="linearGradient1024" x1="1.3315" x2="15.673" y1="15.576" y2="1.1269" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#a53cff" offset="0"/>
+   <stop stop-color="#b496ff" offset="1"/>
   </linearGradient>
  </defs>
  <metadata>
@@ -20,7 +20,7 @@
   </rdf:RDF>
  </metadata>
  <path d="m10.709 1.05c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="#141414" filter="url(#filter2761)" opacity=".3"/>
- <path d="m10.709 1.05c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="url(#linearGradient2645-3)"/>
+ <path d="m10.709 1.05c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="url(#linearGradient1024)"/>
  <g transform="translate(.00085 -1.0246)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width=".9399">
   <path d="m8.463 9.3506h-2.35s-1.41 0-1.41-1.41 1.41-1.41 1.41-1.41h5.64m-3.283 2.82h2.35s1.41 0 1.41 1.41-1.41 1.41-1.41 1.41h-5.64" stroke="#fff"/>
  </g>

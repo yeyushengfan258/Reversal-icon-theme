@@ -5,10 +5,13 @@
   <filter id="filter2761" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.14552168"/>
   </filter>
-  <linearGradient id="linearGradient1024" x1="1.3315" x2="14.217" y1="15.576" y2="2.6243" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#ff7d1e" offset="0"/>
-   <stop stop-color="#ffa53c" offset="1"/>
+  <linearGradient id="linearGradient1024" x1="1.3315" x2="15.65" y1="15.576" y2="1.17" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#00c8ff" offset="0"/>
+   <stop stop-color="#14a0ff" offset="1"/>
   </linearGradient>
+  <filter id="filter914" x="-.085107" y="-.082922" width="1.1702" height="1.1658" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.33551342"/>
+  </filter>
  </defs>
  <metadata>
   <rdf:RDF>
@@ -21,11 +24,12 @@
  </metadata>
  <path d="m10.709 1.05c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="#141414" filter="url(#filter2761)" opacity=".3"/>
  <path d="m10.709 1.05c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="url(#linearGradient1024)"/>
- <g transform="translate(-.12317 -.36834)" fill="#fff">
-  <rect x="5.3081" y="6.2672" width="6.5648" height="1.4386" ry=".29765"/>
-  <g transform="translate(-19.05 1.5875)">
-   <path transform="scale(.26458)" d="m106.4 30.598h-13.217c-0.62325 0-1.125 0.50175-1.125 1.125v3.1875c0 0.62325 0.50175 1.125 1.125 1.125h8.002z"/>
-   <path transform="scale(.26458)" d="m106.4 30.598-5.2148 5.4375h14.561c0.62325 0 1.125-0.50175 1.125-1.125v-3.1875c0-0.62325-0.50175-1.125-1.125-1.125z" opacity=".8"/>
-  </g>
+ <g transform="matrix(.86018 0 0 .86018 .85719 .96913)" fill="#0087ff" filter="url(#filter914)">
+  <rect x="4.1165" y="3.6974" width="9.4614" height="7.3039" ry=".9155" opacity=".5"/>
+  <path d="m12.658 3.6974h-7.742s-0.79822 0.05381-0.79822 0.79822v8.619s-0.03973 0.37275 0.3134 0.27813l9.0134-9.2591s-0.23365-0.43619-0.78657-0.43619z"/>
+ </g>
+ <g transform="matrix(.86018 0 0 .86018 .85719 .96913)">
+  <rect x="4.1165" y="3.6974" width="9.4614" height="7.3039" ry=".9155" fill="#fafafa" opacity=".5"/>
+  <path d="m12.658 3.6974h-7.742s-0.79822 0.05381-0.79822 0.79822v8.619s-0.03973 0.37275 0.3134 0.27813l9.0134-9.2591s-0.23365-0.43619-0.78657-0.43619z" fill="#fff"/>
  </g>
 </svg>

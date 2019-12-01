@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter2761" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.14552168"/>
+  </filter>
+  <linearGradient id="linearGradient1024" x1="1.3315" x2="13.449" y1="15.576" y2="3.4588" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3caaff" offset="0"/>
+   <stop stop-color="#b496ff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient853" x1="1.3315" x2="13.449" y1="15.576" y2="3.4588" gradientTransform="matrix(1.1322 0 0 1.1322 -.26457 -1.9362)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#e6e6ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path d="m10.709 1.05c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="#141414" filter="url(#filter2761)" opacity=".3"/>
+ <path d="m10.709 1.05c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="url(#linearGradient1024)"/>
+ <path d="m11.153 3.4248s-1.4878 1.0206-1.5896 1.5996c0 0-3.1468-0.99503-5.9122 1.6575h1.3954s-3.6587 2.287-3.7222 3.7228c0.063619-0.03999 0.67277-0.35795 0.93085-0.46572 0 0-1.0371 2.3768-0.49029 4.3407 0.71687 1.2374 2.1816 1.3227 5.0066 1.3227h3.1805c-0.088289-0.23391-0.20391-0.45914-0.36216-0.66347-0.85468-1.1058-2.3334-3.9795-0.35529-4.9999 0 0 1.2503 1.7547 2.7183 1.9249 0 0 0.17099 1.5039 1.9454 0.5488 0.47354-0.2538 0.64987-1.0932 0.17201-1.7745l-0.3762-0.5447s-1.246-2.9915-2.1332-3.8767c0 0-0.4653-1.3957 0-2.3263 0 0-0.5272 0.39149-0.69799 0.69799 0 0 0.11902-0.99404 0.2902-1.1631z" enable-background="new" fill="url(#linearGradient853)" stroke-width="1.1322"/>
+</svg>

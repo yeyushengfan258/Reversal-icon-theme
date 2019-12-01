@@ -2,28 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <defs>
-  <linearGradient id="linearGradient2645" x1="15.752" x2="1.3927" y1="281.24" y2="295.6" gradientTransform="translate(-.13126 -280.07)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#0a82f0" offset="0"/>
-   <stop stop-color="#3250e6" offset="1"/>
-  </linearGradient>
   <filter id="filter2761" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.14552168"/>
   </filter>
-  <linearGradient id="linearGradient1052" x1="-42.398" x2="-42.398" y1="3.7201" y2="11.975" gradientTransform="translate(50.625 19.327)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#fdfbff" offset="0"/>
-   <stop stop-color="#87c4e9" offset="1"/>
+  <linearGradient id="linearGradient1024-6" x1="1.3315" x2="15.65" y1="15.576" y2="1.17" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#00dc96" offset="0"/>
+   <stop stop-color="#14d29b" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient865" x1="-44.199" x2="-44.199" y1="5.17" y2="13.098" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#ecf5fc" offset="0"/>
-   <stop stop-color="#86c2eb" offset="1"/>
-  </linearGradient>
-  <linearGradient id="linearGradient873" x1="-40.597" x2="-40.597" y1="5.0999" y2="13.121" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#fbfefd" offset="0"/>
-   <stop stop-color="#bddbf9" offset="1"/>
-  </linearGradient>
-  <filter id="filter885" x="-.062277" y="-.057883" width="1.1246" height="1.1158" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.18894574"/>
-  </filter>
  </defs>
  <metadata>
   <rdf:RDF>
@@ -35,14 +20,13 @@
   </rdf:RDF>
  </metadata>
  <path d="m10.709 1.05c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="#141414" filter="url(#filter2761)" opacity=".3"/>
- <path d="m10.709 1.05c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="url(#linearGradient2645)"/>
- <path d="m8.1602 23.312-3.5253 1.4071s-0.09353 0.05832-0.09353 0.11679c0 0.05846-0.36284 4.9697 3.6188 6.291 3.9817-1.3213 3.6188-6.2325 3.6188-6.291 0-0.05846-0.09353-0.11679-0.09353-0.11679z" fill="url(#linearGradient1052)"/>
- <g transform="matrix(1.3582 0 0 1.3582 66.101 -4.0321)" fill="#2a5ae8" filter="url(#filter885)">
-  <path d="m-42.434 5.1817-3.4247 1.3564s-0.21047 0.093542-0.21047 0.30401c0 0.21047-0.30656 4.8876 3.6352 6.1738z"/>
-  <path d="m-42.434 5.1817 3.4247 1.3564s0.21047 0.093542 0.21047 0.30401c0 0.21047 0.30656 4.8876-3.6352 6.1738z"/>
- </g>
- <g transform="matrix(1.3582 0 0 1.3582 66.101 -4.0319)">
-  <path d="m-42.434 5.1817-3.4247 1.3564s-0.21047 0.093542-0.21047 0.30401c0 0.21047-0.30656 4.8876 3.6352 6.1738z" fill="url(#linearGradient865)"/>
-  <path d="m-42.434 5.1817 3.4247 1.3564s0.21047 0.093542 0.21047 0.30401c0 0.21047 0.30656 4.8876-3.6352 6.1738z" fill="url(#linearGradient873)"/>
+ <path d="m10.709 1.05c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="url(#linearGradient1024-6)"/>
+ <g transform="translate(.41425 -.41003)">
+  <path d="m8.0531 3.7504h-0.23151l-4.1506 1.7446v4.2118s-0.03307 1.9809 4.3821 4.0149z" fill="#fff"/>
+  <path d="m8.0531 3.7504h0.23151l4.1506 1.7446v4.2118s0.03307 1.9809-4.3821 4.0149z" fill="#c8ffe6"/>
+  <g transform="translate(0 .052356)" fill="#28aa78">
+   <path d="m8.0531 5.7079-1.622 3.5312h1.622z"/>
+   <path d="m8.0531 11.66 1.622-3.5312h-1.622z"/>
+  </g>
  </g>
 </svg>
