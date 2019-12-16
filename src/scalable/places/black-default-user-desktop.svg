@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <filter id="filter2761" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.14552168"/>
+  </filter>
+  <linearGradient id="linearGradient2725" x1="1.2087" x2="15.751" y1="281.2" y2="295.74" gradientTransform="translate(-.1478 -280.07)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#464646" offset="0"/>
+   <stop stop-color="#212121" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path d="m10.709 1.05c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="#141414" filter="url(#filter2761)" opacity=".3"/>
+ <path d="m10.692 1.05c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="url(#linearGradient2725)"/>
+ <path d="m6.2088 1.05c-2.9027 0-4.166 0.29276-4.6901 1.8412h13.863c-0.52406-1.5484-1.7874-1.8412-4.6901-1.8412h-2.2417z" enable-background="new" fill="#141414" opacity=".3"/>
+ <g transform="matrix(.81502 0 0 .85436 -.6382 3.1031)" fill="#fff">
+  <rect x="4.1397" y="-1.3544" width="1.058" height=".529" ry=".265" opacity=".35" style="paint-order:stroke markers fill"/>
+  <rect x="9.6967" y="-1.3544" width="2.646" height=".529" ry=".265" opacity=".35" style="paint-order:stroke markers fill"/>
+  <rect x="17.634" y="-1.3544" width=".529" height=".529" ry=".265" opacity=".35" style="paint-order:stroke markers fill"/>
+  <rect x="16.576" y="-1.3544" width=".794" height=".529" ry=".265" opacity=".35" style="paint-order:stroke markers fill"/>
+  <rect x="15.782" y="-1.3544" width=".529" height=".529" ry=".265" opacity=".35" style="paint-order:stroke markers fill"/>
+ </g>
+ <path d="m4.1449 14.029c-0.29307 0-0.52916 0.35051-0.52916 0.78598v0.61545c0.67175 0.12983 1.5202 0.17208 2.5977 0.17208h4.4834c1.2883 0 2.2518-0.05899 2.9729-0.25838v-0.52916c0-0.43547-0.23608-0.78598-0.52916-0.78598z" enable-background="new" fill="#fff" opacity=".3"/>
+ <g transform="translate(-20.201 6.9689)" fill="#a0a0a0" stroke-width=".082447">
+  <path d="m25.659 6.4453c0.36318 0 0.41508 0.055471 0.41508 0.44423v0.31133c0 0.38876-0.0519 0.44423-0.41508 0.44423h-0.36963c-0.36318 0-0.41509-0.055471-0.41509-0.44423v-0.31133c0-0.38876 0.0519-0.44423 0.41509-0.44423z" enable-background="new"/>
+  <path d="m27.905 6.4453c0.36318 0 0.41508 0.055471 0.41508 0.44423v0.31133c0 0.38876-0.0519 0.44423-0.41508 0.44423h-0.36963c-0.36318 0-0.41509-0.055471-0.41509-0.44423v-0.31133c0-0.38876 0.0519-0.44423 0.41509-0.44423z" enable-background="new"/>
+  <path d="m30.152 6.4453c0.36318 0 0.41508 0.055471 0.41508 0.44423v0.31133c0 0.38876-0.0519 0.44423-0.41508 0.44423h-0.36963c-0.36318 0-0.41509-0.055471-0.41509-0.44423v-0.31133c0-0.38876 0.0519-0.44423 0.41509-0.44423z" enable-background="new"/>
+  <path d="m32.398 6.4453c0.36318 0 0.41508 0.055471 0.41508 0.44423v0.31133c0 0.38876-0.0519 0.44423-0.41508 0.44423h-0.36963c-0.36318 0-0.41509-0.055471-0.41509-0.44423v-0.31133c0-0.38876 0.0519-0.44423 0.41509-0.44423z" enable-background="new"/>
+ </g>
+</svg>

@@ -14,6 +14,7 @@ SRC_DIR=$(cd $(dirname $0) && pwd)
 
 THEME_NAME=Reversal
 COLOR_VARIANTS=('' '-dark')
+THEME_VARIANTS=('' '-red' '-pink' '-purple' '-blue' '-green' '-orange' '-brown' '-grey' '-black')
 
 usage() {
   printf "%s\n" "Usage: $0 [OPTIONS...]"
@@ -28,7 +29,7 @@ install() {
   local name=${2}
   local color=${3}
 
-  local THEME_DIR=${dest}/${name}${color}
+  local THEME_DIR=${dest}/${name}${theme}${color}
 
   [[ -d ${THEME_DIR} ]] && rm -rf ${THEME_DIR}
 
@@ -40,14 +41,18 @@ install() {
   cp -r ${SRC_DIR}/src/index.theme                                                     ${THEME_DIR}
 
   cd ${THEME_DIR}
-  sed -i "s/${name}/${name}${color}/g" index.theme
+  sed -i "s/${name}/${name}${theme}${color}/g" index.theme
 
   if [[ ${color} == '' ]]; then
     cp -r ${SRC_DIR}/src/{16,22,24,32,scalable,symbolic}                               ${THEME_DIR}
     cp -r ${SRC_DIR}/links/{16,22,24,32,scalable,symbolic}                             ${THEME_DIR}
+  fi
 
-  else
+  if [[ ${color} == '' && ${theme} != '' ]]; then
+    cp -r ${SRC_DIR}/src/colors/color${theme}/*.svg                                    ${THEME_DIR}/scalable/places
+  fi
 
+  if [[ ${color} == '-dark' ]]; then
     mkdir -p                                                                           ${THEME_DIR}/16
     mkdir -p                                                                           ${THEME_DIR}/22
     mkdir -p                                                                           ${THEME_DIR}/24
@@ -64,19 +69,19 @@ install() {
     cp -r ${SRC_DIR}/links/24/actions                                                  ${THEME_DIR}/24
 
     cd ${dest}
-    ln -sr ${name}/scalable ${name}-dark/scalable
-    ln -sr ${name}/symbolic ${name}-dark/symbolic
-    ln -sr ${name}/32 ${name}-dark/32
-    ln -sr ${name}/16/mimetypes ${name}-dark/16/mimetypes
-    ln -sr ${name}/16/panel ${name}-dark/16/panel
+    ln -sr ${name}${theme}/scalable ${name}${theme}-dark/scalable
+    ln -sr ${name}${theme}/symbolic ${name}${theme}-dark/symbolic
+    ln -sr ${name}${theme}/32 ${name}${theme}-dark/32
+    ln -sr ${name}${theme}/16/mimetypes ${name}${theme}-dark/16/mimetypes
+    ln -sr ${name}${theme}/16/panel ${name}${theme}-dark/16/panel
 
-    ln -sr ${name}/16/status ${name}-dark/16/status
-    ln -sr ${name}/22/emblems ${name}-dark/22/emblems
-    ln -sr ${name}/22/mimetypes ${name}-dark/22/mimetypes
-    ln -sr ${name}/22/panel ${name}-dark/22/panel
+    ln -sr ${name}${theme}/16/status ${name}${theme}-dark/16/status
+    ln -sr ${name}${theme}/22/emblems ${name}${theme}-dark/22/emblems
+    ln -sr ${name}${theme}/22/mimetypes ${name}${theme}-dark/22/mimetypes
+    ln -sr ${name}${theme}/22/panel ${name}${theme}-dark/22/panel
 
-    ln -sr ${name}/24/animations ${name}-dark/24/animations
-    ln -sr ${name}/24/panel ${name}-dark/24/panel
+    ln -sr ${name}${theme}/24/animations ${name}${theme}-dark/24/animations
+    ln -sr ${name}${theme}/24/panel ${name}${theme}-dark/24/panel
   fi
 
   cd ${THEME_DIR}
@@ -87,7 +92,7 @@ install() {
   ln -sr scalable scalable@2x
 
   cd ${dest}
-  gtk-update-icon-cache ${name}${color}
+  gtk-update-icon-cache ${name}${theme}${color}
 }
 
 while [[ $# -gt 0 ]]; do
@@ -104,6 +109,33 @@ while [[ $# -gt 0 ]]; do
       name="${2}"
       shift 2
       ;;
+    -a|--all)
+      all="true"
+      ;;
+    -black)
+      theme="-black"
+      ;;
+    -blue)
+      theme="-blue"
+      ;;
+    -brown)
+      theme="-brown"
+      ;;
+    -green)
+      theme="-green"
+      ;;
+    -grey)
+      theme="-grey"
+      ;;
+    -orange)
+      theme="-orange"
+      ;;
+    -pink)
+      theme="-pink"
+      ;;
+    -red)
+      theme="-red"
+      ;;
     -h|--help)
       usage
       exit 0
@@ -114,8 +146,25 @@ while [[ $# -gt 0 ]]; do
       exit 1
       ;;
   esac
+  shift
 done
 
-for color in "${colors[@]:-${COLOR_VARIANTS[@]}}"; do
-  install "${dest:-${DEST_DIR}}" "${name:-${THEME_NAME}}" "${color}"
+install_theme() {
+  for color in "${colors[@]-${COLOR_VARIANTS[@]}}"; do
+    install "${dest:-${DEST_DIR}}" "${name:-${THEME_NAME}}" "${color}"
+  done
+}
+
+install_all() {
+for theme in "${themes[@]-${THEME_VARIANTS[@]}}"; do
+  for color in "${colors[@]-${COLOR_VARIANTS[@]}}"; do
+    install "${dest:-${DEST_DIR}}" "${name:-${THEME_NAME}}" "${color}"
+  done
 done
+}
+
+if [[ "${all}" == 'true' ]]; then
+  install_all
+  else
+  install_theme
+fi
