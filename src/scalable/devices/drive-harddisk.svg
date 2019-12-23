@@ -1,26 +1,34 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
  <defs>
-  <linearGradient id="b">
-   <stop stop-color="#808080" offset="0"/>
-   <stop stop-color="#999" offset="1"/>
+  <filter id="filter2761" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.14552168"/>
+  </filter>
+  <linearGradient id="linearGradient1024" x1="1.3315" x2="15.65" y1="15.576" y2="1.17" gradientTransform="translate(.084079 .18792)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3c4b55" offset="0"/>
+   <stop stop-color="#324146" offset="1"/>
   </linearGradient>
-  <linearGradient id="c" x1="529.66" x2="-35.31" y1="295.64" y2="295.64" gradientTransform="matrix(0 -.029972 -.02997 0 16.798 15.875)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#999" offset="0"/>
-   <stop stop-color="#b7b7b7" offset=".61328"/>
-   <stop stop-color="#dbdbdb" offset="1"/>
-  </linearGradient>
-  <linearGradient id="a" x1="334.87" x2="334.87" y1="140.23" y2="160.63" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
  </defs>
- <path d="m11.712 1.3229c2.3346 0 2.5858 0.2398 2.5744 2.5792v4.829 4.829c0.01145 2.3394-0.23976 2.5792-2.5744 2.5792h-6.4923c-2.3346 0-2.5744-0.23978-2.5744-2.5792v-4.829-4.829c0-2.3394 0.23976-2.5792 2.5744-2.5792z" color="#000000" opacity=".35"/>
- <path d="m11.712 1.0583c2.3346 0 2.5858 0.2398 2.5744 2.5792v4.829 4.829c0.01145 2.3394-0.23976 2.5792-2.5744 2.5792h-6.4923c-2.3346 0-2.5744-0.23977-2.5744-2.5792v-4.829-4.829c0-2.3394 0.23976-2.5792 2.5744-2.5792z" color="#000000" fill="url(#c)"/>
- <g transform="translate(-25.929)" fill="none" stroke-linecap="square" stroke-linejoin="round" stroke-width="1.1334">
-  <g transform="matrix(.4669 0 0 .46689 -122.49 -60.048)" enable-background="new" opacity=".2" stroke="#fff">
-   <path d="m344.21 147.66a8.5002 8.5001 0 0 1-4.9577 10.053 8.5002 8.5001 0 0 1-10.614-3.603 8.5002 8.5001 0 0 1 2.1868-10.994 8.5002 8.5001 0 0 1 11.185 0.73311l-1.7604 1.7604" enable-background="new" opacity="1"/>
-   <circle cx="336" cy="149.86" r="2.2666" enable-background="new" opacity="1"/>
-  </g>
-  <g transform="matrix(.4669 0 0 .46689 -122.49 -60.18)" enable-background="new" stroke="url(#a)">
-   <path d="m344.21 147.66a8.5002 8.5001 0 0 1-4.9577 10.053 8.5002 8.5001 0 0 1-10.614-3.603 8.5002 8.5001 0 0 1 2.1868-10.994 8.5002 8.5001 0 0 1 11.185 0.73311l-1.7604 1.7604" enable-background="new"/>
-   <circle cx="336" cy="149.86" r="2.2666" enable-background="new"/>
-  </g>
+ <path d="m10.793 1.2379c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="#141414" filter="url(#filter2761)" opacity=".3"/>
+ <path d="m10.793 1.2379c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="url(#linearGradient1024)"/>
+ <g transform="translate(-.035178 .0070756)" fill="#25ebbb">
+  <circle cx="4.1328" cy="3.7321" r=".96298"/>
+  <circle cx="13.04" cy="3.7321" r=".96298"/>
+  <circle cx="4.1328" cy="13.282" r=".96298"/>
+  <circle cx="13.04" cy="13.282" r=".96298"/>
+ </g>
+ <g>
+  <circle cx="8.5514" cy="6.9892" r="3.7516" fill="#25ebbb"/>
+  <path d="m4.5366 11.311 3.281-2.2472c0.28473-0.19502 0.65085-0.20411 0.8793 0.05458 0.22845 0.25868 0.16999 0.61724-0.05458 0.8793l-2.5622 2.9899c-0.22457 0.26206-0.84253-0.25113-1.071-0.50981-0.22845-0.25868-0.75727-0.9718-0.47253-1.1668z" fill="#f55"/>
+  <circle cx="8.5514" cy="6.9892" r="1.0356" fill="#f55"/>
  </g>
 </svg>
