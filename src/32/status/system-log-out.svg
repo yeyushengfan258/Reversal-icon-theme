@@ -1,4 +1,14 @@
-<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <path d="m16 1c-8.2759 0-15 6.7241-15 15s6.7241 15 15 15 15-6.7241 15-15-6.7241-15-15-15z" color="#000000" fill="#faae2a" overflow="visible"/>
- <path d="M17 9l8 7.027L17 23v-5H8v-3.928h9z" fill="#fff" overflow="visible"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path d="m20.621 1.0002c9.081 0 10.379 1.387 10.379 11.108v7.7845c0 9.7205-1.2978 11.108-10.379 11.108h-9.2423c-9.081 0-10.379-1.387-10.379-11.108v-7.7845c0-9.7205 1.2978-11.108 10.379-11.108z" enable-background="new" fill="#fff" stroke-width="2.0615"/>
+ <path d="m12.944 8.7408c-0.21832-0.21832-0.5458-0.21832-0.76414 0-0.21831 0.21832-0.21831 0.5458 0 0.76413l6.4951 6.4951-6.4951 6.4951c-0.21831 0.21832-0.21831 0.5458 0 0.76413 0.10917 0.10916 0.27292 0.16374 0.38207 0.16374 0.10917 0 0.27291-0.05457 0.38207-0.16374l6.8771-6.8771c0.21832-0.21832 0.21832-0.5458 0-0.76413z" fill="#505050" stroke-width=".017811" p-id="10172"/>
 </svg>
