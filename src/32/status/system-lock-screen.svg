@@ -1,17 +1,75 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <path d="m20.621 1.0002c9.081 0 10.379 1.387 10.379 11.108v7.7845c0 9.7205-1.2978 11.108-10.379 11.108h-9.2423c-9.081 0-10.379-1.387-10.379-11.108v-7.7845c0-9.7205 1.2978-11.108 10.379-11.108z" enable-background="new" fill="#fff" stroke-width="2.0615"/>
- <g transform="matrix(.021288 0 0 .021288 5.1029 5.1006)" fill="#505050">
-  <path d="m790.32 436.33h-53.248v-57.651c0-124.52-101.89-226.41-226.41-226.41s-226.41 101.89-226.41 226.41l-0.512 57.651h-50.176c-22.528 0-40.96 18.432-40.96 40.96v353.48c0 22.528 18.432 40.96 40.96 40.96h556.65c22.528 0 40.96-18.432 40.96-40.96v-353.48c0.1024-22.528-18.33-40.96-40.858-40.96zm-465.1-57.754c0-101.99 83.456-185.45 185.45-185.45s185.45 83.456 185.45 185.45v57.754h-371.4zm465.1 431.82c0 11.264-9.216 20.48-20.48 20.48h-515.69c-11.264 0-20.48-9.216-20.48-20.48v-312.83c0-11.264 9.216-20.48 20.48-20.48h515.69c11.264 0 20.48 9.216 20.48 20.48z" p-id="12556"/>
-  <path d="m512 581.22c-11.264 0-20.48 9.216-20.48 20.48v104.55c0 11.264 9.216 20.48 20.48 20.48s20.48-9.216 20.48-20.48v-104.55c0-11.264-9.216-20.48-20.48-20.48z" p-id="12557"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="system-lock-screen.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#c8c8c8"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="973"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="-10.576271"
+     inkscape:cy="16"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="m20.621 1.0002c9.081 0 10.379 1.387 10.379 11.108v7.7845c0 9.7205-1.2978 11.108-10.379 11.108h-9.2423c-9.081 0-10.379-1.387-10.379-11.108v-7.7845c0-9.7205 1.2978-11.108 10.379-11.108z"
+     enable-background="new"
+     fill="#fff"
+     stroke-width="2.0615"
+     id="path4"
+     style="opacity:0.6" />
+  <g
+     style="fill:#323232;fill-opacity:1;fill-rule:evenodd"
+     transform="matrix(0.9999874,0,0,0.9999874,-168.99782,42.186094)"
+     id="g89">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 185,-36 c -2.77,0 -5,2.23 -5,5 v 3 h -2 c -1.108,0 -2,0.892 -2,2 v 6 c 0,1.108 0.892,2 2,2 h 14 c 1.108,0 2,-0.892 2,-2 v -6 c 0,-1.108 -0.892,-2 -2,-2 h -2 v -3 c 0,-2.77 -2.23,-5 -5,-5 z m 0,1 c 2.216,0 4,1.784 4,4 v 3 h -8 v -3 c 0,-2.216 1.784,-4 4,-4 z m -7,8 h 14 c 0.554,0 1,0.446 1,1 v 6 c 0,0.554 -0.446,1 -1,1 h -14 c -0.554,0 -1,-0.446 -1,-1 v -6 c 0,-0.554 0.446,-1 1,-1 z"
+       style="opacity:1;fill:#323232;fill-opacity:1;paint-order:stroke fill markers"
+       id="path85" />
+    <rect
+       x="184.5"
+       y="-25"
+       width="1"
+       height="3"
+       ry="0.5"
+       style="opacity:1;fill:#323232;fill-opacity:1;paint-order:stroke fill markers"
+       id="rect87" />
+  </g>
 </svg>

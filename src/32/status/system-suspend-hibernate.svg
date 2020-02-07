@@ -1,20 +1,104 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <path d="m20.621 1.0002c9.081 0 10.379 1.387 10.379 11.108v7.7845c0 9.7205-1.2978 11.108-10.379 11.108h-9.2423c-9.081 0-10.379-1.387-10.379-11.108v-7.7845c0-9.7205 1.2978-11.108 10.379-11.108z" enable-background="new" fill="#fff" stroke-width="2.0615"/>
- <g transform="matrix(.016753 0 0 .016753 7.4198 7.4172)" fill="#505050">
-  <path d="m927.89 480.29h-0.0102c-17.652 0-31.968 14.306-31.973 31.962-0.0256 66.875-17.823 133.02-51.467 191.3-51.233 88.737-133.95 152.21-232.93 178.73-98.978 26.509-202.35 12.906-291.09-38.327-88.737-51.233-152.21-133.95-178.73-232.93-26.519-98.973-12.911-202.35 38.322-291.09 63.815-110.53 178.04-181.9 305.54-190.92 17.615-1.2484 30.885-16.538 29.641-34.148-1.2495-17.615-16.569-30.849-34.148-29.641-148.72 10.518-281.96 93.78-356.42 222.73-59.77 103.53-75.648 224.14-44.71 339.61 30.943 115.47 105 211.98 208.53 271.75 68.963 39.815 145.5 60.152 223.05 60.152 38.868 0 78.007-5.1104 116.56-15.44 115.47-30.943 211.98-104.99 271.75-208.53 39.243-67.973 60.002-145.17 60.032-223.25 5e-3 -17.657-14.306-31.978-31.963-31.983z" p-id="1575"/>
-  <path d="m614.24 149.88h205.2l-226.14 196.02c-10.086 8.7421-13.682 22.83-9.0133 35.34 4.6632 12.505 16.605 20.795 29.954 20.795h290.9c17.657 0 31.973-14.316 31.973-31.973s-14.316-31.973-31.973-31.973h-205.2l226.14-196.02c10.085-8.7421 13.682-22.83 9.0133-35.34-4.6632-12.505-16.605-20.795-29.954-20.795h-290.9c-17.657 0-31.973 14.316-31.973 31.973s14.316 31.973 31.973 31.973z" p-id="1576"/>
-  <path d="m355.53 498.61v31.166c0 17.657 14.316 31.973 31.973 31.973s31.973-14.316 31.973-31.973v-31.166c0-17.657-14.316-31.973-31.973-31.973s-31.973 14.316-31.973 31.973z" p-id="1577"/>
-  <path d="m604.87 498.61v31.166c0 17.657 14.316 31.973 31.973 31.973s31.973-14.316 31.973-31.973v-31.166c0-17.657-14.316-31.973-31.973-31.973s-31.973 14.316-31.973 31.973z" p-id="1578"/>
-  <path d="m479.33 613.9c-9.3929-14.763-28.939-19.234-43.837-9.9864-15.003 9.3203-19.609 29.032-10.288 44.03 11.277 18.151 42.22 48.865 86.661 48.865 44.213 0 75.534-30.479 87.072-48.49 9.4349-14.733 5.1575-34.127-9.4502-43.755-14.603-9.617-34.367-5.5422-44.181 8.9355-0.13508 0.19238-13.368 19.364-33.441 19.364-19.494 0-31.687-17.698-32.535-18.963z" p-id="1579"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg18"
+   sodipodi:docname="system-suspend-hibernate.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <defs
+     id="defs22" />
+  <sodipodi:namedview
+     pagecolor="#c8c8c8"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="973"
+     id="namedview20"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg18" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="m20.621 1.0002c9.081 0 10.379 1.387 10.379 11.108v7.7845c0 9.7205-1.2978 11.108-10.379 11.108h-9.2423c-9.081 0-10.379-1.387-10.379-11.108v-7.7845c0-9.7205 1.2978-11.108 10.379-11.108z"
+     enable-background="new"
+     fill="#fff"
+     stroke-width="2.0615"
+     id="path4"
+     style="opacity:0.6" />
+  <g
+     id="g1195"
+     transform="translate(72.000033,70.000633)">
+    <g
+       transform="translate(0.49971009,-1.0001389)"
+       id="g1186">
+      <path
+         inkscape:connector-curvature="0"
+         d="m -48.000044,-53.000038 a 8.5001576,8.5001576 0 0 1 -5.247118,7.853103 8.5001576,8.5001576 0 0 1 -9.263244,-1.842596 8.5001576,8.5001576 0 0 1 -1.842596,-9.263244 8.5001576,8.5001576 0 0 1 7.853103,-5.247118"
+         style="opacity:0.8;fill:none;stroke:#000000;stroke-width:0.99983621;stroke-linecap:round;stroke-dashoffset:3;paint-order:stroke fill markers"
+         id="path49-3" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m -55.502406,-50.58114 a 1.0003276,1.0003276 0 0 1 -0.477468,0.930557 1.0003276,1.0003276 0 0 1 -1.045909,-0.0037 1.0003276,1.0003276 0 0 1 -0.470891,-0.933921"
+         style="opacity:0.8;fill:none;stroke:#000000;stroke-width:0.99972284;stroke-linecap:round;stroke-dashoffset:3;paint-order:stroke fill markers"
+         id="path53" />
+    </g>
+    <g
+       transform="translate(-8,-1.0000038)"
+       id="g1182">
+      <rect
+         x="-45"
+         y="-59.000221"
+         width="4"
+         height="0.99998748"
+         ry="0.49999374"
+         style="fill:#323232;fill-opacity:1;fill-rule:evenodd;stroke-width:3.08597136;paint-order:stroke fill markers"
+         id="rect1035" />
+      <rect
+         x="-45"
+         y="-55.999985"
+         width="5"
+         height="0.99998748"
+         ry="0.49999374"
+         style="fill:#323232;fill-opacity:1;fill-rule:evenodd;stroke-width:3.19426942;paint-order:stroke fill markers"
+         id="rect1037" />
+      <rect
+         id="rect1039"
+         style="fill:#323232;fill-opacity:1;fill-rule:evenodd;stroke-width:3.33663607;paint-order:stroke fill markers"
+         ry="0.52227819"
+         height="1.0445564"
+         width="5.222847"
+         y="-71.232941"
+         x="7.2880712"
+         transform="rotate(-45.000022)" />
+    </g>
+  </g>
 </svg>
