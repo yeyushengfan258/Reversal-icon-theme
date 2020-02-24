@@ -1,23 +1,38 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
  <defs>
-  <linearGradient id="a" x1="8.0543" x2="7.8932" y1="282.04" y2="295.49" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#f9f9f9" offset="0"/>
-   <stop stop-color="#eaeaea" offset="1"/>
+  <filter id="filter2761" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.14552168"/>
+  </filter>
+  <linearGradient id="linearGradient1024" x1="1.3315" x2="15.65" y1="15.576" y2="1.17" gradientTransform="translate(-.00084984 .14045)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#00c8ff" offset="0"/>
+   <stop stop-color="#14a0ff" offset="1"/>
   </linearGradient>
-  <filter id="b" x="-.062744" y="-.057486" width="1.1255" height="1.115" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="1.1017537"/>
+  <filter id="filter943" x="-.062502" y="-.057691" width="1.125" height="1.1154" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.3307375"/>
   </filter>
  </defs>
- <g transform="translate(0,-280.07)">
-  <circle cx="-330.35" cy="-48.312" r="0" fill="#5e4aa6" stroke-width=".26458"/>
-  <circle cx="-39.434" cy="286.51" r="0" fill="#5e4aa6" fill-rule="evenodd" stroke-width=".26458"/>
-  <circle cx="8.4935" cy="288.8" r="7.9375" opacity=".2" stroke-width=".14032"/>
-  <circle cx="8.4939" cy="288.53" r="7.9375" fill="url(#a)" style="paint-order:normal"/>
+ <path d="m10.708 1.1905c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="#141414" filter="url(#filter2761)" opacity=".3"/>
+ <path d="m10.708 1.1905c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="url(#linearGradient1024)"/>
+ <g transform="matrix(.68362 0 0 .68362 2.679 2.6786)" fill="#14a5ff" filter="url(#filter943)">
+  <path d="m6.735 5.963 2.309-0.363-1.155-1.72-4.039 2.243m2.886-0.159m-2.31 4.796h2.309l3.463 0.573-2.886 0.573-2.886-0.573" opacity=".8"/>
+  <path d="m3.848 5.968h2.887v4.792h-2.887"/>
+  <path d="m10.776 1.587-8.66 2.294v9.172l8.66 2.293m-2.887-9.849v5.825l-3.463-0.565-0.018-4.803"/>
+  <path d="m10.776 1.587 4.04 1.72v10.319l-4.04 1.72"/>
  </g>
- <g transform="matrix(.22601 0 0 .22601 1.2343 1.2344)" fill-rule="evenodd" stroke-width=".056845">
-  <path d="m32.102 10.071-21.007 11.695-0.02286-0.01143v0.02515l-0.06173 0.0343 0.06173 0.03429-0.14404 22.311 21.074 11.91v-0.0503l21.069-11.908-0.14176-22.251 0.07774-0.04115-0.07774-0.04344v-0.06859l-0.06173 0.0343z" filter="url(#b)" opacity=".15" stroke-width=".056845"/>
-  <path d="m31.997 54.95 21.074-11.91-0.14345-22.405-20.93 11.469z" fill="#28bff8"/>
-  <path d="m32.002 54.997-21.074-11.91 0.14345-22.405 20.93 11.469z" fill="#00a7e5"/>
-  <path d="M 11.011,20.743 32.102,9 53.006,20.748 31.989,32.263 Z" fill="#5fd0f9"/>
+ <g transform="matrix(.68362 0 0 .68362 2.679 2.6786)">
+  <path d="m6.735 5.963 2.309-0.363-1.155-1.72-4.039 2.243m2.886-0.159m-2.31 4.796h2.309l3.463 0.573-2.886 0.573-2.886-0.573" fill="#bae4ff" opacity=".8"/>
+  <path d="m3.848 5.968h2.887v4.792h-2.887" fill="#fff"/>
+  <path d="m10.776 1.587-8.66 2.294v9.172l8.66 2.293m-2.887-9.849v5.825l-3.463-0.565-0.018-4.803" fill="#bae4ff"/>
+  <path d="m10.776 1.587 4.04 1.72v10.319l-4.04 1.72" fill="#fff"/>
  </g>
 </svg>

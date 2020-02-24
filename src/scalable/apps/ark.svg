@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <filter id="filter2761" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.14552168"/>
+  </filter>
+  <linearGradient id="linearGradient1024" x1="1.3315" x2="15.65" y1="15.576" y2="1.17" gradientTransform="matrix(3.7796 0 0 3.7796 -.0032124 .25036)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ffc841" offset="0"/>
+   <stop stop-color="#ffbe37" offset=".5167"/>
+   <stop stop-color="#ffc841" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="matrix(3.7796 0 0 3.7796 -.0032124 .53085)" d="m10.709 1.05c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="#141414" filter="url(#filter2761)" opacity=".3"/>
+ <path d="m40.473 4.2189c16.649 0 19.028 2.543 19.028 20.364v14.272c0 17.822-2.3794 20.364-19.028 20.364h-16.945c-16.649 0-19.029-2.5429-19.029-20.364v-14.272c0-17.822 2.3794-20.364 19.029-20.364z" enable-background="new" fill="url(#linearGradient1024)" stroke-width="3.7796"/>
+ <g transform="matrix(1.2712 0 0 1.2712 165.07 -10.872)">
+  <path d="m-104.68 33a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2 2 2 0 0 0 2-2v-6a2 2 0 0 0-2-2zm0 7a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z" fill="#fff"/>
+  <g>
+   <path d="m-104.68 21h2v2h-2z" fill="#fff"/>
+   <path d="m-106.68 23h2v2h-2z" fill="#fafafa" opacity=".8"/>
+   <path d="m-104.68 25h2v2h-2z" fill="#fff"/>
+   <path d="m-106.68 27h2v2h-2z" fill="#fafafa" opacity=".8"/>
+   <path d="m-104.68 29h2v2h-2z" fill="#fff"/>
+   <path d="m-106.68 31h2v2h-2z" fill="#fafafa" opacity=".8"/>
+  </g>
+ </g>
+</svg>
