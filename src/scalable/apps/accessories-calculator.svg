@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <filter id="filter2761" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.14552168"/>
+  </filter>
+  <linearGradient id="linearGradient1024" x1="1.3315" x2="14.217" y1="15.576" y2="2.6243" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff7d1e" offset="0"/>
+   <stop stop-color="#ffa53c" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="matrix(3.7796 0 0 3.7796 -.0032124 .53085)">
+  <path d="m10.709 1.05c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="#141414" filter="url(#filter2761)" opacity=".3"/>
+  <path d="m10.709 1.05c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="url(#linearGradient1024)"/>
+  <g transform="translate(-.12317 -.36834)" fill="#fff">
+   <rect x="5.3081" y="6.2672" width="6.5648" height="1.4386" ry=".29765"/>
+   <g transform="translate(-19.05,1.5875)">
+    <path transform="scale(.26458)" d="m106.4 30.598h-13.217c-0.62325 0-1.125 0.50175-1.125 1.125v3.1875c0 0.62325 0.50175 1.125 1.125 1.125h8.002z"/>
+    <path transform="scale(.26458)" d="m106.4 30.598-5.2148 5.4375h14.561c0.62325 0 1.125-0.50175 1.125-1.125v-3.1875c0-0.62325-0.50175-1.125-1.125-1.125z" opacity=".8"/>
+   </g>
+  </g>
+ </g>
+</svg>

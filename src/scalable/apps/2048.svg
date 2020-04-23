@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter2761" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.14552168"/>
+  </filter>
+  <linearGradient id="linearGradient1024" x1="1.3315" x2="15.65" y1="15.576" y2="1.17" gradientTransform="matrix(3.7796 0 0 3.7796 -.0032124 .53085)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#dddfe1" offset="0"/>
+   <stop stop-color="#f3f4f6" stop-opacity=".99608" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4673" x1="1.2573" x2="15.644" y1="15.429" y2="1.1082" gradientTransform="matrix(1.5118 0 0 1.5118 7.5796 6.1945)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff8228" offset="0"/>
+   <stop stop-color="#ff5a1e" offset=".47728"/>
+   <stop stop-color="#ff8c55" offset="1"/>
+  </linearGradient>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <linearGradient id="linearGradient1024-6" x1="1.3315" x2="15.65" y1="15.576" y2="1.17" gradientTransform="matrix(1.5118 0 0 1.5118 7.58 30.76)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#00dc96" offset="0"/>
+   <stop stop-color="#14d29b" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4673-5" x1="1.2573" x2="15.644" y1="15.429" y2="1.1082" gradientTransform="matrix(1.5118 0 0 1.5118 33.342 30.872)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#32dcff" offset="0"/>
+   <stop stop-color="#3296ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <circle cx="-1248.7" cy="-1241.6" r="0" fill="#5e4aa6"/>
+ <circle cx="-149.15" cy="23.855" r="0" fill="#5e4aa6" fill-rule="evenodd"/>
+ <path transform="matrix(3.7796 0 0 3.7796 -.0032124 .53085)" d="m10.709 1.05c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="#141414" filter="url(#filter2761)" opacity=".3"/>
+ <path d="m40.473 4.4994c16.649 0 19.028 2.543 19.028 20.364v14.272c0 17.822-2.3794 20.364-19.028 20.364h-16.945c-16.649 0-19.029-2.5429-19.029-20.364v-14.272c0-17.822 2.3794-20.364 19.029-20.364z" enable-background="new" fill="url(#linearGradient1024)" stroke-width="3.7796"/>
+ <g transform="matrix(3.7796 0 0 3.7796 95.458 -72.949)" fill="#5e4aa6" stroke-width=".26458">
+  <g transform="translate(-.0272 .0065001)">
+   <circle cx="-330.35" cy="-328.38" r="0"/>
+   <circle cx="-312.11" cy="-326.25" r="0"/>
+   <circle cx="-306.02" cy="-333.07" r="0"/>
+   <circle cx="-308.84" cy="-326.01" r="0"/>
+  </g>
+  <g transform="translate(-.0272 .0065001)">
+   <circle cx="-330.35" cy="-328.38" r="0"/>
+   <circle cx="-312.11" cy="-326.25" r="0"/>
+   <circle cx="-306.02" cy="-333.07" r="0"/>
+   <circle cx="-308.84" cy="-326.01" r="0"/>
+  </g>
+  <g transform="translate(-.02705 .0064503)">
+   <circle cx="-330.35" cy="-328.38" r="0"/>
+   <circle cx="-312.11" cy="-326.25" r="0"/>
+   <circle cx="-306.02" cy="-333.07" r="0"/>
+   <circle cx="-308.84" cy="-326.01" r="0"/>
+  </g>
+ </g>
+ <g transform="translate(-1.2617 .99171)">
+  <path d="m23.769 7.6697c6.6594 0 7.6109 1.0172 7.6109 8.1453v5.7086c0 7.1285-0.95173 8.1453-7.6109 8.1453h-6.7778c-6.6594 0-7.6113-1.0171-7.6113-8.1453v-5.7086c0-7.1285 0.95172-8.1453 7.6113-8.1453z" enable-background="new" fill="url(#linearGradient4673)" stroke-width="1.5118"/>
+  <path d="m23.769 32.348c6.6594 0 7.6109 1.0172 7.6109 8.1453v5.7086c0 7.1285-0.95172 8.1453-7.6109 8.1453h-6.7778c-6.6594 0-7.6113-1.0171-7.6113-8.1453v-5.7086c0-7.1285 0.95172-8.1453 7.6113-8.1453z" enable-background="new" fill="url(#linearGradient1024-6)" stroke-width="1.5118"/>
+  <path d="m49.532 32.347c6.6594 0 7.6111 1.0172 7.6111 8.1455v5.7087c0 7.1284-0.95173 8.1455-7.6111 8.1455h-6.7776c-6.6594 0-7.6113-1.0171-7.6113-8.1455v-5.7087c0-7.1284 0.95173-8.1455 7.6113-8.1455z" enable-background="new" fill="url(#linearGradient4673-5)" stroke-width="1.5118"/>
+  <g fill="#fff">
+   <path d="m20.806 21.539c1.9319-1.3779 3.0398-2.9688 3.0398-4.7016 0-1.9887-1.4205-3.1677-3.8068-3.1677-1.2074 0-2.3722 0.2983-3.395 0.85229l0.55398 1.8608c0.93751-0.42614 1.6478-0.61082 2.3296-0.61082 1.1222 0 1.7614 0.49718 1.7614 1.3921 0 1.1364-0.99435 2.4006-4.2755 4.9573v1.5483h7.1023v-2.1307z" enable-background="new" stroke-width=".38045px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+   <path d="m48.195 42.955c0.9804-0.50419 1.5126-1.2605 1.5126-2.1568 0-1.4706-1.4146-2.451-3.5014-2.451-2.2129 0-3.6835 1.1905-3.6835 2.9692 0 1.0784 0.54621 1.7227 1.2885 2.1709-0.9944 0.42017-1.5546 1.1765-1.5546 2.1289 0 1.6387 1.5406 2.7311 3.8517 2.7311 2.353 0 3.9215-1.2045 3.9215-3.0252 0-1.2745-0.84034-1.9328-1.8347-2.3669zm-2.0728-2.535c0.65825 0 1.0925 0.32213 1.0925 0.82634 0 0.50419-0.36414 0.91037-0.92436 1.0504-0.72829-0.2661-1.2745-0.54621-1.2745-1.0644 0-0.4902 0.43416-0.81231 1.1064-0.81231zm0.11204 5.8544c-0.89634 0-1.4846-0.43416-1.4846-1.0784 0-0.46218 0.29412-0.82634 0.79832-0.9944 1.0504 0.33613 1.9888 0.58822 1.9888 1.2465 0 0.4902-0.53221 0.82634-1.3025 0.82634z" enable-background="new" stroke-width=".37512px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+   <path d="m24.551 44.256h-1.3448v-5.9084h-2.3748l-4.621 5.9084v2.1459h4.5064v1.9456h2.4893v-1.9456h1.3448zm-6.0801-0.02862 2.2461-2.9328v2.9471z" enable-background="new" stroke-width=".38317px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+  </g>
+ </g>
+</svg>
