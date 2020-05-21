@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <filter id="filter2761" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.14552168"/>
+  </filter>
+  <linearGradient id="linearGradient4673" x1="1.2573" x2="15.644" y1="15.429" y2="1.1082" gradientTransform="matrix(3.7796 0 0 3.7796 -.0032124 .53085)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#16ff6c" offset="0"/>
+   <stop stop-color="#28ff61" offset=".47728"/>
+   <stop stop-color="#9fff1b" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="matrix(3.7796 0 0 3.7796 -.0032124 .53085)" d="m10.709 1.05c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="#141414" filter="url(#filter2761)" opacity=".3"/>
+ <path d="m40.473 4.2189c16.649 0 19.028 2.543 19.028 20.364v14.272c0 17.822-2.3794 20.364-19.028 20.364h-16.945c-16.649 0-19.029-2.5429-19.029-20.364v-14.272c0-17.822 2.3794-20.364 19.029-20.364z" enable-background="new" fill="url(#linearGradient4673)" stroke-width="3.7796"/>
+ <path d="m44.296 44.411c-0.50323 0.82529-1.5835 1.087-2.4088 0.58039-6.5963-4.0292-14.9-4.9417-24.68-2.7074-0.94238 0.21471-1.8817-0.37574-2.0964-1.3185-0.21572-0.94271 0.37239-1.8821 1.3171-2.0968 10.702-2.445 19.882-1.3923 27.287 3.1334 0.82529 0.50658 1.087 1.5835 0.58039 2.4088zm3.4387-7.6497c-0.63406 1.0306-1.9827 1.356-3.0126 0.72196-7.5517-4.6418-19.063-5.986-27.995-3.2747-1.1584 0.34991-2.3819-0.30294-2.7335-1.4594-0.3489-1.1584 0.30428-2.3796 1.4607-2.7318 10.203-3.0958 22.887-1.5962 31.56 3.7329 1.0299 0.63406 1.3554 1.9827 0.72129 3.0113zm0.29522-7.9657c-9.0547-5.3781-23.994-5.8726-32.639-3.2488-1.3882 0.42103-2.8563-0.36266-3.277-1.7509-0.4207-1.3889 0.36232-2.856 1.7516-3.278 9.9239-3.0126 26.421-2.4306 36.846 3.7581 1.2514 0.74108 1.6606 2.3538 0.91923 3.6007-0.73806 1.2487-2.3551 1.6603-3.5997 0.91889z" fill="#141414" stroke-width="1.4047"/>
+</svg>
