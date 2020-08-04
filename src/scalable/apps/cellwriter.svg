@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="cellwriter.svg"
+   id="svg16"
+   viewBox="0 0 64 64"
+   version="1.1"
+   height="64"
+   width="64">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20">
+    <style
+       type="text/css"
+       id="style851" />
+    <style
+       type="text/css"
+       id="style853" />
+    <style
+       type="text/css"
+       id="style855" />
+    <filter
+       id="filter2761"
+       x="-.024"
+       y="-.024"
+       width="1.048"
+       height="1.048"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.14552168"
+         id="feGaussianBlur857" />
+    </filter>
+    <linearGradient
+       id="linearGradient1024"
+       x1="1.3315"
+       x2="15.65"
+       y1="15.576"
+       y2="1.17"
+       gradientTransform="matrix(3.779602,0,0,3.779602,-0.00321249,0.53083476)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#00c8ff"
+         offset="0"
+         id="stop860" />
+      <stop
+         stop-color="#14a0ff"
+         offset="1"
+         id="stop862" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     inkscape:current-layer="svg16"
+     inkscape:window-maximized="1"
+     inkscape:window-y="36"
+     inkscape:window-x="0"
+     inkscape:cy="23.810597"
+     inkscape:cx="1.6300206"
+     inkscape:zoom="5.9609375"
+     showgrid="false"
+     id="namedview18"
+     inkscape:window-height="932"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <path
+     transform="matrix(3.779602,0,0,3.779602,-1.8049376e-5,-1.7860404e-5)"
+     d="m 10.708155,1.1904546 c 4.405,0 5.0345,0.67282 5.0345,5.388 v 3.7761004 c 0,4.7152 -0.62954,5.388 -5.0345,5.388 H 6.2249547 c -4.405,0 -5.0346,-0.6728 -5.0346,-5.388 V 6.5784546 c 0,-4.7152 0.62954,-5.388 5.0346,-5.388 z"
+     enable-background="new"
+     fill="#141414"
+     filter="url(#filter2761)"
+     opacity="0.3"
+     id="path867" />
+  <path
+     style="fill:url(#linearGradient1024)"
+     d="m 40.473,4.4993946 c 16.648999,0 19.027998,2.5430001 19.027998,20.3640004 v 14.272 c 0,17.821999 -2.3794,20.364 -19.027998,20.364 H 23.527999 c -16.6489997,0 -19.0289996,-2.542901 -19.0289996,-20.364 v -14.272 c 0,-17.8220003 2.3794001,-20.3640004 19.0289996,-20.3640004 z"
+     enable-background="new"
+     fill="url(#linearGradient1024)"
+     stroke-width="3.7796"
+     id="path869" />
+  <g
+     fill="#5e4aa6"
+     id="g877">
+    <circle
+       cx="-1401.7"
+       cy="-1262.9"
+       r="0"
+       id="circle871" />
+    <circle
+       cx="-302.14001"
+       cy="2.5994"
+       r="0"
+       fill-rule="evenodd"
+       id="circle873" />
+    <circle
+       cx="-1124.8"
+       cy="-1279.3"
+       r="0"
+       id="circle875" />
+  </g>
+  <g
+     transform="matrix(3.779602,0,0,3.779602,123.83,-38.184006)"
+     fill="#5e4aa6"
+     stroke-width="0.26458"
+     id="g887">
+    <circle
+       cx="-299.01999"
+       cy="-338.76999"
+       r="0"
+       id="circle879" />
+    <circle
+       cx="-8.1062002"
+       cy="-3.9487"
+       r="0"
+       fill-rule="evenodd"
+       id="circle881" />
+    <circle
+       cx="-278.25"
+       cy="-357.69"
+       r="0"
+       id="circle883" />
+    <circle
+       cx="12.663"
+       cy="-22.858999"
+       r="0"
+       fill-rule="evenodd"
+       id="circle885" />
+  </g>
+  <text
+     id="text922"
+     y="41.123268"
+     x="10.780184"
+     style="font-style:normal;font-weight:bold;font-size:25.413px;line-height:1.25;font-family:'Noto Sans Tamil UI';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.635325;-inkscape-font-specification:'Noto Sans Tamil UI, Bold';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.635325;-inkscape-font-specification:'Noto Sans Tamil UI, Bold';font-family:'Noto Sans Tamil UI';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:25.41300011px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;"
+       y="41.123268"
+       x="10.780184"
+       id="tspan920"
+       sodipodi:role="line">CW</tspan></text>
+</svg>
