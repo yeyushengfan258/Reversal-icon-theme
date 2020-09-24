@@ -9,22 +9,21 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="AdobeAIR.svg"
-   id="svg44"
-   viewBox="0 0 64 64"
+   sodipodi:docname="zanshin.svg"
+   id="svg101"
    version="1.1"
    height="64"
    width="64">
   <sodipodi:namedview
-     inkscape:current-layer="svg44"
+     inkscape:current-layer="svg101"
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="6.3767016"
-     inkscape:cx="1.8778755"
-     inkscape:zoom="4.5906698"
+     inkscape:cy="5.3247943"
+     inkscape:cx="42.878393"
+     inkscape:zoom="3.2460938"
      showgrid="false"
-     id="namedview46"
+     id="namedview103"
      inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
@@ -35,20 +34,92 @@
      borderopacity="1"
      bordercolor="#666666"
      pagecolor="#ffffff" />
-  <metadata
-     id="metadata2">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
   <defs
-     id="defs16">
+     id="defs33">
+    <filter
+       id="filter6136">
+      <feGaussianBlur
+         id="feGaussianBlur2"
+         stdDeviation="0.15038113" />
+    </filter>
+    <linearGradient
+       gradientTransform="translate(96.946438,-796.99314)"
+       gradientUnits="userSpaceOnUse"
+       y2="-1249"
+       y1="-1248.2"
+       x2="2231.8"
+       x1="2227.1"
+       id="linearGradient4642">
+      <stop
+         id="stop5"
+         offset="0"
+         stop-color="#fff" />
+      <stop
+         id="stop7"
+         offset="1"
+         stop-opacity="0"
+         stop-color="#fff" />
+    </linearGradient>
+    <style
+       id="style10"
+       type="text/css" />
+    <style
+       id="style12"
+       type="text/css" />
+    <style
+       id="style14"
+       type="text/css" />
+    <style
+       id="style16"
+       type="text/css" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.7822,0,0,3.7822,81.989,776.05)"
+       y2="13.762"
+       y1="2.5497"
+       x2="-73.616"
+       x1="-71.993"
+       id="linearGradient1034-3">
+      <stop
+         id="stop18"
+         offset="0"
+         stop-color="#32d2ff" />
+      <stop
+         id="stop20"
+         offset="1"
+         stop-color="#32b4ff" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.7822,0,0,3.7822,-121.66,770.83)"
+       y2="-4.4751"
+       y1="-16.69"
+       x2="-75.461"
+       x1="-74.394"
+       id="linearGradient1042-6">
+      <stop
+         id="stop23"
+         offset="0"
+         stop-color="#0073d2" />
+      <stop
+         id="stop25"
+         offset="1"
+         stop-color="#143c73" />
+    </linearGradient>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.1452"
+       width="1.1992"
+       y="-.072625"
+       x="-.0996"
+       id="filter1072-3">
+      <feGaussianBlur
+         id="feGaussianBlur28"
+         stdDeviation="0.38429972" />
+    </filter>
+    <style
+       id="style31"
+       type="text/css" />
     <style
        id="style4"
        type="text/css" />
@@ -65,85 +136,91 @@
     </filter>
     <linearGradient
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(3.7796 0 0 3.7796 -.002644 .81148)"
+       gradientTransform="matrix(3.7796,0,0,3.7796,110.07575,0.53066)"
        y2="1.1082"
-       y1="14.536"
+       y1="15.429"
        x2="15.644"
-       x1="2.2495"
+       x1="1.2573"
        id="linearGradient4673">
       <stop
          id="stop9"
          offset="0"
-         stop-color="#ff7d50" />
+         stop-color="#32dcff" />
       <stop
          id="stop11"
-         offset=".47728"
-         stop-color="#fa4b5a" />
-      <stop
-         id="stop13"
          offset="1"
-         stop-color="#ff509b" />
+         stop-color="#3296ff" />
     </linearGradient>
     <linearGradient
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.2346,0,0,1.2346,-87.337276,3.6047)"
-       y2="4"
-       y1="44"
-       x2="0"
-       id="linearGradient890">
+       gradientTransform="matrix(1.0000066,0,0,1.0000066,19.187825,0)"
+       y2="1.0583"
+       y1="6.879"
+       x2="7.9373"
+       x1="7.9373"
+       id="linearGradient865">
+      <stop
+         id="stop2"
+         offset="0"
+         stop-color="#fff" />
       <stop
          id="stop4"
-         offset="0"
-         stop-color="#FFB900" />
-      <stop
-         id="stop6"
          offset="1"
-         stop-color="#ff0" />
-    </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       height="1.048"
-       width="1.048"
-       y="-.024"
-       x="-.024"
-       id="filter2761-5">
-      <feGaussianBlur
-         id="feGaussianBlur9"
-         stdDeviation="0.14552168" />
-    </filter>
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(3.7796,0,0,3.7796,66.443573,0.53068)"
-       y2="1.1082"
-       y1="15.601"
-       x2="15.644"
-       x1="1.4377"
-       id="linearGradient4673-3">
-      <stop
-         id="stop12"
-         offset="0"
-         stop-color="#dc2828" />
-      <stop
-         id="stop14"
-         offset="1"
-         stop-color="#fa4141" />
+         stop-color="#fcc" />
     </linearGradient>
     <linearGradient
-       gradientTransform="translate(-89.720479)"
+       gradientTransform="translate(19.187825)"
        gradientUnits="userSpaceOnUse"
-       y2="9.67"
-       y1="54.592"
-       x2="34.134"
-       x1="34.134"
-       id="linearGradient915">
+       y2="3.9327"
+       y1="14.579"
+       x2="12.314"
+       x1="2.6278"
+       id="linearGradient855">
+      <stop
+         id="stop7-3"
+         offset="0"
+         stop-color="#d462aa" />
+      <stop
+         id="stop9-3"
+         offset=".15178"
+         stop-color="#56c7d9" />
+      <stop
+         id="stop11-6"
+         offset=".33294"
+         stop-color="#2da8b8" />
+      <stop
+         id="stop13"
+         offset=".53353"
+         stop-color="#72cb6b" />
+      <stop
+         id="stop15"
+         offset=".71019"
+         stop-color="#c4dc2b" />
       <stop
          id="stop17"
-         offset="0"
-         stop-color="#ffb900" />
+         offset=".8623"
+         stop-color="#f9da3e" />
       <stop
          id="stop19"
          offset="1"
-         stop-color="#ff0" />
+         stop-color="#f69429" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.26458,0,0,0.26458,19.187825,0)"
+       y2="6.9915"
+       y1="19"
+       x2="57.008"
+       x1="45"
+       id="linearGradient910">
+      <stop
+         id="stop22"
+         offset="0"
+         stop-color="#fff" />
+      <stop
+         id="stop24"
+         offset="1"
+         stop-color="#ffe3cc" />
     </linearGradient>
     <filter
        inkscape:collect="always"
@@ -167,41 +244,24 @@
        x2="-72"
        y2="5"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(131.5,-0.50999746)" />
+       gradientTransform="translate(131.5,-0.5099984)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient1051">
       <stop
-         style="stop-color:#ff7d50;stop-opacity:1"
+         style="stop-color:#32d7ff;stop-opacity:1"
          offset="0"
          id="stop1047" />
       <stop
-         id="stop951"
-         offset="0.50594032"
-         style="stop-color:#ff4b5a;stop-opacity:1" />
-      <stop
-         style="stop-color:#ff509b;stop-opacity:1"
+         style="stop-color:#329bff;stop-opacity:1"
          offset="1"
          id="stop1049" />
     </linearGradient>
-    <linearGradient
-       id="linearGradient890-3"
-       x2="0"
-       y1="44"
-       y2="4"
-       gradientTransform="matrix(1.2346,0,0,1.2346,3.1419,3.6047)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#FFB900"
-         offset="0"
-         id="stop861" />
-      <stop
-         stop-color="#ff0"
-         offset="1"
-         id="stop863" />
-    </linearGradient>
+    <style
+       type="text/css"
+       id="style872" />
     <filter
-       id="filter2761-6"
+       id="filter2761-7"
        x="-.024"
        y="-.024"
        width="1.048"
@@ -209,45 +269,113 @@
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          stdDeviation="0.14552168"
-         id="feGaussianBlur866" />
+         id="feGaussianBlur874" />
     </filter>
+    <style
+       id="style4-5"
+       type="text/css" />
+    <style
+       id="style6"
+       type="text/css" />
+    <style
+       id="style8"
+       type="text/css" />
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.048"
+       width="1.048"
+       y="-.024"
+       x="-.024"
+       id="filter2761-36">
+      <feGaussianBlur
+         id="feGaussianBlur10"
+         stdDeviation="0.14552168" />
+    </filter>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.7796,0,0,3.7796,111.78704,0.53107)"
+       y2="1.17"
+       y1="15.576"
+       x2="15.65"
+       x1="1.3315"
+       id="linearGradient1024-6">
+      <stop
+         id="stop13-7"
+         offset="0"
+         stop-color="#00dc96" />
+      <stop
+         id="stop15-5"
+         offset="1"
+         stop-color="#14d29b" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.27476,0,0,0.27476,-24.952118,-0.32515)"
+       y2="12.461"
+       y1="57.955"
+       x2="45.628"
+       x1="45.628"
+       id="b">
+      <stop
+         id="stop2-3"
+         offset="0" />
+      <stop
+         id="stop4-5"
+         offset="1"
+         stop-opacity="0" />
+    </linearGradient>
+    <style
+       type="text/css"
+       id="style872-0" />
+    <style
+       type="text/css"
+       id="style874" />
+    <style
+       type="text/css"
+       id="style876" />
+    <filter
+       id="filter2761-3"
+       x="-.024"
+       y="-.024"
+       width="1.048"
+       height="1.048"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.14552168"
+         id="feGaussianBlur878" />
+    </filter>
+    <linearGradient
+       id="linearGradient1024-6-6"
+       x1="1.3315"
+       x2="15.65"
+       y1="15.576"
+       y2="1.17"
+       gradientTransform="matrix(3.7796,0,0,3.7796,-0.0020773,0.53047)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#00dc96"
+         offset="0"
+         id="stop881" />
+      <stop
+         stop-color="#14d29b"
+         offset="1"
+         id="stop883" />
+    </linearGradient>
   </defs>
-  <rect
-     ry="15"
-     y="4.4999995"
-     x="4.4999995"
-     height="55"
-     width="55"
-     id="rect1055"
-     style="opacity:0.3;fill:#141414;fill-opacity:1;stroke-width:2.74436;stroke-linecap:round;filter:url(#filter1057)" />
-  <rect
-     style="fill:url(#linearGradient1053);fill-opacity:1;stroke-width:2.74436;stroke-linecap:round"
-     id="rect1045"
-     width="54.999996"
-     height="54.999996"
-     x="4.5000019"
-     y="4.5000019"
-     ry="14.999999" />
-  <circle
-     id="circle22"
-     fill="#5e4aa6"
-     r="0"
-     cy="-1295.5"
-     cx="-1133.4" />
-  <circle
-     id="circle24"
-     fill="#5e4aa6"
-     r="0"
-     cy="-1355.6"
-     cx="-1025.1" />
-  <path
-     id="path26"
-     stroke-width="1.3065"
-     fill-opacity=".84677"
-     fill="#fff"
-     d="m36.256 14.526c-2.9018 0.22073-5.0002 2.0822-6.194 5.5735-1.7349 5.0365-4.6637 8.0339-9.7998 9.9896-3.0391 1.1508-4.1065 1.9247-5.0527 3.7431-0.76181 1.4617-0.92063 3.6071-0.42533 5.3972 0.3311 1.1939 2.0499 3.1657 3.3958 3.8642 1.2665 0.66758 3.6542 0.75236 7.1712 0.21535 2.0606-0.31496 2.56-0.3311 4.4591 0.04168 2.665 0.52626 5.1846 1.7982 7.3394 3.6596 1.992 1.7242 2.7861 2.1347 4.3272 2.3823 1.4926 0.2315 2.6448 0.08479 4.159-0.55183 1.3459-0.56799 2.8332-2.0876 3.4389-3.4914 0.22611-0.5155 0.42128-1.6609 0.42531-2.5923 0.0052-2.0081-0.60972-3.381-2.2087-5.2317-1.5613-1.8036-2.6703-3.6017-3.3124-5.3568-0.75776-2.0822-0.92063-6.2667-0.33648-8.8859 0.65144-2.9342 0.10504-4.9679-1.8238-6.797-1.3621-1.2881-2.4604-1.809-4.2909-1.9557-0.44686-0.03632-0.85737-0.03096-1.2719 0m-2.8023 13.264c1.4873-0.03632 3.0284 0.52088 4.2478 1.6986 3.0176 2.9288 2.3029 7.6396-1.4455 9.5266-1.1831 0.59356-3.1132 0.72547-4.4537 0.29477-1.2665-0.40514-2.7861-1.6824-3.4806-2.9759-0.30015-0.54644-0.42129-1.4402-0.42533-2.6394-0.0052-1.5034 0.1104-1.9355 0.72008-2.9759 1.0942-1.8668 2.9234-2.887 4.8373-2.9288" />
+  <metadata
+     id="metadata35">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <style
-     id="style28"
+     id="style99"
      type="text/css">.st0{opacity:0.15;fill:#45413C;}
 	.st1{fill:#FFE500;}
 	.st2{fill:#EBCB00;}
@@ -358,75 +486,62 @@
 	.st107{fill:#FFCABF;}
 	.st108{fill:#87898C;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st109{fill:#EBCB00;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}</style>
-  <g
-     id="g42"
-     stroke-width=".26458"
-     fill="#5e4aa6"
-     transform="matrix(3.7796 0 0 3.7796 80.418 -28.779)">
-    <circle
-       id="circle30"
-       r="0"
-       cy="-328.51"
-       cx="-330.38" />
-    <circle
-       id="circle32"
-       r="0"
-       cy="-344.43"
-       cx="-301.71" />
-    <circle
-       id="circle34"
-       r="0"
-       cy="-348.26"
-       cx="-259.01" />
-    <circle
-       id="circle36"
-       fill-rule="evenodd"
-       r="0"
-       cy="-13.442"
-       cx="31.886" />
-    <circle
-       id="circle38"
-       r="0"
-       cy="-350.65"
-       cx="-257.29" />
-    <circle
-       id="circle40"
-       fill-rule="evenodd"
-       r="0"
-       cy="-15.826"
-       cx="33.611" />
-  </g>
-  <g
-     transform="translate(-89.720479)"
-     fill="#5e4aa6"
-     id="g30">
-    <circle
-       cx="-1248.7"
-       cy="-1241.6"
-       r="0"
-       id="circle24-5" />
-    <circle
-       cx="-1140.3"
-       cy="-1301.8"
-       r="0"
-       id="circle26" />
-    <circle
-       cx="-1158.1"
-       cy="-1246"
-       r="0"
-       id="circle28" />
-  </g>
   <circle
-     cx="-1247.0205"
-     cy="-1267.7"
+     cx="-1124.8"
+     cy="-1279.3"
      r="0"
      fill="#5e4aa6"
-     id="circle36-6" />
-  <circle
-     cx="-147.47649"
-     cy="-2.1829"
-     r="0"
+     id="circle16" />
+  <g
+     transform="matrix(3.7796,0,0,3.7796,123.83,-38.184)"
      fill="#5e4aa6"
-     fill-rule="evenodd"
-     id="circle38-2" />
+     stroke-width="0.26458"
+     id="g26">
+    <circle
+       cx="-299.01999"
+       cy="-338.76999"
+       r="0"
+       id="circle18" />
+    <circle
+       cx="-8.1062002"
+       cy="-3.9487"
+       r="0"
+       fill-rule="evenodd"
+       id="circle20" />
+    <circle
+       cx="-278.25"
+       cy="-357.69"
+       r="0"
+       id="circle22" />
+    <circle
+       cx="12.663"
+       cy="-22.858999"
+       r="0"
+       fill-rule="evenodd"
+       id="circle24" />
+  </g>
+  <rect
+     style="opacity:0.3;fill:#141414;fill-opacity:1;stroke-width:2.74436;stroke-linecap:round;filter:url(#filter1057)"
+     id="rect1055"
+     width="55"
+     height="55"
+     x="4.4999995"
+     y="4.4999995"
+     ry="15" />
+  <rect
+     ry="14.999999"
+     y="4.5000019"
+     x="4.5000019"
+     height="54.999996"
+     width="54.999996"
+     id="rect1045"
+     style="fill:url(#linearGradient1053);fill-opacity:1;stroke-width:2.74436;stroke-linecap:round" />
+  <path
+     id="path1099"
+     stroke-width="5.69567"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     stroke="#ffffff"
+     fill="none"
+     d="m 19.847835,36.538912 7.32049,6.295669 16.983839,-21.669037" />
 </svg>
