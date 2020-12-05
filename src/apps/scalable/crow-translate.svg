@@ -14,7 +14,56 @@
    viewBox="0 0 64 64"
    id="svg124"
    sodipodi:docname="crow-translate.svg"
-   inkscape:version="0.92.5 (6c0c36ef5a, 2020-05-15, custom)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <rect
+     x="4.4999995"
+     y="4.4999995"
+     width="55"
+     height="55"
+     ry="15"
+     fill="#141414"
+     filter="url(#filter1057)"
+     opacity="0.3"
+     stroke-linecap="round"
+     stroke-width="2.7444"
+     id="rect961" />
+  <rect
+     x="4.5"
+     y="4.5"
+     width="55"
+     height="55"
+     ry="15"
+     fill="url(#linearGradient1053)"
+     stroke-linecap="round"
+     stroke-width="2.7444"
+     id="rect963"
+     style="fill:url(#linearGradient1053)" />
+  <circle
+     cx="-1078.7845"
+     cy="-1324.9968"
+     r="0"
+     id="circle951"
+     style="fill:#5e4aa6;stroke-width:1.00001" />
+  <circle
+     cx="20.753252"
+     cy="-59.506325"
+     r="0"
+     fill-rule="evenodd"
+     id="circle953"
+     style="fill:#5e4aa6;stroke-width:1.00001" />
+  <circle
+     cx="-1000.2822"
+     cy="-1396.507"
+     r="0"
+     id="circle955"
+     style="fill:#5e4aa6;stroke-width:1.00001" />
+  <circle
+     cx="99.252525"
+     cy="-130.97969"
+     r="0"
+     fill-rule="evenodd"
+     id="circle957"
+     style="fill:#5e4aa6;stroke-width:1.00001" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -25,16 +74,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="949"
+     inkscape:window-height="998"
      id="namedview126"
      showgrid="false"
-     inkscape:zoom="1.3037281"
-     inkscape:cx="-241.95511"
-     inkscape:cy="99.481567"
+     inkscape:zoom="3.6874999"
+     inkscape:cx="1.8816227"
+     inkscape:cy="9.7728699"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg124" />
+     inkscape:current-layer="svg124"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata2">
     <rdf:RDF>
@@ -196,7 +246,7 @@
     </filter>
     <linearGradient
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(3.7796,0,0,3.7796,-0.00262787,0.53067693)"
+       gradientTransform="matrix(3.7796,0,0,3.7796,-10.699579,-62.988045)"
        y2="1.1082"
        y1="15.429"
        x2="15.644"
@@ -211,6 +261,58 @@
          offset="1"
          stop-color="#3296ff" />
     </linearGradient>
+    <style
+       type="text/css"
+       id="style923" />
+    <filter
+       id="filter1057"
+       x="-.027"
+       y="-.027"
+       width="1.054"
+       height="1.054"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.61875"
+         id="feGaussianBlur925" />
+    </filter>
+    <linearGradient
+       id="linearGradient1053"
+       x1="-127"
+       x2="-72"
+       y1="60"
+       y2="5"
+       gradientTransform="translate(131.5,-0.51000002)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#32d7ff"
+         offset="0"
+         id="stop928" />
+      <stop
+         stop-color="#329bff"
+         offset="1"
+         id="stop930" />
+    </linearGradient>
+    <style
+       type="text/css"
+       id="style933" />
+    <style
+       type="text/css"
+       id="style935" />
+    <style
+       type="text/css"
+       id="style937" />
+    <style
+       type="text/css"
+       id="style939" />
+    <style
+       type="text/css"
+       id="style941" />
+    <style
+       type="text/css"
+       id="style943" />
+    <style
+       type="text/css"
+       id="style945-3" />
   </defs>
   <style
      type="text/css"
@@ -394,17 +496,6 @@
        r="0"
        id="circle1066" />
   </g>
-  <path
-     inkscape:connector-curvature="0"
-     transform="matrix(3.7796,0,0,3.7796,5.8415469e-4,-1.7176531e-4)"
-     d="m 10.708,1.1905 c 4.405,0 5.0345,0.67282 5.0345,5.388 v 3.7761 c 0,4.7152 -0.62954,5.388 -5.0345,5.388 H 6.2248 c -4.405,0 -5.0346,-0.6728 -5.0346,-5.388 V 6.5785 c 0,-4.7152 0.62954,-5.388 5.0346,-5.388 z"
-     id="path1070"
-     style="opacity:0.3;fill:#141414;filter:url(#filter2761-3);enable-background:new" />
-  <path
-     style="fill:url(#linearGradient4673);stroke-width:3.77959991;enable-background:new"
-     inkscape:connector-curvature="0"
-     d="m 40.473017,4.2186169 c 16.649,0 19.028,2.543 19.028,20.3640001 v 14.272 c 0,17.822 -2.3794,20.364 -19.028,20.364 h -16.945 c -16.6490001,0 -19.0290001,-2.5429 -19.0290001,-20.364 v -14.272 c 0,-17.8220001 2.3794,-20.3640001 19.0290001,-20.3640001 z"
-     id="path1072" />
   <path
      style="fill:#ffffff;stroke-width:0.30708885;fill-opacity:1"
      inkscape:connector-curvature="0"
@@ -596,4 +687,10 @@
      id="path116"
      d="m 45.652782,6.1407555 c 0.995929,3.67923 1.01496,7.4599555 0.843685,11.2153075 -0.190305,4.085215 -1.731775,8.37342 -3.06391,12.230269 -1.401914,4.066183 -3.647513,7.50436 -5.759898,11.189934 -1.941111,3.381085 -5.017709,6.23566 -8.043558,8.639847 -2.638896,2.093354 -5.556906,3.691917 -8.696939,4.846433 -0.976899,0.355237 -2.061637,0.482106 -3.101971,0.513824 h -0.0063 c 2.442248,-0.50748 4.998678,-1.24967 7.092033,-2.632552 5.45541,-3.603108 10.701485,-7.961093 13.759052,-13.873235 1.90305,-3.67923 3.615795,-7.295025 4.897182,-11.259713 1.186234,-3.666543 2.442247,-7.536078 2.632552,-11.399269 0.145901,-2.867262 -0.0444,-5.7789285 -0.729502,-8.576412 0.07612,-0.3615795 0.114183,-0.5391975 0.177618,-0.8944335 z"
      class="st8" />
+  <circle
+     cx="-1197.2386"
+     cy="-1285.6979"
+     r="0"
+     fill="#5e4aa6"
+     id="circle949" />
 </svg>
