@@ -13,7 +13,7 @@ fi
 SRC_DIR=$(cd $(dirname $0) && pwd)
 
 THEME_NAME=Reversal
-THEME_VARIANTS=('' '-red' '-pink' '-purple' '-green' '-blue' '-orange' '-brown' '-grey' '-black')
+THEME_VARIANTS=('' '-red' '-pink' '-purple' '-green' '-orange' '-brown' '-grey' '-black')
 COLOR_VARIANTS=('' '-dark')
 
 usage() {
@@ -99,7 +99,7 @@ install() {
     sed -i "s/#363636/#dedede/g" "${THEME_DIR}"/{actions,devices,places,status}/{16,22,24}/*
     sed -i "s/#363636/#dedede/g" "${THEME_DIR}"/{actions,apps,categories,emblems,devices,mimes,places,status}/symbolic/*
 
-    cp -r ${SRC_DIR}/links/actions/{16,22,24,32,symbolic}                                 ${THEME_DIR}/actions
+    cp -r ${SRC_DIR}/links/actions/{16,22,24,symbolic}                                 ${THEME_DIR}/actions
     cp -r ${SRC_DIR}/links/devices/{16,22,24,symbolic}                                 ${THEME_DIR}/devices
     cp -r ${SRC_DIR}/links/places/{16,22,24,symbolic}                                  ${THEME_DIR}/places
     cp -r ${SRC_DIR}/links/status/{16,22,24,symbolic}                                  ${THEME_DIR}/status
@@ -187,9 +187,6 @@ while [[ $# -gt 0 ]]; do
       ;;
     -red)
       theme="-red"
-      ;;
-    -blue)
-      theme="-blue"
       ;;
     -h|--help)
       usage

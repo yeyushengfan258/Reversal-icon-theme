@@ -1,3 +1,6 @@
 <svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <path d="m8 0-7 2.1289v0.37109c0 4.1186 0.091497 6.5417 1.0293 8.4492 0.9378 1.9075 2.674 3.1428 5.7207 4.9062l0.25 0.14453 0.25-0.14453c3.0467-1.7635 4.7829-2.9987 5.7207-4.9062 0.9378-1.9075 1.0293-4.3306 1.0293-8.4492v-0.37109l-7-2.1289zm3.3418 4.0762c0.912-0.026 1.3806 1.0808 0.72656 1.7168l-5.207 5.207-2.9062-2.9062c-0.982-0.942 0.47206-2.3961 1.4141-1.4141l1.4922 1.4922 3.793-3.793a1 1 0 0 1 0.6875-0.30273z" color="#000000" color-rendering="auto" fill="#4e9a06" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="block-progression:tb;isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+ <g color="#363636" fill="#363636" font-family="Sans" font-weight="400" stroke-width="2">
+  <path d="m2 1v8c0 2.072 1.575 3.522 2.937 4.469a14.758 14.758 0 0 0 2.688 1.468l0.375 0.125 0.375-0.125s1.33-0.544 2.687-1.5c1.359-0.955 2.938-2.393 2.938-4.437v-8zm1 1h10v7c0 2.964-5 5-5 5s-5-1.95-5-5z" overflow="visible" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+  <path d="m4 3v6c0 0.979 0.925 2.022 2.062 2.812 0.95 0.66 1.646 0.909 1.938 1.032 0.292-0.128 0.983-0.391 1.937-1.063 1.143-0.803 2.063-1.861 2.063-2.781v-6z" overflow="visible" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+ </g>
 </svg>

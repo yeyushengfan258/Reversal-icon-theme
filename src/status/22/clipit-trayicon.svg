@@ -1,53 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="22"
-   height="22"
-   viewBox="0 0 22 22"
-   id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="clipit-trayicon.svg">
-  <metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs8" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview6"
-     showgrid="false"
-     inkscape:zoom="27.458333"
-     inkscape:cx="5.5174507"
-     inkscape:cy="12"
-     inkscape:current-layer="svg2" />
-  <path
-     d="m 15,9.4 -8,0 0,-1.6 8,0 m 0,4.8 -8,0 0,-1.6 8,0 m -2.4,4.8 -5.6,0 0,-1.6 5.6,0 M 11,4.6 A 0.8,0.8 0 0 1 11.8,5.4 0.8,0.8 0 0 1 11,6.2 0.8,0.8 0 0 1 10.2,5.4 0.8,0.8 0 0 1 11,4.6 m 5.6,0 -3.344,0 C 12.92,3.672 12.04,3 11,3 9.96,3 9.08,3.672 8.744,4.6 L 5.4,4.6 A 1.6,1.6 0 0 0 3.8,6.2 l 0,11.2 A 1.6,1.6 0 0 0 5.4,19 l 11.2,0 a 1.6,1.6 0 0 0 1.6,-1.6 l 0,-11.2 A 1.6,1.6 0 0 0 16.6,4.6 Z"
-     id="path4"
-     style="fill:#ffffff;fill-opacity:1"
-     inkscape:connector-curvature="0" />
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#ffffff; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+ </defs>
+ <path d="m11 3c-1.1046 0-2 0.89543-2 2h-2v0.00586c-1.113 0.032581-2 0.93345-2 2.0547v8.8789c0 1.142 0.91853 2.0605 2.0605 2.0605h7.8789c1.142 0 2.0605-0.91853 2.0605-2.0605v-8.8789c0-1.142-0.91853-2.0605-2.0605-2.0605h-1.9394c0-0.138-0.0053-0.27625-0.03125-0.40625-0.19615-0.93036-1.0179-1.5956-1.9688-1.5938zm-0.01172 1c0.0039-2.29e-5 0.0078-2.29e-5 0.01172 0 0.414 0 0.75425 0.266 0.90625 0.625 0.05689 0.11716 0.08882 0.24486 0.09375 0.375-6.1e-5 0.88813-1.0716 1.3352-1.7031 0.71094-0.63157-0.62426-0.19666-1.7005 0.69141-1.7109zm-3.9883 2h2v1s-1 0-1 1h6c0-0.75-0.56275-0.953-0.84375-1h-0.15625v-1h2c0.554 0 1 0.446 1 1v9c0 0.554-0.446 1-1 1h-8c-0.554 0-1-0.446-1-1v-9c0-0.554 0.446-1 1-1z" class="ColorScheme-Text" fill="currentColor"/>
 </svg>
