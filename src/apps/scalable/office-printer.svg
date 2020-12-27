@@ -45,25 +45,16 @@
   <style type="text/css"/>
   <style type="text/css"/>
   <style type="text/css"/>
-  <style type="text/css"/>
-  <style type="text/css"/>
-  <filter id="filter1057" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+  <filter id="filter1057-9" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.61875"/>
   </filter>
-  <linearGradient id="linearGradient1053" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="translate(131.5 -.51)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#32d7ff" offset="0"/>
-   <stop stop-color="#329bff" offset="1"/>
+  <linearGradient id="linearGradient1053-6" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="translate(131.5 -.51)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#dee0e2" offset="0"/>
+   <stop stop-color="#f1f3f5" stop-opacity=".99608" offset="1"/>
   </linearGradient>
-  <style type="text/css"/>
-  <style type="text/css"/>
-  <style type="text/css"/>
-  <style type="text/css"/>
-  <style type="text/css"/>
-  <style type="text/css"/>
-  <style type="text/css"/>
  </defs>
- <rect x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
- <rect x="4.5" y="4.5" width="55" height="55" ry="15" fill="url(#linearGradient1053)" stroke-linecap="round" stroke-width="2.7444"/>
+ <rect x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057-9)" image-rendering="optimizeSpeed" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
+ <rect x="4.5" y="4.5" width="55" height="55" ry="15" fill="url(#linearGradient1053-6)" image-rendering="optimizeSpeed" stroke-linecap="round" stroke-width="2.7444"/>
  <path transform="matrix(.16666 0 0 .16666 6.6674 8.6768)" d="m272 211c0 25-9.7826 24.708-35 25h-170c-25.217-0.29153-35 0-35-25v-110c0-25 9.7826-24.708 35-25h170c25.217 0.29154 35 0 35 25z" clip-path="url(#m)" color="#000000" fill="#fff" fill-opacity=".78431" filter="url(#k)" stroke="url(#h-9)" stroke-width="4"/>
  <g stroke-width="2.5196">
   <path d="m52 43.843c0 4.1664-1.6304 4.1178-5.8331 4.1664h-28.333c-4.2027-0.04858-5.8331 0-5.8331-4.1664v-18.333c0-4.1664 1.6304-4.1178 5.8331-4.1664h28.333c4.2027 0.04859 5.8331 0 5.8331 4.1664z" color="#000000" fill="#f3f4f5"/>
@@ -75,29 +66,7 @@
   <rect transform="rotate(90)" x="34.675" y="-38.001" width="1.3333" height="1.9999" rx=".66664" ry=".99996" enable-background="new" fill="url(#g-1)"/>
   <rect transform="rotate(90)" x="34.659" y="-47.333" width="1.3333" height="1.9999" rx=".66664" ry=".99996" enable-background="new" fill="url(#e-9)"/>
   <rect transform="rotate(90)" x="34.675" y="-42.667" width="1.3333" height="1.9999" rx=".66664" ry=".99996" enable-background="new" fill="url(#f-2)"/>
-  <path d="m16 40.008h31.999v4.6663c0 0.73862-0.59462 1.3333-1.3333 1.3333h-29.331c-0.73862 0-1.3333-0.59463-1.3333-1.3333v-3.3332z" enable-background="new" fill="#646464"/>
+  <path d="m16 40.008h31.999v4.6663c0 0.73862-0.59462 1.3333-1.3333 1.3333h-29.331c-0.73862 0-1.3333-0.59463-1.3333-1.3333v-3.3332z" enable-background="new" fill="#414141"/>
  </g>
- <rect x="19.001" y="40.008" width="26" height="1.3842" enable-background="new" fill="#969696" stroke-width="5.1345"/>
- <g fill="#5e4aa6">
-  <g transform="translate(75.503)">
-   <circle cx="-1248.7" cy="-1241.6" r="0"/>
-   <circle cx="-149.15" cy="23.855" r="0" fill-rule="evenodd"/>
-   <circle cx="-1248.7" cy="-1241.6" r="0"/>
-   <circle cx="-149.15" cy="23.855" r="0" fill-rule="evenodd"/>
-   <circle cx="-1124.8" cy="-1279.3" r="0"/>
-   <g transform="matrix(3.7796,0,0,3.7796,123.83,-38.184)" stroke-width=".26458">
-    <circle cx="-299.02" cy="-338.77" r="0"/>
-    <circle cx="-8.1062" cy="-3.9487" r="0" fill-rule="evenodd"/>
-    <circle cx="-278.25" cy="-357.69" r="0"/>
-    <circle cx="12.663" cy="-22.859" r="0" fill-rule="evenodd"/>
-   </g>
-  </g>
-  <circle cx="-959.6" cy="-1279.3" r="0"/>
-  <g transform="matrix(3.7796 0 0 3.7796 289.03 -38.184)" stroke-width=".26458">
-   <circle cx="-299.02" cy="-338.77" r="0"/>
-   <circle cx="-8.1062" cy="-3.9487" r="0" fill-rule="evenodd"/>
-   <circle cx="-278.25" cy="-357.69" r="0"/>
-   <circle cx="12.663" cy="-22.859" r="0" fill-rule="evenodd"/>
-  </g>
- </g>
+ <rect x="19.001" y="40.008" width="26" height="1.3842" enable-background="new" fill="#a3a3a3" stroke-width="5.1345"/>
 </svg>

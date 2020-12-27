@@ -75,9 +75,9 @@
   <rect transform="rotate(90)" x="34.675" y="-38.001" width="1.3333" height="1.9999" rx=".66664" ry=".99996" enable-background="new" fill="url(#g-1)"/>
   <rect transform="rotate(90)" x="34.659" y="-47.333" width="1.3333" height="1.9999" rx=".66664" ry=".99996" enable-background="new" fill="url(#e-9)"/>
   <rect transform="rotate(90)" x="34.675" y="-42.667" width="1.3333" height="1.9999" rx=".66664" ry=".99996" enable-background="new" fill="url(#f-2)"/>
-  <path d="m16 40.008h31.999v4.6663c0 0.73862-0.59462 1.3333-1.3333 1.3333h-29.331c-0.73862 0-1.3333-0.59463-1.3333-1.3333v-3.3332z" enable-background="new" fill="#646464"/>
+  <path d="m16 40.008h31.999v4.6663c0 0.73862-0.59462 1.3333-1.3333 1.3333h-29.331c-0.73862 0-1.3333-0.59463-1.3333-1.3333v-3.3332z" enable-background="new" fill="#00c8ff"/>
  </g>
- <rect x="19.001" y="40.008" width="26" height="1.3842" enable-background="new" fill="#969696" stroke-width="5.1345"/>
+ <rect x="19.001" y="40.008" width="26" height="1.3842" enable-background="new" opacity=".2" stroke-width="5.1345"/>
  <g fill="#5e4aa6">
   <g transform="translate(75.503)">
    <circle cx="-1248.7" cy="-1241.6" r="0"/>
