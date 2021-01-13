@@ -13,7 +13,7 @@ fi
 SRC_DIR=$(cd $(dirname $0) && pwd)
 
 THEME_NAME=Reversal
-THEME_VARIANTS=('' '-red' '-pink' '-purple' '-green' '-orange' '-brown' '-grey' '-black')
+THEME_VARIANTS=('-blue' '-red' '-pink' '-purple' '-green' '-orange' '-brown' '-grey' '-black')
 COLOR_VARIANTS=('' '-dark')
 
 usage() {
