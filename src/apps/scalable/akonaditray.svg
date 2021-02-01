@@ -14,7 +14,7 @@
    version="1.1"
    id="svg40"
    sodipodi:docname="akonaditray.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)">
   <metadata
      id="metadata46">
     <rdf:RDF>
@@ -98,14 +98,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="932"
+     inkscape:window-height="942"
      id="namedview42"
      showgrid="false"
-     inkscape:zoom="3.984375"
-     inkscape:cx="33.229589"
-     inkscape:cy="46.930516"
+     inkscape:zoom="1.4086893"
+     inkscape:cx="23.087104"
+     inkscape:cy="106.33384"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="38"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg40"
      inkscape:document-rotation="0" />
@@ -185,24 +185,6 @@
        stop-color="#98ceff"
        id="stop25" />
   </linearGradient>
-  <circle
-     clip-path="url(#b)"
-     cx="286"
-     cy="26"
-     opacity="0"
-     r="10"
-     stroke-width="0.45455"
-     transform="matrix(2,0,0,2,-604.90584,-28.884)"
-     id="circle28" />
-  <circle
-     clip-path="url(#b)"
-     cx="286"
-     cy="26"
-     opacity="0"
-     r="10"
-     stroke-width="0.90909"
-     transform="matrix(2,0,0,2,-604.90584,-28.884)"
-     id="circle30" />
   <circle
      cx="-1164.8236"
      cy="-1241.6"
