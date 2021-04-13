@@ -8,12 +8,25 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0 0 64 64"
+   id="svg25"
+   sodipodi:docname="teamsql.svg"
    width="64"
    height="64"
-   version="1.1"
-   id="svg22"
-   sodipodi:docname="spotify-client.svg"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata29">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -25,45 +38,48 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="992"
-     id="namedview24"
+     id="namedview27"
      showgrid="false"
-     inkscape:zoom="4.5906698"
-     inkscape:cx="11.461856"
-     inkscape:cy="33.780567"
+     inkscape:zoom="6.1208931"
+     inkscape:cx="-5.6804946"
+     inkscape:cy="17.736106"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg22" />
-  <metadata
-     id="metadata2">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+     inkscape:current-layer="svg25" />
   <defs
-     id="defs14">
+     id="defs7">
+    <linearGradient
+       id="linearGradient3764"
+       x1="1"
+       x2="47"
+       gradientTransform="rotate(-90,-27.821379,75.821379)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         style="stop-color:#4c5699"
+         offset="0"
+         id="stop2" />
+      <stop
+         style="stop-color:#525da6"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient1094">
       <stop
-         style="stop-color:#14ff6e;stop-opacity:1;"
+         style="stop-color:#454e8a;stop-opacity:1"
          offset="0"
          id="stop1090" />
       <stop
-         style="stop-color:#a0ff1e;stop-opacity:1"
+         style="stop-color:#525da6;stop-opacity:1"
          offset="1"
          id="stop1092" />
     </linearGradient>
     <filter
        id="filter2761"
-       x="-.024"
-       y="-.024"
+       x="-0.024"
+       y="-0.024"
        width="1.048"
        height="1.048"
        color-interpolation-filters="sRGB">
@@ -93,18 +109,18 @@
          id="stop11" />
     </linearGradient>
     <linearGradient
-       id="linearGradient3764"
+       id="linearGradient3764-3"
        x1="1"
        x2="47"
        gradientUnits="userSpaceOnUse"
        gradientTransform="rotate(-90,23.999998,24)">
       <stop
          style="stop-color:#43cd50;stop-opacity:1"
-         id="stop2" />
+         id="stop2-6" />
       <stop
          offset="1"
          style="stop-color:#54d160;stop-opacity:1"
-         id="stop4" />
+         id="stop4-7" />
     </linearGradient>
     <style
        type="text/css"
@@ -167,6 +183,9 @@
        y2="4.5"
        gradientUnits="userSpaceOnUse" />
   </defs>
+  <g
+     transform="translate(1,1)"
+     id="g21" />
   <rect
      x="4.5"
      y="4.5"
@@ -182,7 +201,7 @@
   <path
      id="rect1087"
      style="fill:url(#linearGradient1096);fill-opacity:1;stroke-width:1.00157;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-     d="M 19.5 4.5 C 11.19 4.5 4.5 11.19 4.5 19.5 L 4.5 44.5 C 4.5 52.81 11.19 59.5 19.5 59.5 L 44.5 59.5 C 52.81 59.5 59.5 52.81 59.5 44.5 L 59.5 19.5 C 59.5 11.19 52.81 4.5 44.5 4.5 L 19.5 4.5 z " />
+     d="m 19.5,4.5 c -8.31,0 -15,6.69 -15,15 v 25 c 0,8.31 6.69,15 15,15 h 25 c 8.31,0 15,-6.69 15,-15 v -25 c 0,-8.31 -6.69,-15 -15,-15 z" />
   <circle
      cx="-1330.8"
      cy="-1261.2"
@@ -303,8 +322,7 @@
     </g>
   </g>
   <path
-     d="m44.296 44.411c-0.50323 0.82529-1.5835 1.087-2.4088 0.58039-6.5963-4.0292-14.9-4.9417-24.68-2.7074-0.94238 0.21471-1.8817-0.37574-2.0964-1.3185-0.21572-0.94271 0.37239-1.8821 1.3171-2.0968 10.702-2.445 19.882-1.3923 27.287 3.1334 0.82529 0.50658 1.087 1.5835 0.58039 2.4088zm3.4387-7.6497c-0.63406 1.0306-1.9827 1.356-3.0126 0.72196-7.5517-4.6418-19.063-5.986-27.995-3.2747-1.1584 0.34991-2.3819-0.30294-2.7335-1.4594-0.3489-1.1584 0.30428-2.3796 1.4607-2.7318 10.203-3.0958 22.887-1.5962 31.56 3.7329 1.0299 0.63406 1.3554 1.9827 0.72129 3.0113zm0.29522-7.9657c-9.0547-5.3781-23.994-5.8726-32.639-3.2488-1.3882 0.42103-2.8563-0.36266-3.277-1.7509-0.4207-1.3889 0.36232-2.856 1.7516-3.278 9.9239-3.0126 26.421-2.4306 36.846 3.7581 1.2514 0.74108 1.6606 2.3538 0.91923 3.6007-0.73806 1.2487-2.3551 1.6603-3.5997 0.91889z"
-     fill="#141414"
-     stroke-width="1.4047"
-     id="path20" />
+     d="M 27.188396,15.356192 V 25.573604 L 17.47367,22.416778 14.5,31.567845 l 9.717131,3.156826 -6.003621,8.263188 7.784071,5.655949 6.005907,-8.265472 6.003621,8.263187 L 45.79118,42.985574 39.785274,34.720101 49.5,31.563276 46.52633,22.414614 36.809199,25.571439 V 15.356433 Z"
+     style="fill:#ffcc00;stroke-width:1.2026"
+     id="path985" />
 </svg>
