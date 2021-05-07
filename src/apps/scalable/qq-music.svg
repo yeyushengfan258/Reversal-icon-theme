@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <linearGradient id="linearGradient933" x1="34.203" x2="34.203" y1="51.464" y2="4.8769" gradientTransform="matrix(.22717 0 0 .22717 .69655 2.0671)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0bca9d" offset="0"/>
+   <stop stop-color="#0ac047" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429,0,0,2.1429,-826.36,-1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <filter id="filter2076-7-3" x="-.048" y="-.048" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.1"/>
+  </filter>
+  <linearGradient id="linearGradient2070-9-0" x1="145" x2="200" y1="59" y2="4" gradientTransform="matrix(.2646 0 0 .2646 -37.175 .13222)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ffc841" offset="0"/>
+   <stop stop-color="#ffbe37" offset=".4925"/>
+   <stop stop-color="#ffc841" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <rect transform="matrix(.2646 0 0 .2646 -.00069967 -.00069967)" x="4.5" y="4.5" width="55" height="55" rx="13.002" ry="13.002" filter="url(#filter2076-7-3)" opacity=".3"/>
+ <rect x="1.1905" y="1.1905" width="14.552" height="14.552" rx="3.4402" ry="3.4402" fill="url(#linearGradient2070-9-0)" stroke-width=".26458"/>
+ <path d="m11.265 3.1749s-1.0427 0.80311-2.6445 1.1225c-1.5839 0.31501-2.4847 0.19966-2.4847 0.19966l-0.039931 0.47919 2.8041 4.7341s-1.2024-0.1198-1.9256 0.15972c-0.77199 0.29727-1.442 1.0959-1.2822 2.1253 0.15972 1.0427 1.0427 1.7969 2.3248 1.7615 1.442-0.03994 2.1918-0.52798 2.5645-1.3222 0.31944-0.68327 0.07986-1.4021 0.07986-1.4021l-2.5245-4.3702s1.0737-0.60785 1.6816-1.1624c1.3266-1.2024 1.4464-2.3248 1.4464-2.3248z" fill="url(#linearGradient933)" stroke-width=".22717" p-id="737"/>
+ <g transform="matrix(.26458 0 0 .26458 -.01199 .02827)" stroke-width="1.5715">
+  <circle cx="32.02" cy="32.044" r="30.001" fill-opacity="0"/>
+  <circle cx="32.02" cy="32.044" r="0" fill="url(#b)"/>
+ </g>
+</svg>
