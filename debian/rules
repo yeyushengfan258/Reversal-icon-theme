@@ -1,0 +1,9 @@
+#!/usr/bin/make -f
+
+%:
+	dh $@
+
+override_dh_install:
+	mkdir -p $(CURDIR)/debian/reversal-icon-theme/usr/share/icons
+	./install.sh -d $(CURDIR)/debian/reversal-icon-theme/usr/share/icons/
+	find $(CURDIR)/debian/reversal-icon-theme/usr/share/icons -name COPYING -delete

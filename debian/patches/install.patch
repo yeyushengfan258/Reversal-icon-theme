@@ -1,0 +1,11 @@
+--- a/install.sh 2021-07-17 16:02:20.747339085 +0200
++++ b/install.sh 2021-07-17 16:31:41.790594140 +0200
+@@ -135,7 +135,7 @@
+   ln -sf status status@2x
+ 
+   cd ${dest}
+-  gtk-update-icon-cache ${name}${theme}${color}
++  #gtk-update-icon-cache ${name}${theme}${color}
+ }
+ 
+ while [[ $# -gt 0 ]]; do

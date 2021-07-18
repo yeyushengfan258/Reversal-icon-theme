@@ -1,0 +1,44 @@
+on:
+  push:
+    tags:
+      - '*'
+
+name: Build and Create release
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          submodules: true
+      - name: Build Debian package
+        uses: dawidd6/action-debian-package@v1
+        with:
+          artifacts_directory: output
+      - name: Get tag name
+        id: tag_name
+        run: echo ::set-output name=tag::$(echo $GITHUB_REF | cut -d / -f 3)
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ steps.tag_name.outputs.tag }}
+          release_name: ${{ steps.tag_name.outputs.tag }}
+          draft: false
+          prerelease: false
+      - name: Get deb path
+        id: debpath
+        run: echo ::set-output name=debpath::$(ls output/reversal-icon-theme*.deb)
+      - name: Upload Release Asset
+        id: upload-release-asset 
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ${{ steps.debpath.outputs.debpath }}
+          asset_name: reversal-icon-theme.deb
+          asset_content_type: application/vnd.debian.binary-package
