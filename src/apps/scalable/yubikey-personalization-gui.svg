@@ -1,30 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="64" height="64" fill="none" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <mask>
-   <path d="m0.625 3.743h62.749v60.254h-62.749z" fill="#fff" stroke="#000" stroke-miterlimit="10"/>
-  </mask>
-  <filter id="filter1057-7" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+  <linearGradient id="linearGradient1100" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429,0,0,2.1429,-826.36,-1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <filter id="filter10677" x="-.17623" y="-.12609" width="1.3525" height="1.2522" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.6811947"/>
+  </filter>
+  <filter id="filter1057" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.61875"/>
   </filter>
-  <linearGradient id="linearGradient1053" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="translate(131.5 -.51)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#32d7ff" offset="0"/>
-   <stop stop-color="#329bff" offset="1"/>
+  <linearGradient id="linearGradient1053" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="translate(60.622 -7.3054)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#02db96" offset="0"/>
+   <stop stop-color="#13d39b" offset="1"/>
   </linearGradient>
  </defs>
- <g>
-  <rect x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057-7)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
-  <rect x="4.5" y="4.5" width="55" height="55" ry="15" fill="url(#linearGradient1053)" stroke-linecap="round" stroke-width="2.7444"/>
-  <rect x="7" y="7" width="50" height="50" ry="13.541" fill="#fff"/>
-  <rect x="9.5" y="9.5" width="45" height="45" ry="12.187" fill="#f0f0f0"/>
+ <g transform="translate(70.878 6.7954)" stroke-linecap="round" stroke-width="2.7444">
+  <rect x="-66.378" y="-2.2954" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3"/>
+  <rect x="-66.378" y="-2.2954" width="55" height="55" ry="15" fill="url(#linearGradient1053)"/>
+ </g>
+ <rect width="64" height="64" rx="0" ry="0" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4464" style="paint-order:stroke fill markers"/>
+ <circle cx="32.02" cy="32.044" r="30.001" fill-opacity="0" stroke-width="1.5715"/>
+ <circle cx="32.02" cy="32.044" r="0" fill="url(#linearGradient1100)" stroke-width="1.5715"/>
+ <g fill="#fff" stroke-linecap="square" stroke-width="7.5865" aria-label="y">
+  <path d="m25.149 49.722h6.2816l3.5505-9.8777 8.4666-22.122h-5.7809l-5.5078 16.751-5.1892-16.751h-6.4182l8.6031 22.122z" fill="#000" filter="url(#filter10677)" opacity=".15"/>
+  <path d="m25.149 48h6.2816l3.5505-9.8777 8.4666-22.122h-5.7809l-5.5078 16.751-5.1892-16.751h-6.4182l8.6031 22.122z"/>
  </g>
  <g transform="translate(-46.967 16.415)">
   <circle cx="94.967" cy="31.585" r="16" fill="#323232" stroke-linecap="round" stroke-width="2.2865"/>
