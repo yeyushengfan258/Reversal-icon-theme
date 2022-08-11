@@ -13,7 +13,7 @@ fi
 SRC_DIR=$(cd $(dirname $0) && pwd)
 
 THEME_NAME=Reversal
-THEME_VARIANTS=('-blue' '-red' '-pink' '-purple' '-green' '-orange' '-brown' '-grey' '-black')
+THEME_VARIANTS=('-blue' '-red' '-pink' '-purple' '-green' '-orange' '-brown' '-grey' '-black' '-cyan')
 COLOR_VARIANTS=('' '-dark')
 
 usage() {
@@ -33,6 +33,7 @@ usage() {
   printf "  %-25s%s\n" "-orange" "Orange color folder version"
   printf "  %-25s%s\n" "-brown" "Brown color folder version"
   printf "  %-25s%s\n" "-black" "Black color folder version"
+  printf "  %-25s%s\n" "-cyan" "Cyan color folder version"
   printf "  %-25s%s\n" "-h, --help" "Show this help"
 }
 
@@ -169,6 +170,9 @@ while [[ $# -gt 0 ]]; do
       ;;
     -brown)
       theme="-brown"
+      ;;
+    -cyan)
+      theme="-cyan"
       ;;
     -green)
       theme="-green"
