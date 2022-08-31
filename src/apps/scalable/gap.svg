@@ -6,7 +6,7 @@
    viewBox="0 0 16.933 16.933"
    id="svg49"
    sodipodi:docname="gap.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,15 +25,17 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      showguides="false"
-     inkscape:zoom="11.313709"
-     inkscape:cx="11.667262"
-     inkscape:cy="28.284271"
+     inkscape:zoom="8.0000004"
+     inkscape:cx="25.812499"
+     inkscape:cy="24.937499"
      inkscape:window-width="1920"
-     inkscape:window-height="1022"
+     inkscape:window-height="1005"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg49" />
+     inkscape:current-layer="svg49"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata2">
     <rdf:RDF>
@@ -49,15 +51,15 @@
      id="defs19">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient38717">
+       id="linearGradient981">
+      <stop
+         style="stop-color:#171c54;stop-opacity:1"
+         offset="0"
+         id="stop977" />
       <stop
          style="stop-color:#2e3585;stop-opacity:1"
-         offset="0"
-         id="stop38713" />
-      <stop
-         style="stop-color:#161a51;stop-opacity:1"
          offset="1"
-         id="stop38715" />
+         id="stop979" />
     </linearGradient>
     <rect
        x="3.0021994"
@@ -124,12 +126,12 @@
        xlink:href="#linearGradient64681" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient38717"
-       id="linearGradient38719"
-       x1="12.472511"
-       y1="12.096399"
-       x2="2.508255"
-       y2="2.2391186"
+       xlink:href="#linearGradient981"
+       id="linearGradient983"
+       x1="4.3594747"
+       y1="4.2999015"
+       x2="12.02583"
+       y2="11.966257"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <rect
@@ -151,34 +153,61 @@
      width="14.552"
      height="14.552"
      ry="3.9686999"
-     fill="url(#linearGradient1053)"
      stroke-width="0.72611"
      id="rect23"
-     style="fill:url(#linearGradient38719);stroke-linecap:round;fill-opacity:1" />
+     style="fill:url(#linearGradient983);stroke-linecap:round;fill-opacity:1" />
   <g
-     id="g46180"
-     transform="matrix(1.2382757,0,0,1.2382757,-2.0173611,-2.9501894)">
+     aria-label="GAP "
+     id="text31974"
+     style="font-size:10.5831px;fill:#d4da46;stroke-width:0.264578"
+     transform="matrix(1.2382757,0,0,1.2382757,-1.2868519,-2.434348)">
+    <path
+       d="m 5.3058799,7.2320549 h 1.0748485 v 1.6122727 q -0.501596,0.1612272 -1.0927626,0.1612272 -0.6628232,0 -1.0569343,-0.4299393 -0.3941111,-0.4299394 -0.3941111,-1.2539899 0,-0.7882222 0.4120252,-1.2181615 0.4299394,-0.4478535 1.1823333,-0.4478535 0.501596,0 0.8957071,0.1791414 L 6.1657587,6.2109489 Q 5.7716476,6.0138934 5.3954506,6.0138934 q -0.51951,0 -0.8240504,0.3403686 -0.3045404,0.3403687 -0.3045404,0.9852778 0,0.644909 0.2687121,0.9852777 0.2866262,0.3224545 0.8598787,0.3224545 0.2687122,0 0.5732525,-0.071656 V 7.6082519 H 5.3058799 Z"
+       style="-inkscape-font-specification:'TeX Gyre Bonum Math, Normal'"
+       id="path2624" />
+    <path
+       d="M 9.0857636,8.9697266 8.7274807,7.9486205 H 7.5093192 L 7.1510364,8.9697266 H 6.721097 L 7.9213444,5.6735247 h 0.376197 L 9.5157029,8.9697266 Z M 8.6020818,7.5903377 8.2617131,6.6408883 Q 8.1542282,6.3363479 8.1184,6.1213782 8.0646575,6.3721762 7.9571727,6.6408883 L 7.6347182,7.5903377 Z"
+       style="-inkscape-font-specification:'TeX Gyre Bonum Math, Normal'"
+       id="path2626" />
+    <path
+       d="m 10.375582,7.6978226 v 1.271904 H 9.9635565 V 5.6914388 h 0.8061365 q 0.573252,0 0.859879,0.250798 0.286626,0.2328838 0.286626,0.7165656 0,0.4836818 -0.304541,0.7703081 -0.30454,0.2687121 -0.895707,0.2687121 z m 0,-0.3582828 h 0.286626 q 0.447853,0 0.626995,-0.1612273 0.197055,-0.1612273 0.197055,-0.5015959 0,-0.3045404 -0.197055,-0.4657677 -0.179142,-0.1612273 -0.555338,-0.1612273 h -0.358283 z"
+       style="-inkscape-font-specification:'TeX Gyre Bonum Math, Normal'"
+       id="path2628" />
+  </g>
+  <g
+     aria-label="4"
+     id="text31974-2"
+     style="font-size:10.5831px;fill:#d4da46;stroke-width:0.264578"
+     transform="matrix(1.2382757,0,0,1.2382757,-1.7844432,-2.8688235)">
+    <path
+       d="M 9.4696917,12.831001 H 8.9860099 v 0.73448 H 8.5918988 v -0.73448 H 7.087111 v -0.358283 l 1.4868737,-2.203439 h 0.4120252 v 2.185525 H 9.4696917 Z M 8.5918988,12.454804 v -0.788222 q 0,-0.394111 0.035828,-0.967364 H 8.609813 q -0.089571,0.232884 -0.1970556,0.394112 l -0.9315353,1.361474 z"
+       style="-inkscape-font-specification:'TeX Gyre Bonum Math, Normal'"
+       id="path2637" />
+  </g>
+  <g
+     id="g2622"
+     transform="matrix(1.2382757,0,0,1.2382757,17.412713,-2.8688234)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5831px;line-height:1.25;font-family:sans-serif;fill:#d4da46;fill-opacity:1;stroke:none;stroke-width:0.264578"
        x="3.5502942"
        y="8.9697266"
-       id="text31974"><tspan
+       id="text2616"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58602px;font-family:'TeX Gyre Bonum Math';-inkscape-font-specification:'TeX Gyre Bonum Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d4da46;fill-opacity:1;stroke-width:0.264578"
          x="3.5502942"
          y="8.9697266"
-         id="tspan36793">GAP </tspan></text>
+         id="tspan2614">GAP </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5831px;line-height:1.25;font-family:sans-serif;fill:#d4da46;fill-opacity:1;stroke:none;stroke-width:0.264578"
        x="7.0333686"
        y="12.652628"
-       id="text31974-2"><tspan
+       id="text2620"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58602px;font-family:'TeX Gyre Bonum Math';-inkscape-font-specification:'TeX Gyre Bonum Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d4da46;fill-opacity:1;stroke-width:0.264578"
          x="7.0333686"
          y="12.652628"
-         id="tspan36793-8">4</tspan></text>
+         id="tspan2618">4</tspan></text>
   </g>
 </svg>

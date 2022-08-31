@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="64"
    viewBox="0 0 64 64"
    width="64"
    version="1.1"
    id="svg22"
    sodipodi:docname="messengerfordesktop.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata28">
     <rdf:RDF>
@@ -22,12 +23,32 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs26">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2650">
+      <stop
+         style="stop-color:#ff6969;stop-opacity:1;"
+         offset="0"
+         id="stop2646" />
+      <stop
+         style="stop-color:#ee528b;stop-opacity:1;"
+         offset="0.34634715"
+         id="stop5558" />
+      <stop
+         style="stop-color:#766bd3;stop-opacity:1;"
+         offset="0.62106293"
+         id="stop6286" />
+      <stop
+         style="stop-color:#2c7bff;stop-opacity:1;"
+         offset="1"
+         id="stop2648" />
+    </linearGradient>
     <style
        type="text/css"
        id="style855" />
@@ -53,8 +74,8 @@
        id="style864" />
     <filter
        id="filter1057"
-       x="-.027"
-       y="-.027"
+       x="-0.026999999"
+       y="-0.026999999"
        width="1.054"
        height="1.054"
        color-interpolation-filters="sRGB">
@@ -73,7 +94,8 @@
       <stop
          stop-color="#32d7ff"
          offset="0"
-         id="stop869" />
+         id="stop869"
+         style="stop-color:#2c7bff;stop-opacity:1;" />
       <stop
          stop-color="#329bff"
          offset="1"
@@ -100,6 +122,15 @@
     <style
        type="text/css"
        id="style886" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2650"
+       id="linearGradient2652"
+       x1="59.5"
+       y1="4.5"
+       x2="4.5"
+       y2="59.5"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -111,16 +142,19 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="940"
+     inkscape:window-height="1005"
      id="namedview24"
      showgrid="false"
      inkscape:zoom="5.7084141"
-     inkscape:cx="19.668589"
-     inkscape:cy="37.468786"
+     inkscape:cx="16.37933"
+     inkscape:cy="37.576111"
      inkscape:window-x="0"
-     inkscape:window-y="38"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg22" />
+     inkscape:current-layer="svg22"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <linearGradient
      id="a"
      gradientTransform="matrix(0.26480135,0,0,0.26683463,-153.40179,-5.49995)"
@@ -239,11 +273,10 @@
      width="55"
      height="55"
      ry="15"
-     fill="url(#linearGradient1053)"
      stroke-linecap="round"
      stroke-width="2.7444"
      id="rect918"
-     style="fill:url(#linearGradient1053)" />
+     style="fill:url(#linearGradient2652);fill-opacity:1;stroke-width:2.744;stroke-dasharray:none" />
   <text
      x="-4.9240799"
      y="16.420322"
