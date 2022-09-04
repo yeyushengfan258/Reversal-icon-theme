@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="protonvpn-logo.svg"
    id="svg25"
    viewBox="0 0 64 64"
@@ -31,12 +31,12 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="37.610036"
-     inkscape:cx="-4.7012545"
-     inkscape:zoom="6.9130484"
+     inkscape:cy="35.288606"
+     inkscape:cx="7.3645786"
+     inkscape:zoom="9.7765268"
      showgrid="false"
      id="namedview27"
-     inkscape:window-height="1022"
+     inkscape:window-height="1012"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -51,7 +51,9 @@
      inkscape:object-paths="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
-     inkscape:snap-bbox-edge-midpoints="false" />
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs7">
     <linearGradient
@@ -245,6 +247,55 @@
          stdDeviation="0.61875"
          id="feGaussianBlur866-6" />
     </filter>
+    <linearGradient
+       id="paint0_linear_6069_288720"
+       x1="21.373501"
+       y1="-17.4757"
+       x2="22.4937"
+       y2="20.6087"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.988738"
+         stop-color="#6D4AFF"
+         id="stop1028" />
+    </linearGradient>
+    <linearGradient
+       id="paint1_linear_6069_288720"
+       x1="21.5924"
+       y1="-12.2034"
+       x2="12.2835"
+       y2="27.8741"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.47989"
+         stop-color="#24ECC6"
+         stop-opacity="0"
+         id="stop1031" />
+      <stop
+         offset="0.994421"
+         stop-color="#24ECC6"
+         id="stop1033" />
+    </linearGradient>
+    <linearGradient
+       id="paint2_linear_6069_288720"
+       x1="24.671101"
+       y1="32.2654"
+       x2="4.0317001"
+       y2="-3.0280499"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.0660125"
+         stop-color="#ABFFEF"
+         id="stop1036" />
+      <stop
+         offset="0.44988"
+         stop-color="#CAC9FF"
+         id="stop1038" />
+      <stop
+         offset="1"
+         stop-color="#6D4AFF"
+         id="stop1040" />
+    </linearGradient>
   </defs>
   <g
      id="g937"
@@ -364,48 +415,31 @@
      stroke-linecap="round"
      stroke-width="2.7444"
      id="rect904"
-     style="fill:#56b366;fill-opacity:1;stroke:none;stroke-width:2.744;stroke-miterlimit:4;stroke-dasharray:none" />
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.744;stroke-miterlimit:4;stroke-dasharray:none" />
   <g
-     id="g4669"
-     transform="matrix(0.16432721,0,0,0.16432721,43.621154,20.205828)">
-    <circle
-       style="fill:#ffffff;fill-opacity:1"
-       id="path921"
-       cx="-153.32043"
-       cy="31.605984"
-       r="28.303036" />
-    <circle
-       style="fill:#ffffff;fill-opacity:1"
-       id="path921-3"
-       cx="11.881237"
-       cy="-21.369749"
-       r="28.303036" />
-    <circle
-       style="fill:#ffffff;fill-opacity:1"
-       id="path921-3-6"
-       cx="-41.366909"
-       cy="164.91472"
-       r="28.303036" />
-    <path
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="M -36.656597,145.42562 5.3462098,0.6990131"
-       id="path1116"
-       inkscape:connector-type="polyline"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="M -47.205549,164.21548 -139.98286,45.461967"
-       id="path1116-5"
-       inkscape:connector-type="polyline"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="M -139.7114,29.184626 3.7386929,-16.990007"
-       id="path1116-7"
-       inkscape:connector-type="polyline"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+     id="g1339"
+     transform="matrix(1.094526,0,0,1.094526,10.387486,14.750531)">
+    <g
+       id="g1333">
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="m 16.5093,29.007 c 1.2511,2.2668 4.4639,2.3896 5.8843,0.2248 L 35.6381,9.0469 C 37.0427,6.90636 35.6989,4.03648 33.1554,3.74481 L 7.12295,0.759484 C 4.34751,0.441204 2.37137,3.39077 3.72132,5.83672 Z"
+         fill="url(#paint0_linear_6069_288720)"
+         id="path1002"
+         style="fill:url(#paint0_linear_6069_288720)" />
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="m 16.5093,29.007 c 1.2511,2.2668 4.4639,2.3896 5.8843,0.2248 L 35.6381,9.0469 C 37.0427,6.90636 35.6989,4.03648 33.1554,3.74481 L 7.12295,0.759484 C 4.34751,0.441204 2.37137,3.39077 3.72132,5.83672 Z"
+         fill="url(#paint1_linear_6069_288720)"
+         id="path1004"
+         style="fill:url(#paint1_linear_6069_288720)" />
+      <path
+         d="m 18.4306,25.1259 -1.1755,1.767 c -0.4762,0.7159 -1.5419,0.6718 -1.9574,-0.081 l 1.2116,2.1953 c 0.216,0.3914 0.4905,0.7189 0.8042,0.9818 l 10e-5,-2e-4 c 1.503,1.2591 3.9049,1.0339 5.08,-0.7571 L 35.6382,9.04686 C 37.0427,6.90628 35.6989,4.03645 33.1554,3.74481 L 7.12296,0.759415 C 4.34751,0.441187 2.37137,3.39076 3.72132,5.8367 L 3.82408,6.02286 25.9821,8.58679 c 1.4124,0.16343 2.1575,1.75771 1.3769,2.94611 z"
+         fill="url(#paint2_linear_6069_288720)"
+         id="path1006"
+         style="fill:url(#paint2_linear_6069_288720)" />
+    </g>
   </g>
 </svg>
