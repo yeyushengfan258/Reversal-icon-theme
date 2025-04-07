@@ -20,11 +20,11 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
-     inkscape:zoom="6.1875"
-     inkscape:cx="-10.020202"
-     inkscape:cy="13.737374"
-     inkscape:window-width="1920"
-     inkscape:window-height="1051"
+     inkscape:zoom="8.7504464"
+     inkscape:cx="-32.912607"
+     inkscape:cy="23.770216"
+     inkscape:window-width="2560"
+     inkscape:window-height="1411"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -37,7 +37,7 @@
        x2="7.937"
        y1="15.081"
        y2="1.852"
-       gradientTransform="matrix(1.8897 0 0 1.8897 .001 .015)"
+       gradientTransform="matrix(1.8897,0,0,1.8897,46.501,-0.485)"
        gradientUnits="userSpaceOnUse">
       <stop
          stop-color="#8e8d92"
@@ -216,4 +216,9 @@
        d="m 6.536122,-32.11525 h 24.897756 c 6.953322,0 12.551122,5.5978 12.551122,12.551121 V -4.666372 C 43.985,2.286949 38.3872,7.88475 31.433878,7.88475 H 6.536122 C -0.4172,7.88475 -6.015,2.286949 -6.015,-4.666372 v -14.897757 c 0,-6.953321 5.5978,-12.551121 12.551122,-12.551121 z"
        id="rect1065" />
   </g>
+  <path
+     d="m 12.5,14.705882 v 8 l 7,-4 z"
+     fill="#ffffff"
+     stroke-width="0.8"
+     id="path1" />
 </svg>
