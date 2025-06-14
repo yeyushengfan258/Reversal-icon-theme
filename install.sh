@@ -242,58 +242,20 @@ while [[ "$#" -gt 0 ]]; do
       ;;
     -t|--theme)
       shift
-      for theme in "${@}"; do
-        case "${theme}" in
-          default)
-            themes+=("${THEME_VARIANTS[0]}")
-            shift
-            ;;
-          purple)
-            themes+=("${THEME_VARIANTS[1]}")
-            shift
-            ;;
-          pink)
-            themes+=("${THEME_VARIANTS[2]}")
-            shift
-            ;;
-          red)
-            themes+=("${THEME_VARIANTS[3]}")
-            shift
-            ;;
-          orange)
-            themes+=("${THEME_VARIANTS[4]}")
-            shift
-            ;;
-          yellow)
-            themes+=("${THEME_VARIANTS[5]}")
-            shift
-            ;;
-          green)
-            themes+=("${THEME_VARIANTS[6]}")
-            shift
-            ;;
-          grey)
-            themes+=("${THEME_VARIANTS[7]}")
-            shift
-            ;;
-          nord)
-            themes+=("${THEME_VARIANTS[8]}")
-            shift
-            ;;
-          all)
-            themes+=("${THEME_VARIANTS[@]}")
-            shift
-            ;;
+      while [[ "$#" -gt 0 ]]; do
+        case "$1" in
           -*|--*)
             break
             ;;
+          all)
+            themes=("${THEME_VARIANTS[@]}")
+            shift
+            ;;
           *)
-            echo "ERROR: Unrecognized theme variant '$1'."
-            echo "Try '$0 --help' for more information."
-            exit 1
+            themes+=("-$1")
+            shift
             ;;
         esac
-        # echo "Installing '${theme}' folder version..."
       done
       ;;
     -h|--help)
