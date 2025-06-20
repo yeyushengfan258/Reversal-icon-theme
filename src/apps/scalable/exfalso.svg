@@ -5,52 +5,40 @@
    version="1.1"
    id="svg2"
    sodipodi:docname="exfalso.svg"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs2">
     <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter1057"
+       id="filter1057-3"
        x="-0.026999999"
-       width="1.054"
        y="-0.026999999"
-       height="1.054">
+       width="1.054"
+       height="1.054"
+       color-interpolation-filters="sRGB">
       <feGaussianBlur
-         inkscape:collect="always"
          stdDeviation="0.61875"
-         id="feGaussianBlur1059" />
+         id="feGaussianBlur860" />
     </filter>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1051"
-       id="linearGradient1053"
+       id="linearGradient1053-6"
        x1="-127"
-       y1="60"
        x2="-72"
+       y1="60"
        y2="5"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(131.5,-0.50999961)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1051">
+       gradientTransform="translate(206.485,-2.5249996)"
+       gradientUnits="userSpaceOnUse">
       <stop
-         style="stop-color:#8cd750;stop-opacity:1"
+         stop-color="#32d7ff"
          offset="0"
-         id="stop1047" />
+         id="stop863" />
       <stop
-         id="stop989"
-         offset="0.4958486"
-         style="stop-color:#7dcd32;stop-opacity:0.99607843" />
-      <stop
-         style="stop-color:#87d241;stop-opacity:0.99607843"
+         stop-color="#329bff"
          offset="1"
-         id="stop1049" />
+         id="stop865" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
@@ -64,29 +52,41 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="6.15625"
      inkscape:cx="35.411168"
-     inkscape:cy="43.370558"
+     inkscape:cy="43.28934"
      inkscape:window-width="1920"
-     inkscape:window-height="995"
+     inkscape:window-height="1012"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
-  <rect
-     style="opacity:0.3;fill:#141414;fill-opacity:1;stroke-width:2.74436;stroke-linecap:round;filter:url(#filter1057)"
-     id="rect1055"
-     width="55"
-     height="55"
-     x="4.4999995"
-     y="4.4999995"
-     ry="15" />
-  <rect
-     ry="14.999999"
-     y="4.5000019"
-     x="4.5000019"
-     height="54.999996"
-     width="54.999996"
-     id="rect1045"
-     style="fill:url(#linearGradient1053);fill-opacity:1;stroke-width:2.74436;stroke-linecap:round" />
+  <g
+     id="g1"
+     transform="translate(-74.985001,2.0149995)">
+    <rect
+       x="79.485001"
+       y="2.4849999"
+       width="55"
+       height="55"
+       ry="15"
+       fill="#141414"
+       filter="url(#filter1057)"
+       opacity="0.3"
+       stroke-linecap="round"
+       stroke-width="2.7444"
+       id="rect896"
+       style="filter:url(#filter1057-3)" />
+    <rect
+       x="79.485001"
+       y="2.4850004"
+       width="55"
+       height="55"
+       ry="15"
+       fill="url(#linearGradient1053)"
+       stroke-linecap="round"
+       stroke-width="2.7444"
+       id="rect898"
+       style="fill:url(#linearGradient1053-6)" />
+  </g>
   <path
      fill="#f9f9f9"
      fill-rule="evenodd"
