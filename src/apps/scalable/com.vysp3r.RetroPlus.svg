@@ -3,8 +3,8 @@
    width="64"
    height="64"
    version="1.1"
-   id="svg5"
-   sodipodi:docname="dconf-editor.svg"
+   id="svg2"
+   sodipodi:docname="com.vysp3r.RetroPlus.svg"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -12,7 +12,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview5"
+     id="namedview2"
      pagecolor="#505050"
      bordercolor="#eeeeee"
      borderopacity="1"
@@ -20,50 +20,33 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
-     inkscape:zoom="5.9296875"
-     inkscape:cx="34.571805"
-     inkscape:cy="29.596838"
+     inkscape:zoom="4.1929222"
+     inkscape:cx="67.494693"
+     inkscape:cy="19.19902"
      inkscape:window-width="1920"
      inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5" />
+     inkscape:current-layer="svg2" />
   <defs
-     id="defs4">
-    <linearGradient
-       id="b"
-       x1="520"
-       x2="520"
-       y1="286.88"
-       y2="841.29"
-       gradientTransform="matrix(0.13020524,0,0,0.13020524,-34.254279,-38.651789)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0"
-         stop-color="#fff"
-         id="stop1" />
-      <stop
-         offset="1"
-         stop-color="#ffdccc"
-         id="stop2" />
-    </linearGradient>
+     id="defs2">
     <linearGradient
        id="a"
        x1="7.937"
        x2="7.937"
        y1="15.081"
        y2="1.852"
-       gradientTransform="matrix(3.7796,0,0,3.7796,-12.138999,-11.745999)"
+       gradientTransform="scale(3.7796)"
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0"
-         stop-color="#f44348"
-         id="stop3" />
+         stop-color="#f1efeb"
+         id="stop1" />
       <stop
          offset="1"
-         stop-color="#fb915e"
-         id="stop4" />
+         stop-color="#fdfcfc"
+         id="stop2" />
     </linearGradient>
     <filter
        inkscape:collect="always"
@@ -87,20 +70,16 @@
        x2="-72"
        y2="5"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(131.5,-0.50999747)" />
+       gradientTransform="translate(131.5,-0.50999713)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient1051">
       <stop
-         style="stop-color:#ff7d50;stop-opacity:1"
+         style="stop-color:#dee0e2;stop-opacity:1"
          offset="0"
          id="stop1047" />
       <stop
-         id="stop951"
-         offset="0.50594032"
-         style="stop-color:#ff4b5a;stop-opacity:1" />
-      <stop
-         style="stop-color:#ff509b;stop-opacity:1"
+         style="stop-color:#f1f3f5;stop-opacity:0.99607843"
          offset="1"
          id="stop1049" />
     </linearGradient>
@@ -122,9 +101,9 @@
      y="4.5000019"
      ry="14.999999" />
   <path
-     fill="url(#b)"
-     d="M 42.31238,20.253942 27.581796,34.984525 21.687903,29.090632 c -3.929261,-3.927878 -9.82108,1.966015 -5.891818,5.893893 l 8.840839,8.838766 c 1.626756,1.627525 4.265065,1.627525 5.891819,0 L 48.204199,26.14576 c 3.929261,-3.929262 -1.964633,-9.823155 -5.893894,-5.893894 z"
-     id="path5"
-     sodipodi:nodetypes="ccccccccc"
-     style="fill:url(#b);stroke-width:2.07532" />
+     fill="#1a1a1a"
+     d="m19.123 13.998-.93 4.498 4.037.004h8.52c4.118 0 7.5 3.382 7.5 7.5 0 3.822-2.914 7.005-6.625 7.443l1.738 4.258q.017-.004.033-.01l4.44 12.31h4.594l-4.754-14.259c3.053-2.19 5.074-5.758 5.074-9.742 0-6.55-5.45-12-12-12h-8.519zm-1.36 6.498L11.663 50h4.594l4.996-24.201A1 1 0 0 1 22.23 25h8.52a1 1 0 0 1 0 2h-7.705l-4.746 23h4.594l2.789-13.512L31.199 50h4.594l-6.822-18.5h1.779a5.5 5.5 0 0 0 0-11h-8.52zm32.079 9.065-3.051.003-.805 4.4h-4.473l-.552 3h4.476l-.804 4.403 3.05-.002.805-4.4h4.473l.553-3h-4.477z"
+     color="#000"
+     style="-inkscape-stroke:none;paint-order:markers fill stroke"
+     id="path2" />
 </svg>

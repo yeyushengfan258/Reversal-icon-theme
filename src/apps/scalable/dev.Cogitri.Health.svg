@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="dev.Cogitri.Health.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="2.9648438"
+     inkscape:cx="20.911726"
+     inkscape:cy="40.980237"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="a"
+       x1="7.937"
+       x2="7.937"
+       y1="15.081"
+       y2="1.852"
+       gradientTransform="matrix(3.7796,0,0,3.7796,-100.88429,0)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#b81e31"
+         id="stop1" />
+      <stop
+         offset="1"
+         stop-color="#ff5c5c"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       id="c"
+       x1="-177.754"
+       x2="-228.553"
+       y1="691.488"
+       y2="691.488"
+       gradientTransform="matrix(0.36849,0,0,0.36849,1.5327061,-227.013)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#ed333b"
+         id="stop3" />
+      <stop
+         offset="1"
+         stop-color="#ed333b"
+         stop-opacity="0"
+         id="stop4" />
+    </linearGradient>
+    <filter
+       id="b"
+       width="1.2726261"
+       height="1.3190364"
+       x="-0.13631306"
+       y="-0.15951819"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         stdDeviation="2.45"
+         id="feGaussianBlur4" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1057"
+       x="-0.026999999"
+       width="1.054"
+       y="-0.026999999"
+       height="1.054">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.61875"
+         id="feGaussianBlur1059" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1051"
+       id="linearGradient1053"
+       x1="-127"
+       y1="60"
+       x2="-72"
+       y2="5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(131.5,-0.50999923)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1051">
+      <stop
+         style="stop-color:#dee0e2;stop-opacity:1"
+         offset="0"
+         id="stop1047" />
+      <stop
+         style="stop-color:#f1f3f5;stop-opacity:0.99607843"
+         offset="1"
+         id="stop1049" />
+    </linearGradient>
+  </defs>
+  <rect
+     style="opacity:0.3;fill:#141414;fill-opacity:1;stroke-width:2.74436;stroke-linecap:round;filter:url(#filter1057)"
+     id="rect1055"
+     width="55"
+     height="55"
+     x="4.4999995"
+     y="4.4999995"
+     ry="15" />
+  <rect
+     ry="14.999999"
+     y="4.5000019"
+     x="4.5000019"
+     height="54.999996"
+     width="54.999996"
+     id="rect1045"
+     style="fill:url(#linearGradient1053);fill-opacity:1;stroke-width:2.74436;stroke-linecap:round" />
+  <g
+     id="g8"
+     transform="translate(100.77129)">
+    <path
+       fill="#f6f5f4"
+       d="m -77.992294,14.57 c -6.837,0.061 -12.347,5.622 -12.347,12.459 0,2.966 0.791,5.855 2.768,7.83 l 18.8,16.57 18.446,-16.15 c 2.032,-2.033 3.122,-5.086 3.122,-8.25 0,-6.882 -5.578,-12.46 -12.46,-12.46 a 12.46,12.46 0 0 0 -9.108,3.959 12.46,12.46 0 0 0 -9.109,-3.959 z m 0,0"
+       style="stroke-width:0.368487;fill:#ed333b;fill-opacity:1"
+       id="path7" />
+    <path
+       fill="none"
+       stroke="url(#c)"
+       stroke-linecap="round"
+       stroke-miterlimit="10"
+       stroke-width="1.474"
+       d="m -82.518294,33.188 h 9.58 l 3.686,-8.475 2.21,14.37 2.949,-5.895 h 2.209"
+       style="stroke:#f6f5f4;stroke-opacity:1"
+       id="path8" />
+  </g>
+</svg>
