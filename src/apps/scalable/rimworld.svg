@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1" viewBox="0 0 64 64">
+ <defs>
+  <filter id="tile-shadow" x="-.05" y="-.05" width="1.1" height="1.1" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation=".61875"/>
+  </filter>
+  <filter id="mark-shadow" x="-.12" y="-.12" width="1.24" height="1.3" color-interpolation-filters="sRGB">
+   <feGaussianBlur in="SourceAlpha" stdDeviation="1.15" result="blur"/>
+   <feOffset in="blur" dy="1.4" result="offset"/>
+   <feFlood flood-color="#101521" flood-opacity=".58" result="shadow-color"/>
+   <feComposite in="shadow-color" in2="offset" operator="in" result="shadow"/>
+   <feMerge>
+    <feMergeNode in="shadow"/>
+    <feMergeNode in="SourceGraphic"/>
+   </feMerge>
+  </filter>
+  <linearGradient id="tile-fill" x1="8" x2="56" y1="58" y2="6" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#323741" offset="0"/>
+   <stop stop-color="#465064" offset="1"/>
+  </linearGradient>
+  <linearGradient id="mark-fill" x1="32" x2="32" y1="51" y2="13" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d8d8d8" offset="0"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#tile-shadow)" opacity=".3"/>
+ <rect x="4.5" y="4.5" width="55" height="55" ry="15" fill="url(#tile-fill)"/>
+ <g filter="url(#mark-shadow)">
+  <circle cx="32" cy="32" r="20.5" fill="none" stroke="url(#mark-fill)" stroke-width="5.5"/>
+  <path transform="translate(8 8) scale(.75)" d="M31.949 12A3 3 0 0 0 29 15a3 3 0 0 0 1.654 2.682l-3.846 7.656-8.882 2.002A3 3 0 0 0 15 25a3 3 0 1 0 2.346 4.869l6.253 4.988-1.173 8.172A3 3 0 1 0 24.654 44.6L32 40.736l7.344 3.865A3 3 0 1 0 41.574 43.03L40.4 34.857l6.254-4.988A3 3 0 1 0 46.074 27.34l-8.883-2.002-3.845-7.658A3 3 0 0 0 31.949 12Z" fill="url(#mark-fill)"/>
+ </g>
+</svg>
