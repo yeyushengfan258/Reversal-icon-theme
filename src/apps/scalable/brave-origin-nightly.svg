@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 64 64"
+   id="svg44"
+   sodipodi:docname="brave-origin (otra copia).svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview46"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="10.046875"
+     inkscape:cx="10.401244"
+     inkscape:cy="32.597201"
+     inkscape:window-width="1536"
+     inkscape:window-height="828"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg44" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1540">
+      <stop
+         style="stop-color:#9600b5;stop-opacity:1;"
+         offset="0"
+         id="stop1536" />
+      <stop
+         style="stop-color:#330938;stop-opacity:1;"
+         offset="1"
+         id="stop1538" />
+    </linearGradient>
+    <style
+       type="text/css"
+       id="style4" />
+    <filter
+       id="filter2076"
+       x="-0.048000001"
+       y="-0.048000001"
+       width="1.096"
+       height="1.096"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.1"
+         id="feGaussianBlur6" />
+    </filter>
+    <linearGradient
+       id="linearGradient2070"
+       x1="145"
+       x2="200"
+       y1="59"
+       y2="4"
+       gradientTransform="translate(-140.5 .5)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#ffc841"
+         offset="0"
+         id="stop9" />
+      <stop
+         stop-color="#ffbe37"
+         offset=".4925"
+         id="stop11" />
+      <stop
+         stop-color="#ffc841"
+         offset="1"
+         id="stop13" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1540"
+       id="linearGradient1571"
+       x1="32.696827"
+       y1="4.9628024"
+       x2="32.722424"
+       y2="53.077812"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <rect
+     x="4.5"
+     y="4.5"
+     width="55"
+     height="55"
+     rx="13.002"
+     ry="13.002"
+     filter="url(#filter2076)"
+     opacity=".3"
+     id="rect18" />
+  <rect
+     x="4.5"
+     y="4.5"
+     width="55"
+     height="55"
+     rx="13.002"
+     ry="13.002"
+     fill="url(#linearGradient2070)"
+     id="rect20"
+     style="fill:url(#linearGradient1571);fill-opacity:1" />
+  <circle
+     cx="-1266.3"
+     cy="-1269.2"
+     r="0"
+     fill="#5e4aa6"
+     id="circle22" />
+  <circle
+     cx="-166.78"
+     cy="-3.6702"
+     r="0"
+     fill="#5e4aa6"
+     fill-rule="evenodd"
+     id="circle24" />
+  <g
+     transform="matrix(1.3273456,0,0,1.3076166,-102.66092,-8.8718036)"
+     stroke-width="0.9524"
+     id="g30">
+    <path
+       d="m 101.55766,16.331644 c -0.77917,0 -1.55517,0.290852 -2.346921,0.864025 -2.346915,1.700822 -5.476203,-0.850473 -6.258384,-0.850473 -0.782331,0 -5.476208,6.196378 -5.476208,8.504725 0,1.700822 5.867297,5.612939 5.867297,6.803493 0,0.850473 -1.173459,1.258728 -1.173459,3.063338 0,1.188922 1.564551,3.315002 3.129289,3.315002 1.56455,0 5.479216,-3.338882 5.476206,-4.165514 v -0.511962 c 0,-1.020534 -3.520377,-2.306407 -3.520377,-4.252158 0,-1.700822 1.173464,-2.330288 1.173464,-4.252158 0,-1.653266 -3.129293,-2.126182 -5.476212,-2.551335 -0.782331,0 2.346919,-2.798 6.649655,0.226211 1.08898,0.765401 -1.173443,3.791284 -0.782328,6.577343 0.586729,0.595319 1.663228,0.892927 2.738018,0.892927 1.07638,0 2.15138,-0.297649 2.73801,-0.892927 0.39115,-2.786059 -1.87134,-5.811942 -0.78233,-6.577343 4.30276,-3.024252 7.43185,-0.226211 6.64968,-0.226211 -2.34692,0.425215 -5.47622,0.898069 -5.47622,2.551335 0,1.922074 1.17346,2.551336 1.17346,4.252158 0,1.945751 -3.52038,3.231624 -3.52038,4.252158 v 0.511962 c -0.003,0.826632 3.91147,4.165514 5.47622,4.165514 1.56473,0 3.12927,-2.126181 3.12927,-3.315002 0,-1.802876 -1.17346,-2.212824 -1.17346,-3.063338 0,-1.190554 5.86731,-5.102671 5.86731,-6.803493 0,-2.308142 -4.69385,-8.504725 -5.4762,-8.504725 -0.78238,0 -3.91147,2.551336 -6.25839,0.850473 -0.79172,-0.573193 -1.56454,-0.864025 -2.34693,-0.864025 z m 0,20.253523 c -1.56455,0 -5.084926,2.636448 -5.084926,3.146715 0,0.510267 3.520376,4.677517 5.084926,4.677517 1.56456,0 5.08494,-4.16725 5.08494,-4.677517 0,-0.510267 -3.52038,-3.146715 -5.08494,-3.146715 z"
+       fill="#f9f9f9"
+       id="path28"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.932207" />
+  </g>
+  <circle
+     cx="-78.227"
+     cy="4.7821"
+     r="0"
+     fill="url(#a)"
+     stroke-width="1.501"
+     id="circle32" />
+  <circle
+     cx="-1425.6"
+     cy="-1280.9"
+     r="0"
+     fill="#5e4aa6"
+     id="circle34" />
+  <g
+     transform="translate(-176.87 -39.286)"
+     fill="#5e4aa6"
+     id="g42">
+    <circle
+       cx="-149.15"
+       cy="23.855"
+       r="0"
+       fill-rule="evenodd"
+       id="circle36" />
+    <circle
+       cx="-1150.9"
+       cy="-1256.6"
+       r="0"
+       id="circle38" />
+    <circle
+       cx="-51.327"
+       cy="8.8744"
+       r="0"
+       fill-rule="evenodd"
+       id="circle40" />
+  </g>
+</svg>
