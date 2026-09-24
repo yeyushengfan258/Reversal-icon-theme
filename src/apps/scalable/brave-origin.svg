@@ -26,14 +26,14 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="10.046875"
-     inkscape:cx="12.59098"
-     inkscape:cy="32.398134"
+     inkscape:cx="11.496112"
+     inkscape:cy="32.497667"
      inkscape:window-width="1536"
      inkscape:window-height="828"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g30" />
+     inkscape:current-layer="svg44" />
   <metadata
      id="metadata2">
     <rdf:RDF>
@@ -52,11 +52,11 @@
        inkscape:collect="always"
        id="linearGradient1540">
       <stop
-         style="stop-color:#474747;stop-opacity:1;"
+         style="stop-color:#444a6e;stop-opacity:1;"
          offset="0"
          id="stop1536" />
       <stop
-         style="stop-color:#1c1c1c;stop-opacity:1;"
+         style="stop-color:#02030f;stop-opacity:1;"
          offset="1"
          id="stop1538" />
     </linearGradient>
@@ -139,7 +139,7 @@
      fill-rule="evenodd"
      id="circle24" />
   <g
-     transform="matrix(1.2322175,0,0,1.1400152,-93.051998,-6.1345973)"
+     transform="matrix(1.3273456,0,0,1.3076166,-102.66092,-8.8718036)"
      stroke-width="0.9524"
      id="g30">
     <path

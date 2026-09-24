@@ -5,7 +5,7 @@
    version="1.1"
    viewBox="0 0 64 64"
    id="svg44"
-   sodipodi:docname="brave-origin (copia).svg"
+   sodipodi:docname="brave-origin (otra copia).svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,8 +26,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="10.046875"
-     inkscape:cx="11.496112"
-     inkscape:cy="32.497667"
+     inkscape:cx="10.401244"
+     inkscape:cy="32.597201"
      inkscape:window-width="1536"
      inkscape:window-height="828"
      inkscape:window-x="0"
@@ -52,11 +52,11 @@
        inkscape:collect="always"
        id="linearGradient1540">
       <stop
-         style="stop-color:#a80093;stop-opacity:1;"
+         style="stop-color:#9600b5;stop-opacity:1;"
          offset="0"
          id="stop1536" />
       <stop
-         style="stop-color:#42002f;stop-opacity:1;"
+         style="stop-color:#330938;stop-opacity:1;"
          offset="1"
          id="stop1538" />
     </linearGradient>
@@ -139,7 +139,7 @@
      fill-rule="evenodd"
      id="circle24" />
   <g
-     transform="matrix(1.2322175,0,0,1.1400152,-92.892364,-5.2347261)"
+     transform="matrix(1.3273456,0,0,1.3076166,-102.66092,-8.8718036)"
      stroke-width="0.9524"
      id="g30">
     <path
