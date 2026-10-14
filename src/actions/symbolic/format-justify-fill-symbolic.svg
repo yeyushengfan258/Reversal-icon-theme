@@ -1,10 +1,10 @@
-<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <g color='#363636' transform='translate(-633 -77)'>
-        <rect fill='#363636' height='1' overflow='visible' style='marker:none' width='14' x='634' y='78'/>
-        <rect fill='#363636' height='1' overflow='visible' style='marker:none' width='14' x='634' y='81'/>
-        <rect fill='#363636' height='1' overflow='visible' style='marker:none' width='14' x='634' y='87'/>
-        <rect fill='#363636' height='1' overflow='visible' style='marker:none' width='14' x='634' y='90'/>
-        <rect fill='#363636' height='1' overflow='visible' style='marker:none' width='14' x='634' y='84'/>
-        
-    </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g fill="#363636">
+  <rect x="1" y="1" width="14" height="1" color="#363636" overflow="visible"/>
+  <rect x="1" y="4" width="14" height="1" color="#363636" overflow="visible"/>
+  <rect x="1" y="10" width="14" height="1" color="#363636" overflow="visible"/>
+  <rect x="1" y="13" width="14" height="1" color="#363636" overflow="visible"/>
+  <rect x="1" y="7" width="14" height="1" color="#363636" overflow="visible"/>
+ </g>
 </svg>
